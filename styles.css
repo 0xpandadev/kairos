@@ -939,6 +939,13 @@ h3 {
   text-align: center;
 }
 
+.deploy-marker {
+  color: #8a7350;
+  display: block;
+  font-size: 11px;
+  margin-top: 8px;
+}
+
 @media (max-width: 900px) {
   .hero,
   .cockpit-grid,
