@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>KAIROS | The moment before consensus</title>
+    <meta
+      name="description"
+      content="KAIROS is a future-ledger dashboard for capital signals, market narratives, and moments before consensus."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Primary">
+        <a class="brand" href="#top" aria-label="KAIROS home">
+          <span class="brand-mark">K</span>
+          <span>
+            <strong>KAIROS</strong>
+            <small>by 0xPanda Alpha Lab</small>
+          </span>
+        </a>
+        <div class="nav-actions">
+          <div class="nav-links">
+            <a href="#facts" data-i18n="nav.facts">Facts</a>
+            <a href="#watch" data-i18n="nav.watch">Watch</a>
+            <a href="#moments" data-i18n="nav.moments">Moments</a>
+            <a href="#ledger" data-i18n="nav.ledger">Future Ledger</a>
+            <a href="#transmission" data-i18n="nav.transmission">Transmission</a>
+            <a href="#sources" data-i18n="nav.sources">Sources</a>
+            <a href="#archive" data-i18n="nav.archive">Archive</a>
+          </div>
+          <div class="language-toggle" role="group" aria-label="Language">
+            <button class="lang-button is-active" type="button" data-lang="ja">日本語</button>
+            <button class="lang-button" type="button" data-lang="zh">中文</button>
+            <button class="lang-button" type="button" data-lang="en">EN</button>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow" data-i18n="hero.eyebrow">The moment before consensus</p>
+          <h1 data-i18n="hero.title">未来があとから証明する、現在の分岐点を記録する。</h1>
+          <p class="hero-text" data-i18n="hero.text">
+            KAIROSは、世界のファクト、資本の流れ、投資家の発信、市場ナラティブをつなぎ、
+            数カ月後に「なぜあの時点で見えていたのか」とわかるシグナルを残す俯瞰型ダッシュボードです。
+          </p>
+          <p class="hero-text secondary" data-i18n="hero.secondary">
+            ただ流れる時間ではなく、普通のニュースの中に隠れた、歴史が向きを変える一瞬を見る。
+            KAIROSは、その一瞬をコンセンサスになる前にファクトと資本の形で捉えます。
+          </p>
+        </div>
+        <div class="hero-panel" aria-label="Weekly summary">
+          <span class="panel-label" data-i18n="hero.thisWeek">This Week</span>
+          <strong id="heroTheme">Loading signals...</strong>
+          <p id="heroVerdict">Reading capital moments before they become consensus.</p>
+          <div class="mini-metrics">
+            <span><b id="momentCount">0</b> <span data-i18n="metric.moments">Moments</span></span>
+            <span><b id="avgScore">0</b> <span data-i18n="metric.avgScore">Avg Score</span></span>
+            <span><b>3M</b> <span data-i18n="metric.review">Review</span></span>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="cockpit">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="cockpit.eyebrow">Oracle Cockpit</p>
+          <h2 data-i18n="cockpit.title">今見るべき Kairos Moments</h2>
+          <p data-i18n="cockpit.text">毎週変わるテーマを、同じ分析フォーマットで比較します。</p>
+        </div>
+        <div class="cockpit-grid">
+          <article class="insight-card">
+            <span class="card-kicker" data-i18n="cockpit.strongest">Strongest Signal</span>
+            <h3 id="topSignalTitle">-</h3>
+            <p id="topSignalText">-</p>
+          </article>
+          <article class="insight-card">
+            <span class="card-kicker" data-i18n="cockpit.gap">Consensus Gap</span>
+            <h3 id="gapTitle">-</h3>
+            <p id="gapText">-</p>
+          </article>
+          <article class="insight-card">
+            <span class="card-kicker" data-i18n="cockpit.nextReview">Next Review</span>
+            <h3 data-i18n="cockpit.futureReceipt">Future Receipt</h3>
+            <p data-i18n="cockpit.futureText">各Momentを1カ月・3カ月・6カ月後に検証し、Then vs Nowでログ化します。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="facts">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow" data-i18n="facts.eyebrow">Raw Fact Tracker</p>
+            <h2 data-i18n="facts.title">分析の手前にある事実ベース</h2>
+            <p data-i18n="facts.text">
+              Kairos Momentの根拠になるURL、発信、ファイリング、売買ファイル、決算、数字を分層して表示します。
+            </p>
+          </div>
+          <span class="source-note" data-i18n="facts.note">Fact -> Inference -> View</span>
+        </div>
+        <div class="fact-table-wrap">
+          <table class="fact-table">
+            <thead>
+              <tr>
+                <th data-i18n="table.date">Date</th>
+                <th data-i18n="table.source">Source</th>
+                <th data-i18n="table.type">Type</th>
+                <th data-i18n="table.fact">Fact</th>
+                <th data-i18n="table.url">URL</th>
+              </tr>
+            </thead>
+            <tbody id="factTable"></tbody>
+          </table>
+        </div>
+        <div class="capital-action-schema">
+          <h3 data-i18n="capital.title">Capital Action Tape</h3>
+          <p data-i18n="capital.text">
+            ファンドからテーマ、テーマから銘柄へ、資本がどこに流れているかを見ます。テーマをクリックすると詳細行を展開します。
+          </p>
+          <div class="action-summary" id="capitalActionSummary"></div>
+        </div>
+        <div class="capital-flow-board">
+          <div class="flow-columns" id="capitalFlowBoard"></div>
+          <aside class="flow-detail" id="capitalFlowDetail" aria-live="polite"></aside>
+        </div>
+      </section>
+
+      <section class="section" id="watch">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="watch.eyebrow">Watch Universe</p>
+          <h2 data-i18n="watch.title">資本シグナルを探す観測ユニバース</h2>
+          <p data-i18n="watch.text">
+            日次売買、13F、投資家レター、VC発信、Wall Streetレポート、決算、政策を別々の周期で追い、Factとして蓄積します。
+          </p>
+        </div>
+        <div class="watch-grid" id="watchGrid"></div>
+      </section>
+
+      <section class="section" id="moments">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow" data-i18n="moments.eyebrow">Moments</p>
+            <h2 data-i18n="moments.title">Kairos Moment Cards</h2>
+            <p data-i18n="moments.text">テーマ名は固定ではありません。日次・週次のシグナルに応じて入れ替わります。</p>
+          </div>
+          <div class="filters" role="group" aria-label="Moment filters">
+            <button class="filter is-active" data-filter="all" data-i18n="filter.all">All</button>
+            <button class="filter" data-filter="infra" data-i18n="filter.infra">Infra</button>
+            <button class="filter" data-filter="distribution" data-i18n="filter.distribution">Distribution</button>
+            <button class="filter" data-filter="finance" data-i18n="filter.finance">Finance</button>
+            <button class="filter" data-filter="services" data-i18n="filter.services">Services</button>
+            <button class="filter" data-filter="fund-flow" data-i18n="filter.fundFlow">Fund Flow</button>
+            <button class="filter" data-filter="consumer" data-i18n="filter.consumer">Consumer</button>
+            <button class="filter" data-filter="defense" data-i18n="filter.defense">Defense</button>
+          </div>
+        </div>
+        <div class="moment-grid" id="momentGrid"></div>
+      </section>
+
+      <section class="section split" id="ledger">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="ledger.eyebrow">Future Ledger</p>
+          <h2 data-i18n="ledger.title">未来から検証するための台帳</h2>
+          <p data-i18n="ledger.text">
+            KAIROSは予言ではなく、検証可能な観測ログです。Momentを固定し、あとからReality Checkで見返します。
+          </p>
+        </div>
+        <div class="ledger-list" id="ledgerList"></div>
+      </section>
+
+      <section class="section" id="transmission">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="transmission.eyebrow">Transmission Map</p>
+          <h2 data-i18n="transmission.title">資本シグナルが市場へ伝播する地図</h2>
+          <p data-i18n="transmission.text">各Momentをバリューチェーンで分解し、ボリューム感とホワイトスペースを同時に見ます。</p>
+        </div>
+        <div class="transmission-board" id="transmissionBoard"></div>
+      </section>
+
+      <section class="section" id="sources">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="sources.eyebrow">Source Library</p>
+          <h2 data-i18n="sources.title">観測するソース</h2>
+          <p data-i18n="sources.text">常時ウォッチとテーマ別ウォッチを分け、ノイズを減らします。</p>
+        </div>
+        <div class="source-grid">
+          <article>
+            <h3 data-i18n="sources.thought">Thought Leaders</h3>
+            <p>a16z, Sequoia, YC, Founders Fund, Leopold/Situational Awareness</p>
+          </article>
+          <article>
+            <h3 data-i18n="sources.capital">Capital Actions</h3>
+            <p>ARK trades, Berkshire 13F, SALP 13F, VC funding, M&amp;A, CapEx</p>
+          </article>
+          <article>
+            <h3 data-i18n="sources.market">Market Translation</h3>
+            <p>Goldman, Morgan Stanley, Citrini, earnings, guidance, sector reaction</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section compact-archive" id="archive">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow" data-i18n="archive.eyebrow">Archive</p>
+            <h2 data-i18n="archive.title">週次レポートと月次サマリー</h2>
+            <p data-i18n="archive.text">毎週の判断を固定し、月次で点と面をつなぎ直します。</p>
+          </div>
+          <span class="source-note" data-i18n="archive.note">Weekly -> Monthly -> Reality Check</span>
+        </div>
+        <div class="archive-layout">
+          <aside class="archive-sidebar" aria-label="Weekly archive">
+            <h3 data-i18n="archive.weekly">Weekly Briefs</h3>
+            <div class="archive-list" id="archiveList"></div>
+          </aside>
+          <article class="archive-report" id="archiveReport" aria-live="polite"></article>
+        </div>
+        <div class="monthly-strip" id="monthlyStrip"></div>
+      </section>
+    </main>
+
+    <dialog id="momentDialog" class="moment-dialog">
+      <button class="close-button" aria-label="Close dialog">×</button>
+      <div id="dialogContent"></div>
+    </dialog>
+
+    <footer class="footer">
+      <p data-i18n="footer.text">KAIROS is a research dashboard, not investment advice. Built for observation, synthesis, and future review.</p>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

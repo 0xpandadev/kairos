@@ -1,0 +1,340 @@
+{
+  "updatedAt": "2026-04-23",
+  "product": "KAIROS",
+  "tagline": "The moment before consensus.",
+  "watchUniverse": [
+    {
+      "name": "ARK Daily Trades",
+      "cadence": "Daily",
+      "category": "Capital Action",
+      "url": "https://www.ark-funds.com/ark-trade-notifications",
+      "extract": ["new buys, adds, trims, exits", "fund, ticker, direction, shares, market value, ETF weight"]
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "cadence": "Quarterly / Annual",
+      "category": "Capital Allocation",
+      "url": "https://www.sec.gov/edgar/browse/?CIK=1067983",
+      "extract": ["13F position changes", "new positions, full exits, concentration changes", "shareholder letters"]
+    },
+    {
+      "name": "Superinvestor 13F Set",
+      "cadence": "Quarterly",
+      "category": "Fund Actions",
+      "url": "https://www.sec.gov/edgar/search/",
+      "extract": ["Druckenmiller, Appaloosa, Pershing, Baupost, Tiger, Coatue", "position deltas and crowded emerging themes"]
+    },
+    {
+      "name": "Situational Awareness LP",
+      "cadence": "Quarterly / Irregular",
+      "category": "Frontier AI Capital",
+      "url": "https://situationalawarenesslp.com/about",
+      "extract": ["AI timeline thesis", "compute, power, data center, optical, and AI infrastructure exposure"]
+    },
+    {
+      "name": "VC Thought Layer",
+      "cadence": "Weekly",
+      "category": "Narrative Origin",
+      "url": "https://www.ycombinator.com/rfs",
+      "extract": ["a16z, Sequoia, YC, Founders Fund", "category language and startup requests"]
+    },
+    {
+      "name": "Wall Street Theme Notes",
+      "cadence": "Weekly / Event-driven",
+      "category": "Market Translation",
+      "url": "https://www.morganstanley.com/insights/articles/ai-market-trends-institute-2026",
+      "extract": ["capex revisions", "sector rotations", "macro framing"]
+    },
+    {
+      "name": "Independent Alpha Research",
+      "cadence": "Event-driven",
+      "category": "Non-consensus Radar",
+      "url": "https://www.citriniresearch.com/",
+      "extract": ["contrarian scenarios", "market psychology", "early language"]
+    },
+    {
+      "name": "Company Reality Check",
+      "cadence": "Earnings Season",
+      "category": "Fundamental Data",
+      "url": "https://www.sec.gov/edgar/search/",
+      "extract": ["earnings, guidance, backlog, capex, margins", "whether company data confirms the narrative"]
+    },
+    {
+      "name": "Policy and Budget Signals",
+      "cadence": "Event-driven",
+      "category": "State Capital",
+      "url": "https://www.congress.gov/",
+      "extract": ["defense, energy, chips, nuclear, critical minerals, stablecoin regulation", "government budget as capital flow"]
+    }
+  ],
+  "capitalActions": [
+    {
+      "date": "2026-04-10",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "PLTR",
+      "action": "Buy",
+      "sizeValue": "$5.9M",
+      "weightChange": "0.10% ETF / 3.26% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-10",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "PLTR",
+      "action": "Buy",
+      "sizeValue": "$1.5M",
+      "weightChange": "0.10% ETF / 3.56% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw-trades-of-pltr",
+      "note": "Shows ARKW adding PLTR on the same date as ARKK."
+    },
+    {
+      "date": "2026-04-10",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$5.9M",
+      "weightChange": "0.10% ETF / 2.12% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      "note": "ARKK trim row from secondary tracker."
+    },
+    {
+      "date": "2026-04-09",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "WGS",
+      "action": "Buy",
+      "sizeValue": "$1.1M",
+      "weightChange": "0.02% ETF / 2.26% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      "note": "Potential build pattern because WGS also appears on Apr 8 and Apr 7."
+    },
+    {
+      "date": "2026-04-09",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BWXT",
+      "action": "Sell",
+      "sizeValue": "$617.7K",
+      "weightChange": "0.01% ETF / 0.86% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      "note": "Nuclear/defense-adjacent trim; watch whether this is noise or repeated."
+    },
+    {
+      "date": "2026-04-07",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "HOOD",
+      "action": "Buy",
+      "sizeValue": "$9.0M",
+      "weightChange": "0.15% ETF / 3.61% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      "note": "Retail trading and crypto-finance exposure add."
+    },
+    {
+      "date": "2026-04-07",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TSLA",
+      "action": "Buy",
+      "sizeValue": "$1.8M",
+      "weightChange": "0.03% ETF / 0.30% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      "note": "Autonomy and robotics exposure add."
+    },
+    {
+      "date": "2025-12-31",
+      "manager": "Berkshire Hathaway",
+      "vehicle": "13F",
+      "ticker": "NYT",
+      "action": "New",
+      "sizeValue": "5.07M shares",
+      "weightChange": "new position",
+      "source": "TrustFinance / 13F",
+      "sourceType": "secondary 13F summary",
+      "url": "https://www.trustfinance.com/blog/berkshire-hathaway-13f-q4-2025-nyt-stake-trims-tech",
+      "note": "Berkshire initiated a New York Times position in Q4 2025 per 13F summaries."
+    },
+    {
+      "date": "2025-12-31",
+      "manager": "Berkshire Hathaway",
+      "vehicle": "13F",
+      "ticker": "CVX",
+      "action": "Add",
+      "sizeValue": "130.16M shares",
+      "weightChange": "increased",
+      "source": "MarketWatch / 13F",
+      "sourceType": "secondary 13F summary",
+      "url": "https://www.marketwatch.com/story/berkshire-returns-to-the-newspaper-business-takes-bigger-bite-of-dominos-pizza-5c4dc5d8",
+      "note": "Berkshire increased Chevron in Q4 2025."
+    },
+    {
+      "date": "2025-12-31",
+      "manager": "Berkshire Hathaway",
+      "vehicle": "13F",
+      "ticker": "AAPL",
+      "action": "Trim",
+      "sizeValue": "227.92M shares remaining",
+      "weightChange": "reduced",
+      "source": "TrustFinance / 13F",
+      "sourceType": "secondary 13F summary",
+      "url": "https://www.trustfinance.com/blog/berkshire-hathaway-13f-q4-2025-nyt-stake-trims-tech",
+      "note": "Berkshire trimmed Apple in Q4 2025."
+    }
+  ],
+  "moments": [
+    {
+      "id": "compute-to-power-bottleneck",
+      "title": "Compute to Power Bottleneck",
+      "category": "infra",
+      "score": 88,
+      "review": "3M",
+      "oracleView": "AIの主戦場はモデル性能から、電力・冷却・送電・立地という物理制約へ移り始めている。",
+      "valueChain": ["Compute: NVDA, AMD, AVGO, TSM, ASML", "Data center buildout: EQIX, DLR, CORZ, IREN, APLD", "Power/cooling/grid: VRT, ETN, GEV, CEG, BE, SMR", "Materials/industrial: CAT, NUE, FCX, MP"],
+      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "VRT", "ETN", "GEV", "CEG", "BE", "SMR", "CORZ", "IREN", "APLD"],
+      "evidence": [
+        {
+          "date": "2026-04-23",
+          "source": "ARK Trade Notifications",
+          "type": "official process",
+          "url": "https://www.ark-funds.com/ark-trade-notifications",
+          "fact": "ARK says it posts portfolio holdings files daily and sends trade information for actively managed ETFs, with exclusions and reconciliation caveats."
+        },
+        {
+          "date": "2026-04-23",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "Daily ARK trade rows should be imported from the latest trade file with fund, ticker, direction, shares, and notes as raw facts."
+        }
+      ]
+    },
+    {
+      "id": "agent-led-growth",
+      "title": "Agent-led Growth",
+      "category": "distribution",
+      "score": 82,
+      "review": "1M",
+      "oracleView": "AIエージェントが比較・選定・購買の前段を担うと、ブランド発見のルールが変わる。",
+      "valueChain": ["Model/interface: MSFT, GOOGL, META, AAPL", "Enterprise system of record: CRM, NOW, HUBS, ADBE", "Discovery/commerce surfaces: SHOP, AMZN, RDFN, ABNB", "Measurement layer: AEO and brand visibility startups"],
+      "watchlist": ["MSFT", "GOOGL", "META", "AAPL", "CRM", "NOW", "HUBS", "ADBE", "SHOP", "AMZN", "RDFN"],
+      "evidence": [
+        {
+          "date": "2026-04-23",
+          "source": "Sequoia Training Data",
+          "type": "thought source",
+          "url": "https://sequoiacap.com/podcast/from-seo-to-agent-led-growth-profounds-james-cadwallader/",
+          "fact": "Sequoia published a Training Data episode framing the move from SEO toward agent-led growth."
+        }
+      ]
+    },
+    {
+      "id": "stablecoin-rails",
+      "title": "Stablecoin Financial Rails",
+      "category": "finance",
+      "score": 79,
+      "review": "6M",
+      "oracleView": "Stablecoinは投機商品ではなく、国境を越えるドル決済・企業財務・新興国金融の基盤として再評価され始めている。",
+      "valueChain": ["Issuer/exchange: COIN, HOOD", "Payment and merchant rails: SQ, PYPL, V, MA", "Treasury/custody infrastructure: banks, custodians, tokenization platforms", "Risk side: compliance, reserves, regulation"],
+      "watchlist": ["COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
+      "evidence": [
+        {
+          "date": "2026-04-23",
+          "source": "Y Combinator RFS",
+          "type": "official thesis",
+          "url": "https://www.ycombinator.com/rfs",
+          "fact": "YC's Spring 2026 Requests for Startups includes stablecoin financial services and AI-native hedge funds among requested startup directions."
+        },
+        {
+          "date": "2026-04-23",
+          "source": "a16z Prediction Markets",
+          "type": "thought source",
+          "url": "https://a16z.com/prediction-markets-they-grow-up-so-fast/",
+          "fact": "a16z framed prediction markets as an emerging information and price-discovery layer."
+        }
+      ]
+    },
+    {
+      "id": "defense-autonomy",
+      "title": "Defense Autonomy",
+      "category": "defense",
+      "score": 77,
+      "review": "6M",
+      "oracleView": "地政学、ドローン戦、低コスト自律システム、調達改革が重なることで、防衛はソフトウェア/ロボティクス市場になり始めている。",
+      "valueChain": ["Prime contractors: LMT, RTX, NOC, GD", "Autonomy/software: PLTR, KTOS, AVAV", "Sensors/components: LHX, TDY, BWXT", "Second-order: shipbuilding, energy, secure communications"],
+      "watchlist": ["PLTR", "AVAV", "KTOS", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
+      "evidence": [
+        {
+          "date": "2026-04-23",
+          "source": "a16z Ulysses",
+          "type": "investment announcement",
+          "url": "https://a16z.com/announcement/investing-in-ulysses/",
+          "fact": "a16z announced an investment in Ulysses, a company building autonomous underwater systems."
+        }
+      ]
+    },
+    {
+      "id": "ai-native-services",
+      "title": "AI-native Services",
+      "category": "services",
+      "score": 84,
+      "review": "3M",
+      "oracleView": "AIの本当の市場はソフトウェア予算ではなく、人件費、外注費、BPO、導入支援費を直接取りに行くサービスの置換にある。",
+      "valueChain": ["Incumbent SaaS: NOW, CRM, MSFT, ADBE", "Human service incumbents: ACN, ADP, PAYX, FIS", "Vertical workflow targets: healthcare, insurance, legal, accounting, recruiting", "Pressure side: BPO, IT services, seat-based SaaS"],
+      "watchlist": ["NOW", "CRM", "MSFT", "ADBE", "ACN", "ADP", "PAYX", "FIS", "EXLS", "WNS"],
+      "evidence": [
+        {
+          "date": "2026-04-23",
+          "source": "Sequoia Services: The New Software",
+          "type": "thought source",
+          "url": "https://sequoiacap.com/article/services-the-new-software/",
+          "fact": "Sequoia argued that services can become the new software as AI companies sell outcomes rather than tools."
+        }
+      ]
+    },
+    {
+      "id": "ark-risk-on-rebuild",
+      "title": "ARK Risk-on Rebuild",
+      "category": "fund-flow",
+      "score": 81,
+      "review": "1M",
+      "oracleView": "ARKはPLTR、HOOD、TSLA、WGSのようなAI/fintech/autonomy/genomics露出を足し、AMD、ROKU、TER、TWSTの一部を削る形で、リスクオンの中身を入れ替えている可能性がある。",
+      "watchlist": ["PLTR", "HOOD", "TSLA", "WGS", "AMD", "ROKU", "TER", "TWST", "BWXT"]
+    },
+    {
+      "id": "berkshire-quality-boring-alpha",
+      "title": "Berkshire Quality Boring Alpha",
+      "category": "fund-flow",
+      "score": 76,
+      "review": "6M",
+      "oracleView": "BerkshireのNYT新規、CVX/DPZ追加、AAPL/AMZN削減は、AIとは別の時間軸で、耐久キャッシュフロー、消費、エネルギー、ブランド/メディアへの重い資本判断を示している。",
+      "watchlist": ["BRK.B", "NYT", "CVX", "DPZ", "AAPL", "AMZN", "OXY", "KO", "AXP"]
+    },
+    {
+      "id": "consumer-attention-reset",
+      "title": "Consumer Attention Reset",
+      "category": "consumer",
+      "score": 72,
+      "review": "3M",
+      "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
+      "watchlist": ["NYT", "ROKU", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"]
+    }
+  ]
+}
