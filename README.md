@@ -30,6 +30,23 @@ Kairos is not ordinary time. It is the decisive instant hidden inside ordinary d
 
 Use `OPERATING_MANUAL.md` for the weekly workflow and `content/notes/moment-template.md` when writing a new Moment.
 
+## API-Free Automation Flow
+
+KAIROS now uses GitHub + Cloudflare for automatic publishing:
+
+1. Codex updates facts, reports, and dashboard data in this repository.
+2. Codex commits and pushes the changes to `main`.
+3. Cloudflare runs `npx wrangler deploy`.
+4. `https://kairos.ju2189ts.workers.dev/` updates automatically.
+
+This does not require an OpenAI API key. Codex Automation is the scheduled research operator.
+
+See:
+
+- `AUTOMATION.md`
+- `content/automation/fact-refresh-prompt.md`
+- `content/automation/weekly-report-prompt.md`
+
 ## Current MVP
 
 This is a static MVP. Open `index.html` in a browser.
