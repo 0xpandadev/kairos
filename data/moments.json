@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23",
+  "updatedAt": "2026-04-30",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,383 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-04-30",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "GOOG",
+      "action": "Buy",
+      "sizeValue": "$16.4M",
+      "weightChange": "0.24% ETF / 21.04% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-30",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "$16.3M",
+      "weightChange": "0.24% ETF / 71.61% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-30",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$32.2M",
+      "weightChange": "0.48% ETF / 8.90% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-30",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "$4.1M",
+      "weightChange": "0.50% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkf/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-30",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$4.1M",
+      "weightChange": "0.50% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkf/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-30",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "GOOG",
+      "action": "Buy",
+      "sizeValue": "$4.5M",
+      "weightChange": "0.52% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkx/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-30",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$4.4M",
+      "weightChange": "0.51% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkx/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "HOOD",
+      "action": "Buy",
+      "sizeValue": "$4.0M",
+      "weightChange": "0.24% ETF / 5.56% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "ARKB",
+      "action": "Sell",
+      "sizeValue": "$4.1M",
+      "weightChange": "0.25% ETF / 4.12% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "HOOD",
+      "action": "Buy",
+      "sizeValue": "$33.7M",
+      "weightChange": "0.48% ETF / 13.03% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "KTOS",
+      "action": "Buy",
+      "sizeValue": "$11.5M",
+      "weightChange": "0.16% ETF / 19.98% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "$25.5M",
+      "weightChange": "0.33% ETF / 26.04% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "HOOD",
+      "action": "Buy",
+      "sizeValue": "$2.0M",
+      "weightChange": "0.24% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkf/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ARKB",
+      "action": "Sell",
+      "sizeValue": "$2.0M",
+      "weightChange": "0.24% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkf/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "$4.2M",
+      "weightChange": "0.33% ETF / 11.29% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkg/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-29",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "TWST",
+      "action": "Sell",
+      "sizeValue": "$3.6M",
+      "weightChange": "0.31% ETF / 3.35% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkg/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-28",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CRWV",
+      "action": "Buy",
+      "sizeValue": "$2.5M",
+      "weightChange": "0.15% ETF / 3.99% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-28",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SPOT",
+      "action": "Buy",
+      "sizeValue": "$3.3M",
+      "weightChange": "0.20% ETF / 24.44% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-28",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "BLSH",
+      "action": "Sell",
+      "sizeValue": "$1.1M",
+      "weightChange": "0.07% ETF / 3.04% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-28",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$4.2M",
+      "weightChange": "0.25% ETF / 5.94% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-24",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$25.5M",
+      "weightChange": "1.55% ETF / 14.50% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-24",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$25.1M",
+      "weightChange": "1.51% ETF / 57.26% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-24",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$32.7M",
+      "weightChange": "0.45% ETF / 6.97% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-24",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$32.3M",
+      "weightChange": "0.44% ETF / 17.51% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-22",
+      "manager": "ARK",
+      "vehicle": "ARK Venture Fund",
+      "ticker": "Lucra (private)",
+      "action": "Lead",
+      "sizeValue": "$20M Series B",
+      "weightChange": "n/a",
+      "source": "SeventySix Capital / EZ Newswire",
+      "sourceType": "portfolio news / press release",
+      "url": "https://www.seventysixcapital.com/portfolio-news/lucra-raises-20-million",
+      "note": "Lucra announced a $20M financing round led by ARK Invest Venture Fund (reposted press release)."
+    },
+    {
+      "date": "2026-04-17",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "BLSH",
+      "action": "Sell",
+      "sizeValue": "$1.3M",
+      "weightChange": "0.08% ETF / 3.34% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-17",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CRCL",
+      "action": "Sell",
+      "sizeValue": "$1.2M",
+      "weightChange": "0.07% ETF / 1.56% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-17",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "NFLX",
+      "action": "Buy",
+      "sizeValue": "$2.5M",
+      "weightChange": "0.15% ETF / 12.38% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-04-17",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CRWV",
+      "action": "Sell",
+      "sizeValue": "$2.6M",
+      "weightChange": "0.15% ETF / 3.57% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
     {
       "date": "2026-04-10",
       "manager": "ARK",
@@ -167,10 +544,10 @@
       "action": "New",
       "sizeValue": "5.07M shares",
       "weightChange": "new position",
-      "source": "TrustFinance / 13F",
-      "sourceType": "secondary 13F summary",
-      "url": "https://www.trustfinance.com/blog/berkshire-hathaway-13f-q4-2025-nyt-stake-trims-tech",
-      "note": "Berkshire initiated a New York Times position in Q4 2025 per 13F summaries."
+      "source": "SEC EDGAR 13F-HR",
+      "sourceType": "official filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
+      "note": "Form 13F information table for period ended 2025-12-31 includes a NYT line item of 5,071,467 shares."
     },
     {
       "date": "2025-12-31",
@@ -180,10 +557,10 @@
       "action": "Add",
       "sizeValue": "130.16M shares",
       "weightChange": "increased",
-      "source": "MarketWatch / 13F",
-      "sourceType": "secondary 13F summary",
-      "url": "https://www.marketwatch.com/story/berkshire-returns-to-the-newspaper-business-takes-bigger-bite-of-dominos-pizza-5c4dc5d8",
-      "note": "Berkshire increased Chevron in Q4 2025."
+      "source": "SEC EDGAR 13F-HR",
+      "sourceType": "official filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
+      "note": "Summed from multiple CVX line items in the Form 13F information table for period ended 2025-12-31."
     },
     {
       "date": "2025-12-31",
@@ -191,12 +568,12 @@
       "vehicle": "13F",
       "ticker": "AAPL",
       "action": "Trim",
-      "sizeValue": "227.92M shares remaining",
+      "sizeValue": "213.45M shares",
       "weightChange": "reduced",
-      "source": "TrustFinance / 13F",
-      "sourceType": "secondary 13F summary",
-      "url": "https://www.trustfinance.com/blog/berkshire-hathaway-13f-q4-2025-nyt-stake-trims-tech",
-      "note": "Berkshire trimmed Apple in Q4 2025."
+      "source": "SEC EDGAR 13F-HR",
+      "sourceType": "official filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
+      "note": "Summed from multiple AAPL line items in the Form 13F information table for period ended 2025-12-31."
     }
   ],
   "moments": [
@@ -268,6 +645,20 @@
           "type": "thought source",
           "url": "https://a16z.com/prediction-markets-they-grow-up-so-fast/",
           "fact": "a16z framed prediction markets as an emerging information and price-discovery layer."
+        },
+        {
+          "date": "2026-04-29",
+          "source": "Cathie's Ark ARKW ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkw/trades",
+          "fact": "Cathie's Ark lists ARKW buying HOOD ($4.0M) and selling ARKB ($4.1M) on 2026-04-29."
+        },
+        {
+          "date": "2026-04-29",
+          "source": "Cathie's Ark ARKF ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkf/trades",
+          "fact": "Cathie's Ark lists ARKF buying HOOD ($2.0M) and selling ARKB ($2.0M) on 2026-04-29."
         }
       ]
     },
@@ -287,6 +678,20 @@
           "type": "investment announcement",
           "url": "https://a16z.com/announcement/investing-in-ulysses/",
           "fact": "a16z announced an investment in Ulysses, a company building autonomous underwater systems."
+        },
+        {
+          "date": "2026-04-09",
+          "source": "Portal Space Systems",
+          "type": "company press release",
+          "url": "https://www.portalsystems.space/news/press-release-portal-space-systems-raises-50-million-series-a-to-advance-rapidly-maneuverable-spacecraft-capabilities",
+          "fact": "Portal Space Systems announced a $50M Series A round and listed ARK Invest among participating investors."
+        },
+        {
+          "date": "2026-04-25",
+          "source": "ARK Venture Fund",
+          "type": "official fund statement",
+          "url": "https://www.ark-funds.com/venture-funding-request-form",
+          "fact": "ARK's site states the ARK Venture Fund has invested in Portal Space Systems' Series A."
         }
       ]
     },
@@ -316,7 +721,51 @@
       "score": 81,
       "review": "1M",
       "oracleView": "ARKはPLTR、HOOD、TSLA、WGSのようなAI/fintech/autonomy/genomics露出を足し、AMD、ROKU、TER、TWSTの一部を削る形で、リスクオンの中身を入れ替えている可能性がある。",
-      "watchlist": ["PLTR", "HOOD", "TSLA", "WGS", "AMD", "ROKU", "TER", "TWST", "BWXT"]
+      "watchlist": ["PLTR", "HOOD", "TSLA", "WGS", "AMD", "ROKU", "TER", "TWST", "BWXT"],
+      "evidence": [
+        {
+          "date": "2026-04-24",
+          "source": "Cathie's Ark ARKK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkk/trades",
+          "fact": "Cathie's Ark lists ARKK selling AMD ($32.7M) and buying AMZN ($32.3M) on 2026-04-24."
+        },
+        {
+          "date": "2026-04-24",
+          "source": "Cathie's Ark ARKW ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkw/trades",
+          "fact": "Cathie's Ark lists ARKW selling AMD ($25.5M) and buying AMZN ($25.1M) on 2026-04-24."
+        },
+        {
+          "date": "2026-04-28",
+          "source": "Cathie's Ark ARKW ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkw/trades",
+      "fact": "Cathie's Ark lists ARKW selling ROKU ($4.2M) and buying SPOT ($3.3M) on 2026-04-28."
+        },
+        {
+          "date": "2026-04-29",
+          "source": "Cathie's Ark ARKK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkk/trades",
+          "fact": "Cathie's Ark lists ARKK buying HOOD ($33.7M) and KTOS ($11.5M) on 2026-04-29."
+        },
+        {
+          "date": "2026-04-30",
+          "source": "Cathie's Ark ARKK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkk/trades",
+          "fact": "Cathie's Ark lists ARKK selling AMD ($32.2M) and buying GOOG ($16.4M) and META ($16.3M) on 2026-04-30."
+        },
+        {
+          "date": "2026-04-25",
+          "source": "ARK Trade Notifications",
+          "type": "official process",
+          "url": "https://www.ark-funds.com/ark-trade-notifications",
+          "fact": "ARK publishes trade notification files via its Trade Notifications page and provides a latest trade file link."
+        }
+      ]
     },
     {
       "id": "berkshire-quality-boring-alpha",
@@ -325,7 +774,16 @@
       "score": 76,
       "review": "6M",
       "oracleView": "BerkshireのNYT新規、CVX/DPZ追加、AAPL/AMZN削減は、AIとは別の時間軸で、耐久キャッシュフロー、消費、エネルギー、ブランド/メディアへの重い資本判断を示している。",
-      "watchlist": ["BRK.B", "NYT", "CVX", "DPZ", "AAPL", "AMZN", "OXY", "KO", "AXP"]
+      "watchlist": ["BRK.B", "NYT", "CVX", "DPZ", "AAPL", "AMZN", "OXY", "KO", "AXP"],
+      "evidence": [
+        {
+          "date": "2026-02-17",
+          "source": "SEC EDGAR 13F-HR (Berkshire Hathaway Inc)",
+          "type": "official filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
+          "fact": "Berkshire's Form 13F information table for period ended 2025-12-31 includes NYT, CVX, and AAPL holdings."
+        }
+      ]
     },
     {
       "id": "consumer-attention-reset",
@@ -334,7 +792,44 @@
       "score": 72,
       "review": "3M",
       "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
-      "watchlist": ["NYT", "ROKU", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"]
+      "watchlist": ["NYT", "ROKU", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
+      "evidence": [
+        {
+          "date": "2026-04-17",
+          "source": "Cathie's Ark ARKW ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkw/trades",
+          "fact": "Cathie's Ark lists ARKW buying NFLX ($2.5M) and selling ROKU ($1.2M on 2026-04-08 and $1.1M on 2026-04-07)."
+        },
+        {
+          "date": "2026-04-28",
+          "source": "Cathie's Ark ARKW ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkw/trades",
+          "fact": "Cathie's Ark lists ARKW selling ROKU ($4.2M) and buying SPOT ($3.3M) on 2026-04-28."
+        },
+        {
+          "date": "2026-04-22",
+          "source": "SeventySix Capital / Lucra press release",
+          "type": "portfolio news / press release",
+          "url": "https://www.seventysixcapital.com/portfolio-news/lucra-raises-20-million",
+          "fact": "Lucra announced a $20M financing round led by the ARK Invest Venture Fund."
+        },
+        {
+          "date": "2026-04-23",
+          "source": "ARK Venture Fund 1st Quarter 2026 Update",
+          "type": "official fund commentary",
+          "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+          "fact": "ARK wrote in its ARK Venture Fund Q1 2026 update that it added to an existing position in Lucra."
+        },
+        {
+          "date": "2026-02-17",
+          "source": "SEC EDGAR 13F-HR (Berkshire Hathaway Inc)",
+          "type": "official filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
+          "fact": "Berkshire's Form 13F information table for period ended 2025-12-31 includes a NYT line item of 5,071,467 shares."
+        }
+      ]
     }
   ]
 }
