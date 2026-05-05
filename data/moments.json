@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30",
+  "updatedAt": "2026-05-05",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,110 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "RBLX",
+      "action": "Buy",
+      "sizeValue": "$9.9M",
+      "weightChange": "0.15% ETF / 6.13% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$9.1M",
+      "weightChange": "0.13% ETF / 0.85% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TWST",
+      "action": "Sell",
+      "sizeValue": "$7.3M",
+      "weightChange": "0.12% ETF / 3.64% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "$1.9M",
+      "weightChange": "0.03% ETF / 1.42% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkk/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "RBLX",
+      "action": "Buy",
+      "sizeValue": "$2.6M",
+      "weightChange": "0.16% ETF / 6.24% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$2.5M",
+      "weightChange": "0.15% ETF / 1.71% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkw/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "RBLX",
+      "action": "Buy",
+      "sizeValue": "$1.3M",
+      "weightChange": "0.16% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkf/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      "date": "2026-05-01",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$1.2M",
+      "weightChange": "0.16% ETF / 100% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/arkf/trades",
+      "note": "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
     {
       "date": "2026-04-23",
       "manager": "ARK",
@@ -833,6 +937,27 @@
           "fact": "Cathie's Ark lists ARKK selling AMD ($32.2M) and buying GOOG ($16.4M) and META ($16.3M) on 2026-04-30."
         },
         {
+          "date": "2026-05-01",
+          "source": "Cathie's Ark ARKK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkk/trades",
+          "fact": "Cathie's Ark lists ARKK buying RBLX ($9.9M) and NTLA ($1.9M) and selling AMD ($9.1M) and TWST ($7.3M) on 2026-05-01."
+        },
+        {
+          "date": "2026-05-01",
+          "source": "Cathie's Ark ARKW ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkw/trades",
+          "fact": "Cathie's Ark lists ARKW buying RBLX ($2.6M) and selling AMD ($2.5M) on 2026-05-01."
+        },
+        {
+          "date": "2026-05-01",
+          "source": "Cathie's Ark ARKF ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkf/trades",
+          "fact": "Cathie's Ark lists ARKF buying RBLX ($1.3M) and selling AMD ($1.2M) on 2026-05-01."
+        },
+        {
           "date": "2026-04-25",
           "source": "ARK Trade Notifications",
           "type": "official process",
@@ -888,6 +1013,13 @@
           "type": "secondary tracker",
           "url": "https://cathiesark.com/arkw/trades",
           "fact": "Cathie's Ark lists ARKW selling ROKU ($4.2M) and buying SPOT ($3.3M) on 2026-04-28."
+        },
+        {
+          "date": "2026-05-01",
+          "source": "Cathie's Ark ARKW ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/arkw/trades",
+          "fact": "Cathie's Ark lists ARKW buying RBLX ($2.6M) and selling AMD ($2.5M) on 2026-05-01."
         },
         {
           "date": "2026-04-22",

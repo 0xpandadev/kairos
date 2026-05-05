@@ -412,6 +412,53 @@ const kairosMoments = [
   }
 ];
 
+const computeToPowerMoment = kairosMoments.find((moment) => moment.id === "compute-to-power-bottleneck");
+if (computeToPowerMoment) {
+  computeToPowerMoment.evidence = [
+    {
+      date: "2026-04-23",
+      source: "ARK Trade Notifications",
+      type: "official process",
+      url: "https://www.ark-funds.com/ark-trade-notifications",
+      fact: "ARK says it posts portfolio holdings files daily and sends trade information for actively managed ETFs, with exclusions and reconciliation caveats."
+    },
+    {
+      date: "2026-04-23",
+      source: "ARK Latest Trade File",
+      type: "official file",
+      url: "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      fact: "Daily ARK trade rows should be imported from the latest trade file with fund, ticker, direction, shares, and notes as raw facts."
+    },
+    {
+      date: "2026-04-23",
+      source: "ARK Venture Fund 1st Quarter 2026 Update",
+      type: "official fund commentary",
+      url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      fact: "ARK said it initiated a new position in Crusoe and described it as an energy-first AI infrastructure company building scalable computing platforms for next-generation AI workloads."
+    }
+  ];
+}
+
+const agentLedGrowthMoment = kairosMoments.find((moment) => moment.id === "agent-led-growth");
+if (agentLedGrowthMoment) {
+  agentLedGrowthMoment.evidence = [
+    {
+      date: "2026-04-23",
+      source: "Sequoia Training Data",
+      type: "thought source",
+      url: "https://sequoiacap.com/podcast/from-seo-to-agent-led-growth-profounds-james-cadwallader/",
+      fact: "Sequoia published a Training Data episode framing the move from SEO toward agent-led growth."
+    },
+    {
+      date: "2026-04-23",
+      source: "ARK Venture Fund 1st Quarter 2026 Update",
+      type: "official fund commentary",
+      url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      fact: "ARK said Shopify's native support for Model Context Protocol endpoints lets merchants feed product and inventory data directly into the agentic web as AI purchasing agents reshape discovery and buying."
+    }
+  ];
+}
+
 const defenseAutonomyMoment = kairosMoments.find((moment) => moment.id === "defense-autonomy");
 if (defenseAutonomyMoment) {
   defenseAutonomyMoment.evidence = [
@@ -435,6 +482,13 @@ if (defenseAutonomyMoment) {
       type: "official fund statement",
       url: "https://www.ark-funds.com/venture-funding-request-form",
       fact: "ARK's site states the ARK Venture Fund has invested in Portal Space Systems' Series A."
+    },
+    {
+      date: "2026-04-23",
+      source: "ARK Venture Fund 1st Quarter 2026 Update",
+      type: "official fund commentary",
+      url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      fact: "ARK said Kodiak AI doubled its fleet of fully driverless trucks to 20, surpassed 10,700 cumulative paid driverless hours, and won a U.S. Marine Corps contract tied to autonomous expeditionary vehicles."
     }
   ];
 }
@@ -518,6 +572,33 @@ if (stablecoinRailsMoment) {
       type: "secondary tracker",
       url: "https://cathiesark.com/arkf/trades",
       fact: "Cathie's Ark lists ARKF buying HOOD ($2.0M) and selling ARKB ($2.0M) on 2026-04-29."
+    },
+    {
+      date: "2026-04-28",
+      source: "Robinhood Q1 2026 Results",
+      type: "official company release",
+      url: "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-first-quarter-2026-results",
+      fact: "Robinhood said it launched the public testnet for Robinhood Chain, a financial-grade Ethereum Layer 2 built to support tokenized real-world assets, and that the network had already processed more than 100 million transactions."
+    }
+  ];
+}
+
+const aiNativeServicesMoment = kairosMoments.find((moment) => moment.id === "ai-native-services");
+if (aiNativeServicesMoment) {
+  aiNativeServicesMoment.evidence = [
+    {
+      date: "2026-04-23",
+      source: "Sequoia Services: The New Software",
+      type: "thought source",
+      url: "https://sequoiacap.com/article/services-the-new-software/",
+      fact: "Sequoia argued that services can become the new software as AI companies sell outcomes rather than tools."
+    },
+    {
+      date: "2026-04-15",
+      source: "Sequoia Auctor",
+      type: "funding announcement",
+      url: "https://sequoiacap.com/article/partnering-with-auctor/",
+      fact: "Sequoia wrote that for every dollar spent on software, six are spent on services, with more than $500 billion in annual labor spend across software implementation consultants."
     }
   ];
 }
@@ -531,6 +612,13 @@ if (berkshireQualityMoment) {
       type: "official filing",
       url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
       fact: "Berkshire's Form 13F information table for period ended 2025-12-31 includes NYT, CVX, and AAPL holdings."
+    },
+    {
+      date: "2026-05-02",
+      source: "Berkshire Hathaway Form 10-Q",
+      type: "official filing",
+      url: "https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf",
+      fact: "Berkshire's Q1 2026 Form 10-Q listed $51.5B of cash and cash equivalents, $339.3B of U.S. Treasury Bills, and $17.2B of payables for unsettled Treasury Bill purchases at March 31, 2026."
     }
   ];
 }
@@ -580,7 +668,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W17"
+  selectedBrief: "2026-W19"
 };
 
 const translations = {
@@ -1132,6 +1220,28 @@ weeklyBriefs[0] = {
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
 
+weeklyBriefs.unshift({
+  id: "2026-W19",
+  title: "KAIROS Weekly 2026-W19",
+  dateRange: "2026-04-27 to 2026-05-03",
+  status: "frozen 2026-05-04",
+  thesis:
+    "The control points got concrete: venture and public capital both moved toward agent-ready commerce data, AI implementation labor, and consumer financial rails rather than pure model supply.",
+  moments: ["Agent-led Growth", "AI-native Services", "Stablecoin Financial Rails", "ARK Risk-on Rebuild"],
+  capitalFlow:
+    "ARK Venture Fund initiated SHOP, Crusoe, and RBLX in Q1 2026, while ARKK, ARKF, and ARKW added HOOD, GOOG, META, and KTOS and kept reducing AMD or ARKB exposure in late April 2026.",
+  mapRead:
+    "The next edge is not just owning the model. It is owning merchant context, implementation workflows, and retail financial distribution once agents start routing demand.",
+  watchNext: [
+    "SHOP MCP adoption and merchant agent traffic",
+    "HOOD chain or tokenized-asset traction",
+    "AI-native services gross-margin proof",
+    "ARK preference for HOOD, GOOG, META, and KTOS over AMD"
+  ],
+  futureReceipt:
+    "1M: repeated ARK adds into SHOP or HOOD. 3M: agent-led commerce and implementation-margin evidence. 6M: tokenized-asset rails and autonomy contracts translating into revenue mix."
+});
+
 const monthlySummaries = [
   {
     id: "2026-04",
@@ -1382,19 +1492,45 @@ const capitalActions = [
 capitalActions.splice(
   0,
   capitalActions.length,
-  {
-    date: "2026-05-02",
-    manager: "Berkshire Hathaway",
-    vehicle: "Share Repurchase",
-    ticker: "BRK.A / BRK.B",
-    action: "Buyback",
-    sizeValue: "$234M",
-    weightChange: "first repurchase since May 2024",
-    source: "Berkshire Hathaway Q1 2026 earnings release",
-    sourceType: "official company release",
-    url: "https://www.nasdaq.com/press-release/berkshire-hathaway-inc-first-quarter-2026-earnings-release-2026-05-02",
-    note: "Berkshire disclosed $234 million of Class A and Class B share repurchases during Q1 2026."
-  },
+    {
+      date: "2026-04-23",
+      manager: "ARK",
+      vehicle: "ARK Venture Fund",
+      ticker: "SHOP",
+      action: "New",
+      sizeValue: "undisclosed",
+      weightChange: "new position",
+      source: "ARK Venture Fund 1st Quarter 2026 Update",
+      sourceType: "official fund commentary",
+      url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      note: "ARK said it initiated a new position in Shopify during Q1 2026."
+    },
+    {
+      date: "2026-04-23",
+      manager: "ARK",
+      vehicle: "ARK Venture Fund",
+      ticker: "Crusoe (private)",
+      action: "New",
+      sizeValue: "undisclosed",
+      weightChange: "new position",
+      source: "ARK Venture Fund 1st Quarter 2026 Update",
+      sourceType: "official fund commentary",
+      url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      note: "ARK said it initiated a new position in Crusoe during Q1 2026."
+    },
+    {
+      date: "2026-04-23",
+      manager: "ARK",
+      vehicle: "ARK Venture Fund",
+      ticker: "RBLX",
+      action: "New",
+      sizeValue: "undisclosed",
+      weightChange: "new position",
+      source: "ARK Venture Fund 1st Quarter 2026 Update",
+      sourceType: "official fund commentary",
+      url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      note: "ARK said it initiated a new position in Roblox during Q1 2026."
+    },
   {
     date: "2026-04-30",
     manager: "ARK",
@@ -2368,11 +2504,12 @@ function renderWatchUniverse() {
 
 function renderLedger() {
   const list = document.getElementById("ledgerList");
+  const latestBriefId = weeklyBriefs[0]?.id || state.selectedBrief;
   list.innerHTML = state.moments
     .map(
       (moment) => `
       <article class="ledger-item">
-        <div class="ledger-date">2026-W17<br>${moment.review} ${t("ui.review")}</div>
+        <div class="ledger-date">${latestBriefId}<br>${moment.review} ${t("ui.review")}</div>
         <div>
           <h3>${moment.title}</h3>
           <p>${momentField(moment, "futureReceipt")}</p>
