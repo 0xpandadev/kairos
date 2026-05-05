@@ -69,6 +69,45 @@
   ],
   "capitalActions": [
     {
+      "date": "2026-04-23",
+      "manager": "ARK",
+      "vehicle": "ARK Venture Fund",
+      "ticker": "SHOP",
+      "action": "New",
+      "sizeValue": "undisclosed",
+      "weightChange": "new position",
+      "source": "ARK Venture Fund 1st Quarter 2026 Update",
+      "sourceType": "official fund commentary",
+      "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      "note": "ARK said it initiated a new position in Shopify during Q1 2026."
+    },
+    {
+      "date": "2026-04-23",
+      "manager": "ARK",
+      "vehicle": "ARK Venture Fund",
+      "ticker": "Crusoe (private)",
+      "action": "New",
+      "sizeValue": "undisclosed",
+      "weightChange": "new position",
+      "source": "ARK Venture Fund 1st Quarter 2026 Update",
+      "sourceType": "official fund commentary",
+      "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      "note": "ARK said it initiated a new position in Crusoe during Q1 2026."
+    },
+    {
+      "date": "2026-04-23",
+      "manager": "ARK",
+      "vehicle": "ARK Venture Fund",
+      "ticker": "RBLX",
+      "action": "New",
+      "sizeValue": "undisclosed",
+      "weightChange": "new position",
+      "source": "ARK Venture Fund 1st Quarter 2026 Update",
+      "sourceType": "official fund commentary",
+      "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+      "note": "ARK said it initiated a new position in Roblox during Q1 2026."
+    },
+    {
       "date": "2026-04-30",
       "manager": "ARK",
       "vehicle": "ARKK",
@@ -594,15 +633,22 @@
           "url": "https://www.ark-funds.com/ark-trade-notifications",
           "fact": "ARK says it posts portfolio holdings files daily and sends trade information for actively managed ETFs, with exclusions and reconciliation caveats."
         },
-        {
-          "date": "2026-04-23",
-          "source": "ARK Latest Trade File",
-          "type": "official file",
-          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
-          "fact": "Daily ARK trade rows should be imported from the latest trade file with fund, ticker, direction, shares, and notes as raw facts."
-        }
-      ]
-    },
+          {
+            "date": "2026-04-23",
+            "source": "ARK Latest Trade File",
+            "type": "official file",
+            "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+            "fact": "Daily ARK trade rows should be imported from the latest trade file with fund, ticker, direction, shares, and notes as raw facts."
+          },
+          {
+            "date": "2026-04-23",
+            "source": "ARK Venture Fund 1st Quarter 2026 Update",
+            "type": "official fund commentary",
+            "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+            "fact": "ARK said it initiated a new position in Crusoe and described it as an energy-first AI infrastructure company building scalable computing platforms for next-generation AI workloads."
+          }
+        ]
+      },
     {
       "id": "agent-led-growth",
       "title": "Agent-led Growth",
@@ -613,15 +659,22 @@
       "valueChain": ["Model/interface: MSFT, GOOGL, META, AAPL", "Enterprise system of record: CRM, NOW, HUBS, ADBE", "Discovery/commerce surfaces: SHOP, AMZN, RDFN, ABNB", "Measurement layer: AEO and brand visibility startups"],
       "watchlist": ["MSFT", "GOOGL", "META", "AAPL", "CRM", "NOW", "HUBS", "ADBE", "SHOP", "AMZN", "RDFN"],
       "evidence": [
-        {
-          "date": "2026-04-23",
-          "source": "Sequoia Training Data",
-          "type": "thought source",
-          "url": "https://sequoiacap.com/podcast/from-seo-to-agent-led-growth-profounds-james-cadwallader/",
-          "fact": "Sequoia published a Training Data episode framing the move from SEO toward agent-led growth."
-        }
-      ]
-    },
+          {
+            "date": "2026-04-23",
+            "source": "Sequoia Training Data",
+            "type": "thought source",
+            "url": "https://sequoiacap.com/podcast/from-seo-to-agent-led-growth-profounds-james-cadwallader/",
+            "fact": "Sequoia published a Training Data episode framing the move from SEO toward agent-led growth."
+          },
+          {
+            "date": "2026-04-23",
+            "source": "ARK Venture Fund 1st Quarter 2026 Update",
+            "type": "official fund commentary",
+            "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+            "fact": "ARK said Shopify's native support for Model Context Protocol endpoints lets merchants feed product and inventory data directly into the agentic web as AI purchasing agents reshape discovery and buying."
+          }
+        ]
+      },
     {
       "id": "stablecoin-rails",
       "title": "Stablecoin Financial Rails",
@@ -653,15 +706,22 @@
           "url": "https://cathiesark.com/arkw/trades",
           "fact": "Cathie's Ark lists ARKW buying HOOD ($4.0M) and selling ARKB ($4.1M) on 2026-04-29."
         },
-        {
-          "date": "2026-04-29",
-          "source": "Cathie's Ark ARKF ETF Trades",
-          "type": "secondary tracker",
-          "url": "https://cathiesark.com/arkf/trades",
-          "fact": "Cathie's Ark lists ARKF buying HOOD ($2.0M) and selling ARKB ($2.0M) on 2026-04-29."
-        }
-      ]
-    },
+          {
+            "date": "2026-04-29",
+            "source": "Cathie's Ark ARKF ETF Trades",
+            "type": "secondary tracker",
+            "url": "https://cathiesark.com/arkf/trades",
+            "fact": "Cathie's Ark lists ARKF buying HOOD ($2.0M) and selling ARKB ($2.0M) on 2026-04-29."
+          },
+          {
+            "date": "2026-04-28",
+            "source": "Robinhood Q1 2026 Results",
+            "type": "official company release",
+            "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-first-quarter-2026-results",
+            "fact": "Robinhood said it launched the public testnet for Robinhood Chain, a financial-grade Ethereum Layer 2 built to support tokenized real-world assets, and that the network had already processed more than 100 million transactions."
+          }
+        ]
+      },
     {
       "id": "defense-autonomy",
       "title": "Defense Autonomy",
@@ -686,15 +746,22 @@
           "url": "https://www.portalsystems.space/news/press-release-portal-space-systems-raises-50-million-series-a-to-advance-rapidly-maneuverable-spacecraft-capabilities",
           "fact": "Portal Space Systems announced a $50M Series A round and listed ARK Invest among participating investors."
         },
-        {
-          "date": "2026-04-25",
-          "source": "ARK Venture Fund",
-          "type": "official fund statement",
-          "url": "https://www.ark-funds.com/venture-funding-request-form",
-          "fact": "ARK's site states the ARK Venture Fund has invested in Portal Space Systems' Series A."
-        }
-      ]
-    },
+          {
+            "date": "2026-04-25",
+            "source": "ARK Venture Fund",
+            "type": "official fund statement",
+            "url": "https://www.ark-funds.com/venture-funding-request-form",
+            "fact": "ARK's site states the ARK Venture Fund has invested in Portal Space Systems' Series A."
+          },
+          {
+            "date": "2026-04-23",
+            "source": "ARK Venture Fund 1st Quarter 2026 Update",
+            "type": "official fund commentary",
+            "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+            "fact": "ARK said Kodiak AI doubled its fleet of fully driverless trucks to 20, surpassed 10,700 cumulative paid driverless hours, and won a U.S. Marine Corps contract tied to autonomous expeditionary vehicles."
+          }
+        ]
+      },
     {
       "id": "ai-native-services",
       "title": "AI-native Services",
@@ -705,15 +772,22 @@
       "valueChain": ["Incumbent SaaS: NOW, CRM, MSFT, ADBE", "Human service incumbents: ACN, ADP, PAYX, FIS", "Vertical workflow targets: healthcare, insurance, legal, accounting, recruiting", "Pressure side: BPO, IT services, seat-based SaaS"],
       "watchlist": ["NOW", "CRM", "MSFT", "ADBE", "ACN", "ADP", "PAYX", "FIS", "EXLS", "WNS"],
       "evidence": [
-        {
-          "date": "2026-04-23",
-          "source": "Sequoia Services: The New Software",
-          "type": "thought source",
-          "url": "https://sequoiacap.com/article/services-the-new-software/",
-          "fact": "Sequoia argued that services can become the new software as AI companies sell outcomes rather than tools."
-        }
-      ]
-    },
+          {
+            "date": "2026-04-23",
+            "source": "Sequoia Services: The New Software",
+            "type": "thought source",
+            "url": "https://sequoiacap.com/article/services-the-new-software/",
+            "fact": "Sequoia argued that services can become the new software as AI companies sell outcomes rather than tools."
+          },
+          {
+            "date": "2026-04-15",
+            "source": "Sequoia Auctor",
+            "type": "funding announcement",
+            "url": "https://sequoiacap.com/article/partnering-with-auctor/",
+            "fact": "Sequoia wrote that for every dollar spent on software, six are spent on services, with more than $500 billion in annual labor spend across software implementation consultants."
+          }
+        ]
+      },
     {
       "id": "ark-risk-on-rebuild",
       "title": "ARK Risk-on Rebuild",
@@ -776,15 +850,22 @@
       "oracleView": "BerkshireのNYT新規、CVX/DPZ追加、AAPL/AMZN削減は、AIとは別の時間軸で、耐久キャッシュフロー、消費、エネルギー、ブランド/メディアへの重い資本判断を示している。",
       "watchlist": ["BRK.B", "NYT", "CVX", "DPZ", "AAPL", "AMZN", "OXY", "KO", "AXP"],
       "evidence": [
-        {
-          "date": "2026-02-17",
-          "source": "SEC EDGAR 13F-HR (Berkshire Hathaway Inc)",
-          "type": "official filing",
-          "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
-          "fact": "Berkshire's Form 13F information table for period ended 2025-12-31 includes NYT, CVX, and AAPL holdings."
-        }
-      ]
-    },
+          {
+            "date": "2026-02-17",
+            "source": "SEC EDGAR 13F-HR (Berkshire Hathaway Inc)",
+            "type": "official filing",
+            "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
+            "fact": "Berkshire's Form 13F information table for period ended 2025-12-31 includes NYT, CVX, and AAPL holdings."
+          },
+          {
+            "date": "2026-05-02",
+            "source": "Berkshire Hathaway Form 10-Q",
+            "type": "official filing",
+            "url": "https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf",
+            "fact": "Berkshire's Q1 2026 Form 10-Q listed $51.5B of cash and cash equivalents, $339.3B of U.S. Treasury Bills, and $17.2B of payables for unsettled Treasury Bill purchases at March 31, 2026."
+          }
+        ]
+      },
     {
       "id": "consumer-attention-reset",
       "title": "Consumer Attention Reset",

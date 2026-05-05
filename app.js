@@ -1383,6 +1383,19 @@ capitalActions.splice(
   0,
   capitalActions.length,
   {
+    date: "2026-05-02",
+    manager: "Berkshire Hathaway",
+    vehicle: "Share Repurchase",
+    ticker: "BRK.A / BRK.B",
+    action: "Buyback",
+    sizeValue: "$234M",
+    weightChange: "first repurchase since May 2024",
+    source: "Berkshire Hathaway Q1 2026 earnings release",
+    sourceType: "official company release",
+    url: "https://www.nasdaq.com/press-release/berkshire-hathaway-inc-first-quarter-2026-earnings-release-2026-05-02",
+    note: "Berkshire disclosed $234 million of Class A and Class B share repurchases during Q1 2026."
+  },
+  {
     date: "2026-04-30",
     manager: "ARK",
     vehicle: "ARKK",
