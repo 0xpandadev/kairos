@@ -93,6 +93,44 @@ const kairosMoments = [
         url: "https://sequoiacap.com/podcast/from-seo-to-agent-led-growth-profounds-james-cadwallader/",
         fact:
           "Sequoia published a Training Data episode framing the move from SEO toward agent-led growth."
+      },
+      {
+        date: "2026-04-23",
+        source: "ARK Venture Fund 1st Quarter 2026 Update",
+        type: "official fund commentary",
+        url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
+        fact:
+          "ARK said Shopify's native support for Model Context Protocol endpoints lets merchants feed product and inventory data directly into the agentic web as AI purchasing agents reshape discovery and buying."
+      },
+      {
+        date: "2026-05-05",
+        source: "Cathie's Ark ARKK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkk/trades",
+        fact: "Cathie's Ark lists ARKK buying SHOP ($20.7M) on 2026-05-05."
+      },
+      {
+        date: "2026-05-04",
+        source: "Cathie's Ark ARKK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkk/trades",
+        fact: "Cathie's Ark lists ARKK buying SHOP ($6.6M) on 2026-05-04."
+      },
+      {
+        date: "2026-05-08",
+        source: "Sequoia AI Ascent 2026",
+        type: "official event recap",
+        url: "https://sequoiacap.com/article/ai-ascent-2026/",
+        fact:
+          "Sequoia's AI Ascent 2026 recap said Sonya Huang declared 2026 the year of agents and described models, tools, and harnesses as the three ingredients that have finally come together."
+      },
+      {
+        date: "2026-05-08",
+        source: "Y Combinator Summer 2026 RFS",
+        type: "official thesis",
+        url: "https://www.ycombinator.com/rfs",
+        fact:
+          "YC's Summer 2026 Requests for Startups argued the next trillion internet users will be AI agents and said agent-first software should be rebuilt around APIs, MCPs, and CLIs rather than human UIs."
       }
     ],
     futureReceipt:
@@ -147,6 +185,38 @@ const kairosMoments = [
         url: "https://a16z.com/prediction-markets-they-grow-up-so-fast/",
         fact:
           "a16z framed prediction markets as an emerging information and price-discovery layer."
+      },
+      {
+        date: "2026-04-29",
+        source: "Cathie's Ark ARKW ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkw/trades",
+        fact:
+          "Cathie's Ark lists ARKW buying HOOD ($4.0M) and selling ARKB ($4.1M) on 2026-04-29."
+      },
+      {
+        date: "2026-04-29",
+        source: "Cathie's Ark ARKF ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkf/trades",
+        fact:
+          "Cathie's Ark lists ARKF buying HOOD ($2.0M) and selling ARKB ($2.0M) on 2026-04-29."
+      },
+      {
+        date: "2026-04-28",
+        source: "Robinhood Q1 2026 Results",
+        type: "official company release",
+        url: "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-first-quarter-2026-results",
+        fact:
+          "Robinhood said it launched the public testnet for Robinhood Chain, a financial-grade Ethereum Layer 2 built to support tokenized real-world assets, and that the network had already processed more than 100 million transactions."
+      },
+      {
+        date: "2026-05-06",
+        source: "Coinbase Investor Relations Events",
+        type: "official schedule",
+        url: "https://investor.coinbase.com/events-and-presentations/events/event-details/2026/First-Quarter-2026-Earnings-Call-2026-c_9lDnYzu7/default.aspx",
+        fact:
+          "Coinbase's investor events page lists its First Quarter 2026 Earnings Call scheduled for 2026-05-07."
       }
     ],
     futureReceipt:
@@ -280,18 +350,81 @@ const kairosMoments = [
     watchlist: ["PLTR", "HOOD", "TSLA", "WGS", "AMD", "ROKU", "TER", "TWST", "BWXT"],
     evidence: [
       {
-        date: "2026-04-10",
-        source: "Cathie's Ark ARKK trades",
+        date: "2026-04-24",
+        source: "Cathie's Ark ARKK ETF Trades",
         type: "secondary tracker",
-        url: "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
-        fact: "Cathie's Ark shows ARKK Buy rows for PLTR/WGS and Sell rows for AMD/BWXT/ROKU/TER/TWST across early April 2026."
+        url: "https://cathiesark.com/arkk/trades",
+        fact: "Cathie's Ark lists ARKK selling AMD ($32.7M) and buying AMZN ($32.3M) on 2026-04-24."
       },
       {
-        date: "2026-04-13",
-        source: "Barron's PLTR/ARK",
-        type: "media cross-check",
-        url: "https://www.barrons.com/articles/palantir-stock-price-cathie-wood-ark-arkk-b401cac6",
-        fact: "Barron's reported ARK bought 85,485 PLTR shares across five ETFs, valued at about $10.95M."
+        date: "2026-04-24",
+        source: "Cathie's Ark ARKW ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkw/trades",
+        fact: "Cathie's Ark lists ARKW selling AMD ($25.5M) and buying AMZN ($25.1M) on 2026-04-24."
+      },
+      {
+        date: "2026-04-28",
+        source: "Cathie's Ark ARKW ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkw/trades",
+        fact: "Cathie's Ark lists ARKW selling ROKU ($4.2M) and buying SPOT ($3.3M) on 2026-04-28."
+      },
+      {
+        date: "2026-04-29",
+        source: "Cathie's Ark ARKK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkk/trades",
+        fact: "Cathie's Ark lists ARKK buying HOOD ($33.7M) and KTOS ($11.5M) on 2026-04-29."
+      },
+      {
+        date: "2026-04-30",
+        source: "Cathie's Ark ARKK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkk/trades",
+        fact: "Cathie's Ark lists ARKK selling AMD ($32.2M) and buying GOOG ($16.4M) and META ($16.3M) on 2026-04-30."
+      },
+      {
+        date: "2026-05-01",
+        source: "Cathie's Ark ARKK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkk/trades",
+        fact: "Cathie's Ark lists ARKK buying RBLX ($9.9M) and NTLA ($1.9M) and selling AMD ($9.1M) and TWST ($7.3M) on 2026-05-01."
+      },
+      {
+        date: "2026-05-01",
+        source: "Cathie's Ark ARKW ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkw/trades",
+        fact: "Cathie's Ark lists ARKW buying RBLX ($2.6M) and selling AMD ($2.5M) on 2026-05-01."
+      },
+      {
+        date: "2026-05-01",
+        source: "Cathie's Ark ARKF ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkf/trades",
+        fact: "Cathie's Ark lists ARKF buying RBLX ($1.3M) and selling AMD ($1.2M) on 2026-05-01."
+      },
+      {
+        date: "2026-05-05",
+        source: "Cathie's Ark ARKK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkk/trades",
+        fact: "Cathie's Ark lists ARKK buying SHOP ($20.7M) and WGS ($6.8M) and selling AMD ($10.2M) on 2026-05-05."
+      },
+      {
+        date: "2026-05-05",
+        source: "Cathie's Ark ARKG ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/arkg/trades",
+        fact: "Cathie's Ark lists ARKG buying WGS ($1.8M) and selling TWST ($476.9K) on 2026-05-05."
+      },
+      {
+        date: "2026-04-25",
+        source: "ARK Trade Notifications",
+        type: "official process",
+        url: "https://www.ark-funds.com/ark-trade-notifications",
+        fact: "ARK publishes trade notification files via its Trade Notifications page and provides a latest trade file link."
       }
     ],
     futureReceipt:
@@ -455,6 +588,22 @@ if (agentLedGrowthMoment) {
       type: "official fund commentary",
       url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
       fact: "ARK said Shopify's native support for Model Context Protocol endpoints lets merchants feed product and inventory data directly into the agentic web as AI purchasing agents reshape discovery and buying."
+    },
+    {
+      date: "2026-05-08",
+      source: "Sequoia AI Ascent 2026",
+      type: "official event recap",
+      url: "https://sequoiacap.com/article/ai-ascent-2026/",
+      fact:
+        "Sequoia's AI Ascent 2026 recap said Sonya Huang declared 2026 the year of agents and described models, tools, and harnesses as the three ingredients that have finally come together."
+    },
+    {
+      date: "2026-05-08",
+      source: "Y Combinator Summer 2026 RFS",
+      type: "official thesis",
+      url: "https://www.ycombinator.com/rfs",
+      fact:
+        "YC's Summer 2026 Requests for Startups argued the next trillion internet users will be AI agents and said agent-first software should be rebuilt around APIs, MCPs, and CLIs rather than human UIs."
     }
   ];
 }
@@ -489,6 +638,14 @@ if (defenseAutonomyMoment) {
       type: "official fund commentary",
       url: "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
       fact: "ARK said Kodiak AI doubled its fleet of fully driverless trucks to 20, surpassed 10,700 cumulative paid driverless hours, and won a U.S. Marine Corps contract tied to autonomous expeditionary vehicles."
+    },
+    {
+      date: "2026-05-08",
+      source: "Y Combinator Summer 2026 RFS",
+      type: "official thesis",
+      url: "https://www.ycombinator.com/rfs",
+      fact:
+        "YC's Summer 2026 Requests for Startups said counter-drone defense is becoming a real-time distributed system problem and explicitly called for startups building the counter-swarm stack."
     }
   ];
 }
@@ -537,6 +694,22 @@ if (arkRiskOnRebuildMoment) {
       type: "official process",
       url: "https://www.ark-funds.com/ark-trade-notifications",
       fact: "ARK publishes trade notification files via its Trade Notifications page and provides a latest trade file link."
+    },
+    {
+      date: "2026-05-06",
+      source: "Cathie's Ark ARKK ETF Trades",
+      type: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      fact:
+        "Cathie's Ark lists ARKK buying TEM ($6.3M) and NTLA ($381.1K) while selling AMD ($7.9M) and TWST ($2.7M) on 2026-05-06."
+    },
+    {
+      date: "2026-05-07",
+      source: "Cathie's Ark TEM / NTLA Trade Pages",
+      type: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-tem",
+      fact:
+        "Cathie's Ark lists ARKK buying TEM ($6.7M), ARKG buying TEM ($1.2M), and ARKK buying NTLA ($1.4M) on 2026-05-07."
     }
   ];
 }
@@ -579,6 +752,14 @@ if (stablecoinRailsMoment) {
       type: "official company release",
       url: "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-first-quarter-2026-results",
       fact: "Robinhood said it launched the public testnet for Robinhood Chain, a financial-grade Ethereum Layer 2 built to support tokenized real-world assets, and that the network had already processed more than 100 million transactions."
+    },
+    {
+      date: "2026-05-07",
+      source: "Coinbase Q1 2026 Financial Results",
+      type: "official company release",
+      url: "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q1-Financial-Results-Show-Resilient-Financial-Performance-Driven-by-New-All-Time-High-Crypto-Trading-Volume-Market-Share/default.aspx",
+      fact:
+        "Coinbase said Base processed 62% of total global onchain stablecoin transaction volume, more than 90% of onchain agentic stablecoin transaction volume occurred on Base, and more than 100 million payments had been processed via x402."
     }
   ];
 }
@@ -599,6 +780,14 @@ if (aiNativeServicesMoment) {
       type: "funding announcement",
       url: "https://sequoiacap.com/article/partnering-with-auctor/",
       fact: "Sequoia wrote that for every dollar spent on software, six are spent on services, with more than $500 billion in annual labor spend across software implementation consultants."
+    },
+    {
+      date: "2026-05-08",
+      source: "Y Combinator Summer 2026 RFS",
+      type: "official thesis",
+      url: "https://www.ycombinator.com/rfs",
+      fact:
+        "YC's Summer 2026 Requests for Startups said the next step is AI-native companies that do not sell software but instead sell the service, targeting a services spend many times larger than software."
     }
   ];
 }
@@ -668,7 +857,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W19"
+  selectedBrief: "2026-W20"
 };
 
 const translations = {
@@ -1221,6 +1410,28 @@ weeklyBriefs[0] = {
 };
 
 weeklyBriefs.unshift({
+  id: "2026-W20",
+  title: "KAIROS Weekly 2026-W20",
+  dateRange: "2026-05-04 to 2026-05-10",
+  status: "frozen 2026-05-11",
+  thesis:
+    "The missing layer around agents got named: Sequoia, YC, Coinbase, Robinhood, and ARK all pointed away from generic model hype and toward context, workflow, and transaction rails.",
+  moments: ["Agent-led Growth", "Stablecoin Financial Rails", "AI-native Services", "ARK Risk-on Rebuild"],
+  capitalFlow:
+    "Across 2026-05-05 to 2026-05-07, Cathie's Ark showed repeated buying in SHOP, TEM, WGS, and NTLA while AMD was sold again across ARKK, ARKW, and ARKF, reinforcing a rotation from generic compute beta into merchant context, precision-data applications, and workflow software.",
+  mapRead:
+    "The next choke points look less like the chatbot surface and more like the operating layer agents depend on every day: company knowledge, merchant/product context, and machine-native settlement rails.",
+  watchNext: [
+    "repeated ARK adds into SHOP, TEM, or WGS",
+    "Base, x402, and Robinhood Chain usage follow-through",
+    "agent-driven workflow or transaction metrics in earnings",
+    "whether AMD remains the source of funds for application-layer adds"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence in SHOP, TEM, and WGS. 3M: measurable agent transaction or workflow volume. 6M: valuation rerating for rail and data-moat companies."
+});
+
+weeklyBriefs.unshift({
   id: "2026-W19",
   title: "KAIROS Weekly 2026-W19",
   dateRange: "2026-04-27 to 2026-05-03",
@@ -1492,6 +1703,383 @@ const capitalActions = [
 capitalActions.splice(
   0,
   capitalActions.length,
+    {
+      date: "2026-05-07",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TEM",
+      action: "Buy",
+      sizeValue: "$6.7M",
+      weightChange: "0.10% ETF / 2.10% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-tem",
+      note: "Secondary tracker row. Combined Cathie's Ark page shows ARKK adding Tempus again on 2026-05-07."
+    },
+    {
+      date: "2026-05-07",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TEM",
+      action: "Buy",
+      sizeValue: "$1.2M",
+      weightChange: "0.10% ETF / 1.18% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-tem",
+      note: "Secondary tracker row. Combined Cathie's Ark page shows ARKG adding Tempus on 2026-05-07."
+    },
+    {
+      date: "2026-05-07",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTLA",
+      action: "Buy",
+      sizeValue: "$1.4M",
+      weightChange: "0.02% ETF / 1.01% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk-trades-of-ntla",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK adding Intellia again on 2026-05-07."
+    },
+    {
+      date: "2026-05-06",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TEM",
+      action: "Buy",
+      sizeValue: "$6.3M",
+      weightChange: "0.10% ETF / 2.02% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK adding Tempus on 2026-05-06."
+    },
+    {
+      date: "2026-05-06",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TEM",
+      action: "Buy",
+      sizeValue: "$1.1M",
+      weightChange: "0.10% ETF / 1.13% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-tem",
+      note: "Secondary tracker row. Combined Cathie's Ark page shows ARKG adding Tempus on 2026-05-06."
+    },
+    {
+      date: "2026-05-06",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$7.9M",
+      weightChange: "0.12% ETF / 2.16% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming AMD again on 2026-05-06."
+    },
+    {
+      date: "2026-05-06",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$2.7M",
+      weightChange: "0.04% ETF / 1.43% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming Twist Bioscience on 2026-05-06."
+    },
+    {
+      date: "2026-05-06",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTLA",
+      action: "Buy",
+      sizeValue: "$381.1K",
+      weightChange: "0.01% ETF / 0.28% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK adding Intellia on 2026-05-06."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "SHOP",
+      action: "Buy",
+      sizeValue: "$20.7M",
+      weightChange: "0.27% ETF / 27.01% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "WGS",
+      action: "Buy",
+      sizeValue: "$6.8M",
+      weightChange: "0.09% ETF / 13.64% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$10.2M",
+      weightChange: "0.15% ETF / 2.77% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "SHOP",
+      action: "Buy",
+      sizeValue: "$5.3M",
+      weightChange: "0.28% ETF / 11.70% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkw/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$3.4M",
+      weightChange: "0.19% ETF / 4.66% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkw/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKF",
+      ticker: "SHOP",
+      action: "Buy",
+      sizeValue: "$2.7M",
+      weightChange: "0.27% ETF / 100% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkf/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKF",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$2.5M",
+      weightChange: "0.25% ETF / 100% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkf/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "WGS",
+      action: "Buy",
+      sizeValue: "$1.8M",
+      weightChange: "0.05% ETF / 24.03% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkg/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$476.9K",
+      weightChange: "0.01% ETF / 3.64% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkg/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-04",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "SHOP",
+      action: "Buy",
+      sizeValue: "$6.6M",
+      weightChange: "0.09% ETF / 27.01% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-04",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "SHOP",
+      action: "Buy",
+      sizeValue: "$1.7M",
+      weightChange: "0.09% ETF / 11.70% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkw/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-04",
+      manager: "ARK",
+      vehicle: "ARKF",
+      ticker: "SHOP",
+      action: "Buy",
+      sizeValue: "$856.9K",
+      weightChange: "0.10% ETF / 100% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkf/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-04",
+      manager: "ARK",
+      vehicle: "ARKF",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$884.1K",
+      weightChange: "0.10% ETF / 100% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkf/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "RBLX",
+      action: "Buy",
+      sizeValue: "$9.9M",
+      weightChange: "0.15% ETF / 6.13% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$9.1M",
+      weightChange: "0.13% ETF / 0.85% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$7.3M",
+      weightChange: "0.12% ETF / 3.64% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTLA",
+      action: "Buy",
+      sizeValue: "$1.9M",
+      weightChange: "0.03% ETF / 1.42% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "RBLX",
+      action: "Buy",
+      sizeValue: "$2.6M",
+      weightChange: "0.16% ETF / 6.24% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkw/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$2.5M",
+      weightChange: "0.15% ETF / 1.71% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkw/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKF",
+      ticker: "RBLX",
+      action: "Buy",
+      sizeValue: "$1.3M",
+      weightChange: "0.16% ETF / 100% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkf/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-01",
+      manager: "ARK",
+      vehicle: "ARKF",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$1.2M",
+      weightChange: "0.16% ETF / 100% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkf/trades",
+      note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
     {
       date: "2026-04-23",
       manager: "ARK",
