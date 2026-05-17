@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W20"
+  selectedBrief: "2026-W21"
 };
 
 const translations = {
@@ -1482,6 +1482,28 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W21",
+  title: "KAIROS Weekly 2026-W21",
+  dateRange: "2026-05-11 to 2026-05-17",
+  status: "frozen 2026-05-17",
+  thesis:
+    "The AI tape split into two winning shapes: boring domestic-demand durability on one side, and data-dense healthcare applications on the other, while generic compute beta increasingly became the funding source.",
+  moments: ["Berkshire Quality Boring Alpha", "Precision Data Moats", "ARK Risk-on Rebuild", "Agent-led Growth"],
+  capitalFlow:
+    "Berkshire's 2026-03-31 13F added DAL and M, enlarged NYT, and kept GOOGL while AMZN, V, MA, and UNH disappeared from the disclosed table; Cathie's Ark then kept adding NTRA and NTLA while trimming TSM, AMD, TER, TWST, CDNA, and ADPT through 2026-05-15.",
+  mapRead:
+    "The capital market is no longer rewarding generic AI exposure by default. It is rewarding either recurring real-world cash flow and trust, or proprietary data and workflow leverage that can survive the next narrowing of the narrative.",
+  watchNext: [
+    "continued ARK adds into NTRA, NTLA, or TEM",
+    "whether AMD, TSM, and TER remain the source of funds",
+    "Tempus and Natera margin follow-through",
+    "relative performance of Berkshire's domestic-demand additions versus its large-cap exits"
+  ],
+  futureReceipt:
+    "1M: ARK genomics add persistence. 3M: margin and workflow leverage evidence at data-rich healthcare platforms. 6M: Berkshire's boring-alpha basket relative to the names it exited or trimmed."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W20",
