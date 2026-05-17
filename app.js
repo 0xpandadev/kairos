@@ -333,8 +333,9 @@ const kairosMoments = [
       "AI decision layer: PLTR",
       "Retail finance/crypto: HOOD",
       "Autonomy/robotics: TSLA",
-      "Genomics diagnostics: WGS",
-      "Trim side: AMD, ROKU, TER, TWST, BWXT"
+      "Genomics adds: WGS, TEM, NTLA, NTRA",
+      "Genomics trims: TWST, CDNA, ADPT",
+      "Trim side: AMD, TSM, TER, TWST"
     ],
     consensus: "ARK trades are noisy daily flows.",
     nonConsensus: "日次ノイズを束ねると、ARKがどの未来カテゴリを再加速しているか見える。",
@@ -342,12 +343,12 @@ const kairosMoments = [
       "単一銘柄ではなく、ETF内のテーマ間ローテーションを追う“イノベーション資本配分レンズ”。",
     map: [
       { label: "ETF capital", size: 62, items: ["ARKK", "ARKW", "ARKQ"] },
-      { label: "Adds", size: 74, items: ["PLTR", "HOOD", "TSLA", "WGS"] },
-      { label: "Trims", size: 58, items: ["AMD", "ROKU", "TER", "TWST", "BWXT"] },
+      { label: "Adds", size: 78, items: ["PLTR", "HOOD", "TSLA", "WGS", "CRWV", "TOST", "TEM", "NTLA", "NTRA"] },
+      { label: "Trims", size: 64, items: ["AMD", "TSM", "TER", "TWST", "CDNA", "ADPT"] },
       { label: "Themes", size: 70, items: ["AI decisions", "fintech", "autonomy", "genomics"] },
       { label: "White space", size: 36, items: ["daily ETF theme delta", "conviction build detector"] }
     ],
-    watchlist: ["PLTR", "HOOD", "TSLA", "WGS", "AMD", "ROKU", "TER", "TWST", "BWXT"],
+    watchlist: ["PLTR", "HOOD", "TSLA", "WGS", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT"],
     evidence: [
       {
         date: "2026-04-24",
@@ -410,14 +411,39 @@ const kairosMoments = [
         source: "Cathie's Ark ARKK ETF Trades",
         type: "secondary tracker",
         url: "https://cathiesark.com/arkk/trades",
-        fact: "Cathie's Ark lists ARKK buying SHOP ($20.7M) and WGS ($6.8M) and selling AMD ($10.2M) on 2026-05-05."
+        fact:
+          "Cathie's Ark lists ARKK buying SHOP ($20.7M), WGS ($6.8M), and NTLA ($2.9M) while selling CRWV ($10.8M), AMD ($10.2M), and TER ($7.6M) on 2026-05-05."
       },
       {
         date: "2026-05-05",
         source: "Cathie's Ark ARKG ETF Trades",
         type: "secondary tracker",
         url: "https://cathiesark.com/arkg/trades",
-        fact: "Cathie's Ark lists ARKG buying WGS ($1.8M) and selling TWST ($476.9K) on 2026-05-05."
+        fact: "Cathie's Ark lists ARKG buying WGS ($1.8M) while selling TXG ($818.0K) and TWST ($476.9K) on 2026-05-05."
+      },
+      {
+        date: "2026-05-12",
+        source: "Cathie's Ark Combined ARK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/ark-funds-combined/trades",
+        fact:
+          "Cathie's Ark combined feed lists ARKK and ARKG buying NTRA ($690.9K and $156.0K) and ARKK buying NTLA ($590.4K) while ARKK and ARKG kept selling TWST ($2.9M and $338.7K) plus ARKG sold CDNA ($314.7K) on 2026-05-12."
+      },
+      {
+        date: "2026-05-13",
+        source: "Cathie's Ark Combined ARK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/ark-funds-combined/trades",
+        fact:
+          "Cathie's Ark combined feed lists ARKK and ARKG buying NTRA ($1.4M and $2.1M) while ARKK and ARKG kept selling TWST ($236.4K and $568.4K), and ARKG also sold CDNA ($353.9K) and ADPT ($166.9K) on 2026-05-13."
+      },
+      {
+        date: "2026-05-15",
+        source: "Cathie's Ark Combined ARK ETF Trades",
+        type: "secondary tracker",
+        url: "https://cathiesark.com/ark-funds-combined/trades",
+        fact:
+          "Cathie's Ark combined feed lists ARKK and ARKW selling TSM ($18.5M and $5.8M), ARKK selling TER ($12.6M) and TWST ($816.3K), ARKW selling AMD ($5.8M), and ARKG continuing CDNA ($132.2K) and TWST ($59.4K) trims on 2026-05-15."
       },
       {
         date: "2026-04-25",
@@ -435,35 +461,35 @@ const kairosMoments = [
     id: "berkshire-quality-boring-alpha",
     title: "Berkshire Quality Boring Alpha",
     category: "fund-flow",
-    score: 76,
+    score: 78,
     review: "6M",
     atTheTime: "市場はAI/成長株に注意を向け、Berkshireの低頻度資本配分は退屈に見えやすい。",
     oracleView:
-      "BerkshireのNYT新規、CVX/DPZ追加、AAPL/AMZN削減は、AIとは別の時間軸で、耐久キャッシュフロー、消費、エネルギー、ブランド/メディアへの重い資本判断を示している。",
+      "Berkshireの最新13Fは、AIを完全に避けているというより、Alphabetを抱えつつ、Delta・Macy's・NYT・Lennarを増やし、Chevron・Amazon・Visa・Mastercard・UnitedHealthを引く形で、巨大テック/決済から国内消費・住宅・輸送・信頼メディアへ資本を再配分している。",
     signal:
-      "Q4 2025の13F要約では、NYT新規、CVX/DPZ追加、AAPL/AMZN削減、ポートフォリオ全体約274Bドルが観測される。",
+      "2026-03-31の13FではDAL/M新規、NYT拡大、Alphabet/Lennar保有、CVX縮小、AMZN/V/MA/UNH退出が見え、品質の中身が更新されている。",
     mechanism:
-      "短期ナラティブではなく、インフレ耐性、ブランド耐久性、配当/キャッシュフロー、実物経済の価格決定力に資本を置く。",
-    moneyPath: ["Berkshire capital", "quality cash flow", "consumer/energy/media", "long-duration compounding"],
+      "短期AIテーマの有無ではなく、キャッシュ創出、国内需要、住宅/輸送の実物循環、信頼メディア、そして選別されたメガキャップへ資本を再配置する。",
+    moneyPath: ["Berkshire capital", "domestic demand", "housing/transport/media", "select mega-cap quality", "cash optionality"],
     valueChain: [
-      "Energy/cash flow: CVX, OXY ecosystem",
-      "Consumer brand: DPZ",
+      "Selected mega-cap tech: GOOGL, AAPL",
+      "Domestic transport/consumer: DAL, M, LEN",
       "Media/data trust: NYT",
-      "Trim side: AAPL, AMZN",
+      "Trim/exit side: CVX, AMZN, V, MA, UNH",
       "Balance sheet optionality: cash, insurance float"
     ],
     consensus: "Berkshire is old-economy and slow.",
     nonConsensus: "AI熱狂の裏側で、価格決定力とキャッシュフローへの逃避/選別が別のαになる。",
     whitespace:
-      "派手な成長ではなく、AI時代にも壊れにくいブランド、消費頻度、エネルギー、信頼メディアの再評価。",
+      "派手な成長ではなく、AI時代にも壊れにくい国内需要、住宅、輸送、信頼メディア、選別されたメガキャップの再評価。",
     map: [
       { label: "Float/cash", size: 90, items: ["insurance float", "cash optionality"] },
-      { label: "Adds/new", size: 68, items: ["NYT", "CVX", "DPZ"] },
-      { label: "Trims", size: 58, items: ["AAPL", "AMZN"] },
-      { label: "Themes", size: 64, items: ["quality", "energy", "consumer", "trusted media"] },
+      { label: "Adds/new", size: 74, items: ["DAL", "M", "NYT", "LEN", "GOOGL"] },
+      { label: "Trims/exits", size: 70, items: ["CVX", "AMZN", "V", "MA", "UNH"] },
+      { label: "Themes", size: 66, items: ["quality", "domestic demand", "housing", "transport", "trusted media"] },
       { label: "White space", size: 34, items: ["boring alpha screen", "anti-hype compounders"] }
     ],
-    watchlist: ["BRK.B", "NYT", "CVX", "DPZ", "AAPL", "AMZN", "OXY", "KO", "AXP"],
+    watchlist: ["BRK.B", "GOOGL", "DAL", "M", "NYT", "LEN", "CVX", "AAPL", "AMZN", "V", "MA", "OXY"],
     evidence: [
       {
         date: "2025-12-31",
@@ -696,6 +722,22 @@ if (arkRiskOnRebuildMoment) {
       fact: "ARK publishes trade notification files via its Trade Notifications page and provides a latest trade file link."
     },
     {
+      date: "2026-05-05",
+      source: "Cathie's Ark ARKK ETF Trades",
+      type: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      fact:
+        "Cathie's Ark lists ARKK buying SHOP ($20.7M), WGS ($6.8M), and NTLA ($2.9M) while selling CRWV ($10.8M), AMD ($10.2M), and TER ($7.6M) on 2026-05-05."
+    },
+    {
+      date: "2026-05-05",
+      source: "Cathie's Ark ARKG ETF Trades",
+      type: "secondary tracker",
+      url: "https://cathiesark.com/arkg/trades",
+      fact:
+        "Cathie's Ark lists ARKG buying WGS ($1.8M) while selling TXG ($818.0K) and TWST ($476.9K) on 2026-05-05."
+    },
+    {
       date: "2026-05-06",
       source: "Cathie's Ark ARKK ETF Trades",
       type: "secondary tracker",
@@ -705,11 +747,35 @@ if (arkRiskOnRebuildMoment) {
     },
     {
       date: "2026-05-07",
-      source: "Cathie's Ark TEM / NTLA Trade Pages",
+      source: "Cathie's Ark ARKK / TEM Trade Pages",
       type: "secondary tracker",
-      url: "https://cathiesark.com/ark-funds-combined-trades-of-tem",
+      url: "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
       fact:
-        "Cathie's Ark lists ARKK buying TEM ($6.7M), ARKG buying TEM ($1.2M), and ARKK buying NTLA ($1.4M) on 2026-05-07."
+        "Cathie's Ark lists ARKK buying TEM ($6.7M) and NTLA ($1.4M) while selling TER ($3.3M), AMD ($3.3M), and TWST ($684.6K) on 2026-05-07."
+    },
+    {
+      date: "2026-05-08",
+      source: "Cathie's Ark ARKK / Combined Trade Pages",
+      type: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-crwv",
+      fact:
+        "Cathie's Ark lists ARKK and ARKW buying CRWV ($10.4M and $2.8M), ARKW and ARKF buying TOST ($3.6M and $1.7M), and ARKK buying NTLA ($372.2K) while still selling AMD ($9.8M) and TWST ($598.5K) on 2026-05-08."
+    },
+    {
+      date: "2026-05-12",
+      source: "Cathie's Ark Combined ARK ETF Trades",
+      type: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      fact:
+        "Cathie's Ark combined feed lists ARKK and ARKG buying NTRA ($690.9K and $156.0K) and ARKK buying NTLA ($590.4K) while ARKK and ARKG kept selling TWST ($2.9M and $338.7K) plus ARKG sold CDNA ($314.7K) on 2026-05-12."
+    },
+    {
+      date: "2026-05-13",
+      source: "Cathie's Ark Combined ARK ETF Trades",
+      type: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      fact:
+        "Cathie's Ark combined feed lists ARKK and ARKG buying NTRA ($1.4M and $2.1M) while ARKK and ARKG kept selling TWST ($236.4K and $568.4K), and ARKG also sold CDNA ($353.9K) and ADPT ($166.9K) on 2026-05-13."
     }
   ];
 }
@@ -800,7 +866,15 @@ if (berkshireQualityMoment) {
       source: "SEC EDGAR 13F-HR (Berkshire Hathaway Inc)",
       type: "official filing",
       url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
-      fact: "Berkshire's Form 13F information table for period ended 2025-12-31 includes NYT, CVX, and AAPL holdings."
+      fact: "Berkshire's 2025-12-31 13F showed a new New York Times position plus Chevron and Domino's additions, while Apple and Amazon remained in the portfolio."
+    },
+    {
+      date: "2026-05-15",
+      source: "SEC EDGAR 13F-HR (Berkshire Hathaway Inc)",
+      type: "official filing",
+      url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml",
+      fact:
+        "Comparing Berkshire's 2026-03-31 13F with its 2025-12-31 filing shows new Delta Air Lines and Macy's positions, a much larger New York Times stake, disclosed Alphabet holdings, and the absence of Amazon, Visa, Mastercard, and UnitedHealth from the March 31 table."
     },
     {
       date: "2026-05-02",
@@ -1283,8 +1357,8 @@ const momentCopy = {
       futureReceipt: "1个月后，用ARK官方文件检查这些Add是持续动作还是一次性交易。"
     },
     en: {
-      oracleView: "ARK may be rebuilding risk-on exposure toward AI decisioning, fintech, autonomy, and genomics while trimming selected platforms.",
-      signal: "Secondary trackers show buys in PLTR, HOOD, TSLA, WGS and sells in AMD, ROKU, TER, TWST, BWXT; official files should confirm.",
+      oracleView: "ARK may be rebuilding risk-on exposure toward AI decisioning, fintech, autonomy, and genomics while rotating harder into selected genomics names.",
+      signal: "Secondary trackers now show continued buys in TEM, NTLA, and NTRA alongside repeated sells in TWST, CDNA, and ADPT; official files should confirm.",
       nonConsensus: "This is not generic growth buying; it is theme selection and capital rotation inside innovation ETFs.",
       whitespace: "A daily trade-to-theme layer that reads what was added and what was abandoned is valuable.",
       futureReceipt: "Check in one month whether ARK additions persisted in official files or were one-off trades."
@@ -1306,11 +1380,11 @@ const momentCopy = {
       futureReceipt: "用下一份13F和NYT/DPZ/CVX相对表现验证质量轴是否延续。"
     },
     en: {
-      oracleView: "Berkshire may be allocating toward durable cash flow and brand quality rather than explicit AI momentum.",
-      signal: "13F summaries point to a new NYT position, CVX/DPZ additions, and AAPL/AMZN trims.",
+      oracleView: "Berkshire may be rotating toward domestic demand, trusted media, and selected mega-cap quality rather than simply opting out of AI.",
+      signal: "The latest 13F shows new DAL and M positions, a bigger NYT stake, Alphabet exposure, and trims/exits in CVX, AMZN, V, MA, and UNH.",
       nonConsensus: "Behind AI euphoria, boring high-quality cash flows may become the alpha source.",
-      whitespace: "Brands with pricing power, dividends, data assets, and low AI-disruption risk may be revalued.",
-      futureReceipt: "Review the next 13F and relative performance of NYT, DPZ, and CVX."
+      whitespace: "Domestic demand, housing, transport, trusted media, and selected mega-cap franchises may be revalued.",
+      futureReceipt: "Review the next 13F for persistence in DAL/M/NYT/LEN and continued trims in CVX/AMZN/V/MA/UNH."
     }
   },
   "consumer-attention-reset": {
@@ -1704,6 +1778,435 @@ capitalActions.splice(
   0,
   capitalActions.length,
     {
+      date: "2026-05-15",
+      manager: "Berkshire Hathaway",
+      vehicle: "13F-HR",
+      ticker: "DAL",
+      action: "Buy New",
+      sizeValue: "$2.65B disclosed value",
+      weightChange: "39.8M shares / new position",
+      source: "SEC EDGAR",
+      sourceType: "official filing",
+      url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml",
+      note: "Berkshire's 2026-03-31 13F lists a new Delta Air Lines position disclosed on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "Berkshire Hathaway",
+      vehicle: "13F-HR",
+      ticker: "M",
+      action: "Buy New",
+      sizeValue: "$55.0M disclosed value",
+      weightChange: "3.04M shares / new position",
+      source: "SEC EDGAR",
+      sourceType: "official filing",
+      url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml",
+      note: "Berkshire's 2026-03-31 13F lists a new Macy's position disclosed on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "Berkshire Hathaway",
+      vehicle: "13F-HR",
+      ticker: "NYT",
+      action: "Buy",
+      sizeValue: "$1.27B disclosed value",
+      weightChange: "15.15M shares / position increased vs 2025-12-31",
+      source: "SEC EDGAR",
+      sourceType: "official filing",
+      url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml",
+      note: "Berkshire's 2026-03-31 13F shows a much larger New York Times stake than the 2025-12-31 filing."
+    },
+    {
+      date: "2026-05-15",
+      manager: "Berkshire Hathaway",
+      vehicle: "13F-HR",
+      ticker: "CVX",
+      action: "Sell",
+      sizeValue: "$17.46B disclosed value",
+      weightChange: "84.38M shares / position reduced vs 2025-12-31",
+      source: "SEC EDGAR",
+      sourceType: "official filing",
+      url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml",
+      note: "Berkshire's 2026-03-31 13F shows a smaller Chevron position than the prior-quarter filing."
+    },
+    {
+      date: "2026-05-15",
+      manager: "Berkshire Hathaway",
+      vehicle: "13F-HR",
+      ticker: "AMZN",
+      action: "Sell Exit",
+      sizeValue: "$0 remaining in 2026-03-31 13F",
+      weightChange: "position absent vs 2025-12-31",
+      source: "SEC EDGAR",
+      sourceType: "official filing",
+      url: "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml",
+      note: "Amazon appears in Berkshire's 2025-12-31 13F but is absent from the 2026-03-31 filing."
+    },
+    {
+      date: "2026-05-15",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TER",
+      action: "Sell",
+      sizeValue: "$12.6M",
+      weightChange: "0.15% ETF / 5.76% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Teradyne again on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TSM",
+      action: "Sell",
+      sizeValue: "$18.5M",
+      weightChange: "0.23% ETF / 10.85% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Taiwan Semiconductor on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$816.3K",
+      weightChange: "0.01% ETF / 0.26% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Twist Bioscience again on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$5.8M",
+      weightChange: "0.28% ETF / 2.75% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKW trimming AMD on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "TSM",
+      action: "Sell",
+      sizeValue: "$5.8M",
+      weightChange: "0.28% ETF / 9.88% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKW trimming Taiwan Semiconductor on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "CDNA",
+      action: "Sell",
+      sizeValue: "$132.2K",
+      weightChange: "0.01% ETF / 0.36% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming CareDx again on 2026-05-15."
+    },
+    {
+      date: "2026-05-15",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$59.4K",
+      weightChange: "0.01% ETF / 0.06% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Twist Bioscience again on 2026-05-15."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "TSM",
+      action: "Sell",
+      sizeValue: "$4.9M",
+      weightChange: "0.29% ETF / 9.15% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKW trimming Taiwan Semiconductor on 2026-05-14."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$564.1K",
+      weightChange: "0.01% ETF / 0.28% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Twist Bioscience again on 2026-05-14."
+    },
+    {
+      date: "2026-05-13",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "CDNA",
+      action: "Sell",
+      sizeValue: "$353.9K",
+      weightChange: "0.03% ETF / 0.90% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming CareDx again on 2026-05-13."
+    },
+    {
+      date: "2026-05-13",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTRA",
+      action: "Buy",
+      sizeValue: "$1.4M",
+      weightChange: "0.02% ETF / 1.69% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding Natera on 2026-05-13."
+    },
+    {
+      date: "2026-05-13",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$236.4K",
+      weightChange: "0% ETF / 0.14% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Twist Bioscience again on 2026-05-13."
+    },
+    {
+      date: "2026-05-13",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "ADPT",
+      action: "Sell",
+      sizeValue: "$166.9K",
+      weightChange: "0.01% ETF / 0.63% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Adaptive Biotechnologies again on 2026-05-13."
+    },
+    {
+      date: "2026-05-13",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$568.4K",
+      weightChange: "0.05% ETF / 0.58% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Twist Bioscience again on 2026-05-13."
+    },
+    {
+      date: "2026-05-13",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "NTRA",
+      action: "Buy",
+      sizeValue: "$2.1M",
+      weightChange: "0.18% ETF / 4.44% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG adding Natera on 2026-05-13."
+    },
+    {
+      date: "2026-05-12",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$338.7K",
+      weightChange: "0.03% ETF / 0.34% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Twist Bioscience again on 2026-05-12."
+    },
+    {
+      date: "2026-05-12",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "CDNA",
+      action: "Sell",
+      sizeValue: "$314.7K",
+      weightChange: "0.03% ETF / 0.78% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming CareDx on 2026-05-12."
+    },
+    {
+      date: "2026-05-12",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$2.9M",
+      weightChange: "0.04% ETF / 1.61% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Twist Bioscience again on 2026-05-12."
+    },
+    {
+      date: "2026-05-12",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTLA",
+      action: "Buy",
+      sizeValue: "$590.4K",
+      weightChange: "0.01% ETF / 0.38% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding Intellia on 2026-05-12."
+    },
+    {
+      date: "2026-05-12",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTRA",
+      action: "Buy",
+      sizeValue: "$690.9K",
+      weightChange: "0.01% ETF / 0.89% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding Natera on 2026-05-12."
+    },
+    {
+      date: "2026-05-12",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "NTRA",
+      action: "Buy",
+      sizeValue: "$156.0K",
+      weightChange: "0.01% ETF / 0.33% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG adding Natera on 2026-05-12."
+    },
+    {
+      date: "2026-05-08",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "CRWV",
+      action: "Buy",
+      sizeValue: "$10.4M",
+      weightChange: "0.15% ETF / 6.08% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-crwv",
+      note: "Secondary tracker row. Combined Cathie's Ark page shows ARKK buying CoreWeave on 2026-05-08."
+    },
+    {
+      date: "2026-05-08",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "CRWV",
+      action: "Buy",
+      sizeValue: "$2.8M",
+      weightChange: "0.15% ETF / 4.17% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-crwv",
+      note: "Secondary tracker row. Combined Cathie's Ark page shows ARKW buying CoreWeave on 2026-05-08."
+    },
+    {
+      date: "2026-05-08",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "TOST",
+      action: "Buy",
+      sizeValue: "$3.6M",
+      weightChange: "0.20% ETF / 24.11% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-tost",
+      note: "Secondary tracker row. Combined Cathie's Ark page shows ARKW buying Toast on 2026-05-08."
+    },
+    {
+      date: "2026-05-08",
+      manager: "ARK",
+      vehicle: "ARKF",
+      ticker: "TOST",
+      action: "Buy",
+      sizeValue: "$1.7M",
+      weightChange: "0.20% ETF / 100% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined-trades-of-tost",
+      note: "Secondary tracker row. Combined Cathie's Ark page shows ARKF buying Toast on 2026-05-08."
+    },
+    {
+      date: "2026-05-08",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$9.8M",
+      weightChange: "0.15% ETF / 2.63% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming AMD again on 2026-05-08."
+    },
+    {
+      date: "2026-05-08",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$598.5K",
+      weightChange: "0.01% ETF / 0.33% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming Twist Bioscience again on 2026-05-08."
+    },
+    {
+      date: "2026-05-08",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTLA",
+      action: "Buy",
+      sizeValue: "$372.2K",
+      weightChange: "0.01% ETF / 0.26% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk-trades-of-ntla",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK adding Intellia again on 2026-05-08."
+    },
+    {
       date: "2026-05-07",
       manager: "ARK",
       vehicle: "ARKK",
@@ -1743,6 +2246,45 @@ capitalActions.splice(
       note: "Secondary tracker row. Cathie's Ark shows ARKK adding Intellia again on 2026-05-07."
     },
     {
+      date: "2026-05-07",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TER",
+      action: "Sell",
+      sizeValue: "$3.3M",
+      weightChange: "0.05% ETF / 2.70% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming Teradyne on 2026-05-07."
+    },
+    {
+      date: "2026-05-07",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$3.3M",
+      weightChange: "0.05% ETF / 0.94% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming AMD again on 2026-05-07."
+    },
+    {
+      date: "2026-05-07",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$684.6K",
+      weightChange: "0.01% ETF / 0.37% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades?rtm_click=5e4d7325",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming Twist Bioscience on 2026-05-07."
+    },
+    {
       date: "2026-05-06",
       manager: "ARK",
       vehicle: "ARKK",
@@ -1767,6 +2309,19 @@ capitalActions.splice(
       sourceType: "secondary tracker",
       url: "https://cathiesark.com/ark-funds-combined-trades-of-tem",
       note: "Secondary tracker row. Combined Cathie's Ark page shows ARKG adding Tempus on 2026-05-06."
+    },
+    {
+      date: "2026-05-06",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$924.4K",
+      weightChange: "0.08% ETF / 0.90% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkg/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKG trimming Twist Bioscience on 2026-05-06."
     },
     {
       date: "2026-05-06",
@@ -1824,6 +2379,32 @@ capitalActions.splice(
       date: "2026-05-05",
       manager: "ARK",
       vehicle: "ARKK",
+      ticker: "CRWV",
+      action: "Sell",
+      sizeValue: "$10.8M",
+      weightChange: "0.16% ETF / 5.49% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming CoreWeave on 2026-05-05."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "NTLA",
+      action: "Buy",
+      sizeValue: "$2.9M",
+      weightChange: "0.04% ETF / 2.16% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk-trades-of-ntla",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK adding Intellia on 2026-05-05."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKK",
       ticker: "WGS",
       action: "Buy",
       sizeValue: "$6.8M",
@@ -1832,6 +2413,19 @@ capitalActions.splice(
       sourceType: "secondary tracker",
       url: "https://cathiesark.com/arkk/trades",
       note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TER",
+      action: "Sell",
+      sizeValue: "$7.6M",
+      weightChange: "0.12% ETF / 5.91% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkk/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKK trimming Teradyne on 2026-05-05."
     },
     {
       date: "2026-05-05",
@@ -1897,6 +2491,19 @@ capitalActions.splice(
       sourceType: "secondary tracker",
       url: "https://cathiesark.com/arkf/trades",
       note: "Secondary tracker row. Use ARK official latest trade file when importing production data."
+    },
+    {
+      date: "2026-05-05",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TXG",
+      action: "Sell",
+      sizeValue: "$818.0K",
+      weightChange: "0.07% ETF / 1.20% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/arkg/trades",
+      note: "Secondary tracker row. Cathie's Ark shows ARKG trimming 10x Genomics on 2026-05-05."
     },
     {
       date: "2026-05-05",
@@ -2650,16 +3257,16 @@ const capitalFlowThemes = [
     manager: "ARK",
     theme: "Genomics rotation",
     read: "WGSを足し、TWSTを削る。ゲノミクス内でも銘柄選別が起きている可能性。",
-    tickers: ["WGS", "TWST"],
-    size: 58
+    tickers: ["WGS", "TEM", "NTLA", "NTRA", "TWST", "CDNA", "ADPT"],
+    size: 70
   },
   {
-    id: "ark-trim-platforms",
+    id: "ark-compute-commerce-swing",
     manager: "ARK",
-    theme: "Platform trims",
+    theme: "Compute + commerce swing",
     read: "AMD、ROKU、TER、BWXTなどを削る。単純なAI/automation一括買いではない。",
-    tickers: ["AMD", "ROKU", "TER", "BWXT"],
-    size: 64
+    tickers: ["CRWV", "TOST", "AMD", "TER"],
+    size: 68
   },
   {
     id: "berkshire-quality",
