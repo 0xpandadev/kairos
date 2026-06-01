@@ -1,4 +1,5 @@
 name = "kairos"
+account_id = "d65e921c58a09928d7d51f65b16afc53"
 compatibility_date = "2026-04-23"
 compatibility_flags = ["nodejs_compat"]
 
