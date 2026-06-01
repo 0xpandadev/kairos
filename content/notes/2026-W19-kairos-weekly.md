@@ -1,53 +1,54 @@
 # KAIROS Weekly 2026-W19
 
-Frozen as of 2026-05-04.
+Frozen as of 2026-05-11.
 
 ## Thesis
 
-This week the control points got concrete. ARK's venture book and late-April ETF rotation both moved toward agent-ready commerce data, AI implementation labor, and retail financial rails. The market still narrates AI through model supply, but the higher-leverage battleground is who owns merchant context, workflow execution, and the consumer entry point after agents start routing demand.
+This week the missing layer around agents got named. Sequoia framed 2026 as the year of agents because models, tools, and harnesses have finally come together, while Y Combinator's Summer 2026 Requests for Startups turned that into concrete startup categories: company brains, AI-native services, and counter-swarm systems. Coinbase and Robinhood then showed the transaction rails, and ARK's tape matched the narrative by adding `SHOP`, `TEM`, and `WGS` while continuing to cut `AMD`.
 
 ## Top Kairos Moments
 
-1. Agent-led Growth
-   - Fact: On 2026-04-23, ARK wrote that Shopify's native Model Context Protocol endpoints let merchants feed product and inventory data directly into the agentic web.
-   - View: The new distribution edge is not page rank. It is being queryable, purchasable, and preferred by AI agents at the moment of intent.
-2. AI-native Services
-   - Fact: On 2026-04-15, Sequoia wrote in its Auctor announcement that for every $1 spent on software, $6 are spent on services, representing more than $500B of annual labor spend across implementation consultants.
-   - View: AI services is moving from idea to target market. The prize is not another copilot seat, but automating expensive implementation and operations labor.
-3. Stablecoin Financial Rails
-   - Fact: On 2026-04-28, Robinhood said Robinhood Chain's public testnet had already processed more than 100 million transactions and is built for tokenized real-world assets. Cathie's Ark then showed ARKW and ARKF buying HOOD on 2026-04-29.
-   - View: Retail finance is being repositioned as distribution plus rails. If tokenized assets work, the consumer front end captures more of the stack.
+1. Agent Operating Stack
+   - Fact: On 2026-05-08, Sequoia wrote that 2026 is the year of agents because models, tools, and harnesses have finally come together. YC's Summer 2026 RFS added that companies will need a "company brain" so agents can act on structured operating knowledge instead of chat over documents.
+   - View: The scarce asset is moving from raw model access to the context layer that makes agents reliable inside real workflows.
+2. Stablecoin Financial Rails
+   - Fact: On 2026-05-07, Coinbase said Base processed 62% of global onchain stablecoin transaction volume, more than 90% of onchain agentic stablecoin transaction volume, and more than 100 million payments via `x402`. Robinhood had already said on 2026-04-28 that Robinhood Chain's public testnet had processed more than 100 million transactions.
+   - View: Payments and settlement are becoming agent infrastructure. The edge is shifting toward the platforms that can clear machine-driven commerce safely and at scale.
+3. Precision Data Moats
+   - Fact: On 2026-05-05, Tempus reported Q1 2026 revenue of $348.1M, up 36.1% year over year, with Data and Applications revenue up 40.5%. Cathie's Ark then showed ARKK and ARKG buying `TEM` on 2026-05-06 and 2026-05-07.
+   - View: Public-market risk capital is rotating toward application companies that pair proprietary data with AI workflow ownership, not just toward model or chip suppliers.
 
 ## Capital Movement
 
-- ARK Venture Fund said in its Q1 2026 update, published 2026-04-23, that it initiated new positions in `SHOP`, Crusoe, and `RBLX`, and added to Lucra, OpenAI, SpaceX, Replit, Databricks, and Ayar Labs.
-- Cathie's Ark showed ARKK buying `HOOD` ($33.7M) and `KTOS` ($11.5M) on 2026-04-29, then buying `GOOG` ($16.4M) and `META` ($16.3M) while selling `AMD` ($32.2M) on 2026-04-30.
-- Berkshire's 2026-05-02 Form 10-Q showed $51.5B of cash, $339.3B of U.S. Treasury Bills, and $17.2B of payables for unsettled Treasury Bill purchases at 2026-03-31, a reminder that optionality capital is still being hoarded even as innovation money rotates.
+- Cathie's Ark showed repeated ARK buying in `SHOP`, `TEM`, `WGS`, and `NTLA` across 2026-05-05 to 2026-05-07, while `AMD` was sold again across ARKK, ARKW, and ARKF.
+- The tape implies a continued shift away from generic AI compute beta and toward merchant context (`SHOP`), healthcare data/workflows (`TEM`, `NTLA`), and automation-exposed vertical software (`WGS`).
+- Coinbase's 2026-05-07 results and Robinhood's 2026-04-28 results reinforced that financial-rail builders are now reporting usage metrics that look like infrastructure adoption, not just crypto speculation.
 
 ## Point To Map
 
-The map is moving from "who owns the model" to "who owns the context layer around the model." Merchant catalogs, implementation workflows, and financial distribution rails are becoming the practical choke points.
+The map is moving from "agents are coming" to "which layer will agents depend on every day." Company knowledge graphs, merchant/product context, and payment rails look more like chokepoints than the user-facing chat surface.
 
 ## Tickers And Sectors To Watch
 
-- Agentic commerce and distribution: `SHOP`, `AMZN`, `GOOGL`, `META`, `CRM`, `NOW`
-- AI-native services and implementation labor: `NOW`, `CRM`, `ADBE`, `ACN`, `PAYX`, `FIS`
-- Financial rails and tokenized assets: `HOOD`, `COIN`, `SQ`, `PYPL`, `V`, `MA`
-- Infrastructure and power still matter: `VRT`, `ETN`, `CEG`, `SMR`
-- Autonomy remains a sidecar capital read: `KTOS`, `PLTR`, `AVAV`
+- Agent-ready commerce and workflow context: `SHOP`, `CRM`, `NOW`, `MSFT`
+- Financial rails and agentic settlement: `COIN`, `HOOD`, `SQ`, `PYPL`, `V`, `MA`
+- Precision medicine and AI data/workflow platforms: `TEM`, `NTLA`, `TWST`, `ILMN`
+- Vertical software exposed to AI-native service delivery: `WGS`, `ADP`, `PAYX`, `FIS`
+- Autonomy and defense systems remain a live side pocket: `KTOS`, `PLTR`, `AVAV`
 
 ## Future Receipts
 
-- 1M: Do ARK's `SHOP`, `HOOD`, and `KTOS` preferences persist across additional files and funds?
-- 3M: Do agent-led commerce and AI-native services show up in conversion, implementation backlog, or margin commentary?
-- 6M: Do tokenized-asset rails and autonomy deployments become material enough to change revenue mix or valuation framing?
+- 1M: Do ARK's `SHOP`, `TEM`, and `WGS` preferences persist across more daily files, and does `AMD` keep getting used as the source of funds?
+- 3M: Do companies start reporting measurable agent-driven transaction volume, workflow automation, or data-platform pull-through?
+- 6M: Do stablecoin/agent rails and precision-data applications change revenue mix enough to alter valuation framing?
 
 ## Evidence Anchors
 
-- ARK Venture Fund Q1 2026 Update: https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update
-- Sequoia, "Partnering with Auctor": https://sequoiacap.com/article/partnering-with-auctor/
+- Sequoia, "AI Ascent 2026": https://sequoiacap.com/article/ai-ascent-2026/
+- Y Combinator, "Requests for Startups" (Summer 2026): https://www.ycombinator.com/rfs/
+- Coinbase Q1 2026 Financial Results: https://investor.coinbase.com/news/news-details/2026/Coinbase-Q1-Financial-Results-Show-Resilient-Financial-Performance-Driven-by-New-All-Time-High-Crypto-Trading-Volume-Market-Share/default.aspx
 - Robinhood Q1 2026 Results: https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-first-quarter-2026-results
-- Berkshire Hathaway Form 10-Q: https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf
+- Tempus Reports First Quarter 2026 Results: https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/
 - Cathie's Ark ARKK Trades: https://cathiesark.com/arkk/trades
-- Cathie's Ark ARKW Trades: https://cathiesark.com/arkw/trades
-- Cathie's Ark ARKF Trades: https://cathiesark.com/arkf/trades
+- Cathie's Ark ARKG Trades: https://cathiesark.com/arkg/trades
+- Cathie's Ark Combined TEM Trades: https://cathiesark.com/ark-funds-combined-trades-of-tem

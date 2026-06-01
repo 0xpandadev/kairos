@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17",
+  "updatedAt": "2026-05-28",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,292 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-05-27",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$165.0K",
+      "weightChange": "100% position / 0.00% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding Cerebras Systems on 2026-05-27."
+    },
+    {
+      "date": "2026-05-27",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "KTOS",
+      "action": "Buy",
+      "sizeValue": "$522.8K",
+      "weightChange": "100% position / 0.05% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX adding Kratos Defense & Security Solutions on 2026-05-27."
+    },
+    {
+      "date": "2026-05-27",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$44.3K",
+      "weightChange": "0.22% position / 0.00% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW adding Cerebras Systems on 2026-05-27."
+    },
+    {
+      "date": "2026-05-27",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$6.5M",
+      "weightChange": "100% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding Amazon on 2026-05-27."
+    },
+    {
+      "date": "2026-05-27",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "TEM",
+      "action": "Buy",
+      "sizeValue": "$1.2M",
+      "weightChange": "100% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKG adding Tempus AI on 2026-05-27."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "BLSH",
+      "action": "Buy",
+      "sizeValue": "$287.4K",
+      "weightChange": "100% position / 0.04% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF adding Bullish on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BLSH",
+      "action": "Buy",
+      "sizeValue": "$2.1M",
+      "weightChange": "1.57% position / 0.04% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding Bullish on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$11.0M",
+      "weightChange": "3.76% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming AMD on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$25.7M",
+      "weightChange": "67.69% position / 0.41% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Cerebras Systems on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "BLSH",
+      "action": "Buy",
+      "sizeValue": "$622.8K",
+      "weightChange": "1.94% position / 0.04% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW adding Bullish on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$514.6K",
+      "weightChange": "0.73% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW trimming Roku on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$316.6K",
+      "weightChange": "100% position / 0.04% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Roku on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$11.7M",
+      "weightChange": "4.45% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Roku on 2026-05-20."
+    },
+    {
+      "date": "2026-05-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TER",
+      "action": "Sell",
+      "sizeValue": "$5.5M",
+      "weightChange": "7.64% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Teradyne on 2026-05-20."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "KSPI",
+      "action": "Sell",
+      "sizeValue": "$387.5K",
+      "weightChange": "100% position / 0.05% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Kaspi.kz on 2026-05-19."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$122.9K",
+      "weightChange": "0.17% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW trimming Roku on 2026-05-19."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$1.9M",
+      "weightChange": "0.67% position / 0.02% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Roku on 2026-05-19."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$94.4K",
+      "weightChange": "100% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Roku on 2026-05-19."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "BLSH",
+      "action": "Buy",
+      "sizeValue": "$230.2K",
+      "weightChange": "100% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Bullish on 2026-05-19."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BLSH",
+      "action": "Buy",
+      "sizeValue": "$1.7M",
+      "weightChange": "1.30% position / 0.02% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Bullish on 2026-05-19."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "BLSH",
+      "action": "Buy",
+      "sizeValue": "$499.3K",
+      "weightChange": "1.61% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Bullish on 2026-05-19."
+    },
+    {
+      "date": "2026-05-19",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ICE",
+      "action": "Sell",
+      "sizeValue": "$786.4K",
+      "weightChange": "100% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Intercontinental Exchange on 2026-05-19."
+    },
     {
       "date": "2026-05-15",
       "manager": "Berkshire Hathaway",
@@ -249,6 +535,84 @@
       "sourceType": "secondary tracker",
       "url": "https://cathiesark.com/ark-funds-combined/trades",
       "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Twist Bioscience again on 2026-05-14."
+    },
+    {
+      "date": "2026-05-14",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "TWST",
+      "action": "Sell",
+      "sizeValue": "$67.2K",
+      "weightChange": "0.01% ETF / 0.07% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Twist Bioscience again on 2026-05-14."
+    },
+    {
+      "date": "2026-05-14",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TSM",
+      "action": "Sell",
+      "sizeValue": "$11.6M",
+      "weightChange": "0.18% ETF / 10.22% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Taiwan Semiconductor again on 2026-05-14."
+    },
+    {
+      "date": "2026-05-14",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$5.1M",
+      "weightChange": "0.29% ETF / 2.71% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW trimming AMD again on 2026-05-14."
+    },
+    {
+      "date": "2026-05-14",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "ADPT",
+      "action": "Sell",
+      "sizeValue": "$465.0K",
+      "weightChange": "0.04% ETF / 1.79% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Adaptive Biotechnologies again on 2026-05-14."
+    },
+    {
+      "date": "2026-05-14",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "CDNA",
+      "action": "Sell",
+      "sizeValue": "$282.6K",
+      "weightChange": "0.02% ETF / 0.75% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming CareDx again on 2026-05-14."
+    },
+    {
+      "date": "2026-05-14",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TER",
+      "action": "Sell",
+      "sizeValue": "$8.1M",
+      "weightChange": "0.12% ETF / 5.56% position",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Teradyne again on 2026-05-14."
     },
     {
       "date": "2026-05-13",
@@ -1534,7 +1898,7 @@
       "review": "3M",
       "oracleView": "AIの主戦場はモデル性能から、電力・冷却・送電・立地という物理制約へ移り始めている。",
       "valueChain": ["Compute: NVDA, AMD, AVGO, TSM, ASML", "Data center buildout: EQIX, DLR, CORZ, IREN, APLD", "Power/cooling/grid: VRT, ETN, GEV, CEG, BE, SMR", "Materials/industrial: CAT, NUE, FCX, MP"],
-      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "VRT", "ETN", "GEV", "CEG", "BE", "SMR", "CORZ", "IREN", "APLD"],
+      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "VRT", "ETN", "GEV", "CEG", "BE", "SMR", "CORZ", "IREN", "APLD"],
       "evidence": [
         {
           "date": "2026-04-23",
@@ -1556,6 +1920,27 @@
             "type": "official fund commentary",
             "url": "https://www.ark-funds.com/articles/venture-fund/ark-venture-q1-2026-update",
             "fact": "ARK said it initiated a new position in Crusoe and described it as an energy-first AI infrastructure company building scalable computing platforms for next-generation AI workloads."
+          },
+          {
+            "date": "2026-05-13",
+            "source": "Cerebras Systems IPO press release",
+            "type": "official company release",
+            "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-announces-pricing-initial-public-offering",
+            "fact": "Cerebras priced its IPO at $185.00 per share for 30,000,000 Class A shares, said trading would start on Nasdaq on 2026-05-14 under ticker CBRS, and described its WSE-3 as the company's flagship AI processor."
+          },
+          {
+            "date": "2026-05-20",
+            "source": "Cathie's Ark Combined ARK ETF Trades",
+            "type": "secondary tracker",
+            "url": "https://cathiesark.com/ark-funds-combined/trades",
+            "fact": "Cathie's Ark combined feed shows ARKK buying Cerebras Systems for $25.7M on 2026-05-20, and the same tracker marks CBRS as a newly opened position in both ARKK and ARKW on 2026-05-15."
+          },
+          {
+            "date": "2026-05-27",
+            "source": "Cathie's Ark Combined ARK ETF Trades",
+            "type": "secondary tracker",
+            "url": "https://cathiesark.com/ark-funds-combined/trades",
+            "fact": "Cathie's Ark combined feed shows ARK following through on Cerebras Systems on 2026-05-27 with additional CBRS buys in both ARKK ($165.0K) and ARKW ($44.3K), reinforcing that the first-week IPO purchase was not a one-day trade."
           }
         ]
       },
@@ -1622,7 +2007,7 @@
       "review": "6M",
       "oracleView": "Stablecoinは投機商品ではなく、国境を越えるドル決済・企業財務・新興国金融の基盤として再評価され始めている。",
       "valueChain": ["Issuer/exchange: COIN, HOOD", "Payment and merchant rails: SQ, PYPL, V, MA", "Treasury/custody infrastructure: banks, custodians, tokenization platforms", "Risk side: compliance, reserves, regulation"],
-      "watchlist": ["COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
+      "watchlist": ["BLSH", "COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
       "evidence": [
         {
           "date": "2026-04-23",
@@ -1672,6 +2057,27 @@
             "type": "official company release",
             "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q1-Financial-Results-Show-Resilient-Financial-Performance-Driven-by-New-All-Time-High-Crypto-Trading-Volume-Market-Share/default.aspx",
             "fact": "Coinbase said Base processed 62% of total global onchain stablecoin transaction volume, more than 90% of onchain agentic stablecoin transaction volume occurred on Base, and more than 100 million payments had been processed via x402."
+          },
+          {
+            "date": "2026-05-05",
+            "source": "Bullish tokenizes its shares, bringing BLSH onchain",
+            "type": "official company release",
+            "url": "https://www.bullish.com/us/news-insights/bullish-tokenizes-its-shares-bringing-blsh-onchain",
+            "fact": "Bullish said shareholders can hold BLSH ordinary shares as tokens on Solana, calling itself the first NYSE-listed company to fully tokenize its own equity cap table, with Equiniti administering the launch."
+          },
+          {
+            "date": "2026-05-05",
+            "source": "Bullish to acquire Equiniti from Siris",
+            "type": "official company release",
+            "url": "https://www.bullish.com/news-insights/bullish-to-acquire-equiniti-from-siris-in-4-2-billion-transaction-creating-the-global-transfer-agent-for-tokenized-securities",
+            "fact": "Bullish said it agreed to acquire Equiniti for $4.2 billion, and highlighted Equiniti's nearly 3,000 issuer clients, 20 million shareholders, and roughly $500 billion in annual payments as the base for a tokenized-securities transfer-agent stack."
+          },
+          {
+            "date": "2026-05-14",
+            "source": "Bullish reports first quarter 2026 results",
+            "type": "official company release",
+            "url": "https://investors.bullish.com/news/news-details/2026/Bullish-reports-first-quarter-2026-results/default.aspx",
+            "fact": "Bullish reported Q1 2026 adjusted revenue of $92.8 million and adjusted EBITDA of $35.1 million, and said the proposed Equiniti acquisition would give it the tokenization, ledger, and issuer-relationship pieces needed for blockchain-era market infrastructure."
           }
         ]
       },
@@ -1719,6 +2125,13 @@
             "type": "official thesis",
             "url": "https://www.ycombinator.com/rfs",
             "fact": "YC's Summer 2026 Requests for Startups said counter-drone defense is becoming a real-time distributed system problem and explicitly called for startups building the counter-swarm stack."
+          },
+          {
+            "date": "2026-05-27",
+            "source": "Cathie's Ark Combined ARK ETF Trades",
+            "type": "secondary tracker",
+            "url": "https://cathiesark.com/ark-funds-combined/trades",
+            "fact": "Cathie's Ark combined feed shows ARKX buying Kratos Defense & Security Solutions for $522.8K on 2026-05-27, extending ARK's spring preference for autonomy and defense-exposed systems."
           }
         ]
       },
@@ -1762,7 +2175,7 @@
       "score": 81,
       "review": "1M",
       "oracleView": "ARKはPLTR、HOOD、TSLA、WGSのようなAI/fintech/autonomy/genomics露出を足し、AMD、ROKU、TER、TWSTの一部を削る形で、リスクオンの中身を入れ替えている可能性がある。",
-      "watchlist": ["PLTR", "HOOD", "TSLA", "WGS", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT"],
+      "watchlist": ["PLTR", "HOOD", "TSLA", "WGS", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS"],
       "evidence": [
         {
           "date": "2026-04-24",
@@ -1874,7 +2287,28 @@
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
           "url": "https://cathiesark.com/ark-funds-combined/trades",
-          "fact": "Cathie's Ark combined feed lists ARKK and ARKW selling TSM ($18.5M and $5.8M), ARKK selling TER ($12.6M) and TWST ($816.3K), ARKW selling AMD ($5.8M), and ARKG continuing CDNA ($132.2K) and TWST ($59.4K) trims on 2026-05-15."
+          "fact": "Cathie's Ark combined feed shows the 2026-05-14 to 2026-05-15 source-of-funds basket broadening: ARKK and ARKW kept trimming TSM ($11.6M, $18.5M, $4.9M, and $5.8M), ARKW kept selling AMD ($5.1M and $5.8M), ARKK kept selling TER ($8.1M and $12.6M) and TWST ($564.1K and $816.3K), and ARKG continued TWST, CDNA, and ADPT trims into 2026-05-15."
+        },
+        {
+          "date": "2026-05-19",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK rotating again on 2026-05-19 by buying Bullish across ARKK, ARKW, and ARKF ($1.7M, $499.3K, and $230.2K) while selling Roku across the same three funds ($1.9M, $122.9K, and $94.4K) and exiting Kaspi.kz ($387.5K) plus Intercontinental Exchange ($786.4K) in ARKF."
+        },
+        {
+          "date": "2026-05-20",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK extending the rotation on 2026-05-20: ARKK bought Cerebras Systems ($25.7M) and kept adding Bullish across ARKK, ARKW, and ARKF ($2.1M, $622.8K, and $287.4K) while funding the shift with further Roku ($11.7M, $514.6K, and $316.6K), AMD ($11.0M), and Teradyne ($5.5M) sales."
+        },
+        {
+          "date": "2026-05-27",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the rebuild broadening again on 2026-05-27: ARKK and ARKW added CBRS ($165.0K and $44.3K), ARKG bought TEM ($1.2M), ARKX bought KTOS ($522.8K), and ARKK added AMZN ($6.5M), extending ARK's preference for selective compute, autonomy, healthcare data, and commerce exposure."
         },
         {
           "date": "2026-04-25",
@@ -1967,6 +2401,20 @@
           "type": "official filing",
           "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml",
           "fact": "Berkshire's Form 13F information table for period ended 2025-12-31 includes a NYT line item of 5,071,467 shares."
+        },
+        {
+          "date": "2026-05-19",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARKK, ARKW, and ARKF all selling Roku on 2026-05-19 ($1.9M, $122.9K, and $94.4K), extending ARK's multi-fund rotation away from the streaming attention trade."
+        },
+        {
+          "date": "2026-05-20",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARKK, ARKW, and ARKF selling Roku again on 2026-05-20 ($11.7M, $514.6K, and $316.6K), strengthening the multi-fund de-risking signal around ad-driven streaming exposure."
         }
       ]
     }

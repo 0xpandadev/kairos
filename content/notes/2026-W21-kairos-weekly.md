@@ -1,50 +1,50 @@
 # KAIROS Weekly 2026-W21
 
-Frozen as of 2026-05-17.
+Frozen as of 2026-05-24.
 
 ## Thesis
 
-This week the AI tape split into two winning shapes. One side is boring and durable: Berkshire's latest 13F moved deeper into domestic demand, housing, transport, and trusted media while trimming or exiting parts of energy, payments, managed care, and Amazon. The other side is data-dense and application-specific: Tempus and Natera posted strong growth, and Cathie's Ark kept buying `NTRA` and `NTLA` while using `TSM`, `AMD`, `TER`, `TWST`, `CDNA`, and `ADPT` as sources of funds. The common read is that capital now wants either clear real-world cash-flow durability or proprietary workflow and data leverage. Generic AI beta is no longer enough.
+This week the market paid for regulated tokenization and selective compute, not generic AI or attention beta. Cathie's Ark bought `BLSH` across ARKK, ARKW, and ARKF and opened `CBRS` in ARKK, while selling `ROKU`, `AMD`, `TER`, `ICE`, and `KSPI`. Bullish's May 5 push into Equiniti and onchain shares shows why: the next crypto or AI winner may be the issuer-services and settlement stack that turns tokenization into operating infrastructure. Even inside compute, new money is only chasing differentiated architecture, not the crowded basket.
 
 ## Top Kairos Moments
 
-1. Berkshire Quality Boring Alpha
-   - Fact: Berkshire's 2026-03-31 Form 13F, filed on 2026-05-15, disclosed a new `DAL` position, new `M` exposure, a much larger `NYT` stake, continued `GOOGL` ownership, and no `AMZN`, `V`, `MA`, or `UNH` in the March 31 table.
-   - View: The market keeps calling Berkshire anti-AI, but the actual move is a reweighting toward domestic demand, housing, transport, and trust assets, with selective mega-cap exposure instead of broad platform beta.
-2. Precision Data Moats
-   - Fact: Tempus reported Q1 2026 revenue of $348.1M, up 36.1% year over year, with Data and Applications revenue up 40.5% on 2026-05-05. Natera reported Q1 2026 revenue of $696.6M, up 38.8%, with oncology tests up 54.4% on 2026-05-07. Cathie's Ark then added `NTLA` and `NTRA` on 2026-05-12 and 2026-05-13.
-   - View: Genomics is being re-underwritten away from broad tooling and toward data-rich, clinically validated platforms with clearer reimbursement, workflow pull-through, and operating leverage.
-3. Compute Becomes The Funding Source
-   - Fact: Cathie's Ark's combined trade feed on 2026-05-14 and 2026-05-15 showed repeated trims in `TSM`, `AMD`, `TER`, and `TWST`, while genomics adds and healthcare reshuffling continued.
-   - View: AI infrastructure exposure still matters, but public-market innovation money is now demanding either demand capture or workflow-level differentiation. If that proof is missing, compute beta becomes the bankroll.
+1. Tokenized Capital Markets Infrastructure
+   - Fact: On 2026-05-05, Bullish said it would acquire Equiniti for $4.2 billion, and highlighted Equiniti's nearly 3,000 issuer clients, 20 million shareholders, and roughly $500 billion in annual payments. The same day, Bullish said shareholders could hold `BLSH` shares as tokens on Solana through Equiniti.
+   - View: Stablecoins were the warm-up. The bigger prize is the regulated issuer, transfer-agent, and settlement stack for tokenized securities.
+2. Selective Compute Over Generic Compute
+   - Fact: On 2026-05-13, Cerebras priced 30,000,000 Class A shares at $185.00 and said `CBRS` would begin trading on 2026-05-14. Cathie's Ark then showed ARKK buying `CBRS` for $25.7 million on 2026-05-20 while also selling `AMD` for $11.0 million and `TER` for $5.5 million.
+   - View: Risk capital still wants compute exposure, but only where the architecture looks differentiated enough to become a new-control-point story.
+3. Attention Beta Funds The Rotation
+   - Fact: Cathie's Ark sold `ROKU` across ARKK, ARKW, and ARKF on both 2026-05-19 and 2026-05-20, while ARKF also sold `ICE` and `KSPI` and the same basket added `BLSH`.
+   - View: Public-market innovation capital is moving away from ad-driven attention and some legacy exchange exposure toward tokenized market plumbing and machine-native financial rails.
 
 ## Capital Movement
 
-- Berkshire's March 31 13F shifted capital into `DAL`, `M`, `NYT`, `LEN`, and `GOOGL`, while `CVX` got smaller and `AMZN`, `V`, `MA`, and `UNH` disappeared from the disclosed table.
-- Cathie's Ark on 2026-05-12 through 2026-05-15 kept adding `NTRA` and `NTLA` while repeatedly trimming `TWST`, `CDNA`, `ADPT`, `AMD`, `TER`, and `TSM`.
-- The tape now looks like an innovation barbell: durable domestic-demand and trust assets on one side, data-rich healthcare applications on the other.
+- Cathie's Ark on 2026-05-19 and 2026-05-20 bought `BLSH` across three funds and bought `CBRS` in ARKK, while using `ROKU`, `AMD`, `TER`, `ICE`, and `KSPI` as funding sources.
+- Bullish's May 5 announcements linked the trade to a concrete capital-markets roadmap: tokenized cap-table administration plus the planned Equiniti acquisition.
+- The tape suggests ARK wants regulated digital-asset and capital-markets infrastructure exposure, not just passive crypto beta or consumer attention.
 
 ## Point To Map
 
-Last week's agent and context narrative did not disappear. It got filtered through a harder capital market test. If a company owns context, data, or recurring real-world demand, money will stay patient. If it only offers crowded beta to the same AI story, it becomes the source of funds.
+The map is shifting from "crypto adoption" to "who owns the compliant ledger when real securities move onchain." At the same time, compute is being repriced from a broad basket into a narrower contest around differentiated architecture and market structure.
 
 ## Tickers And Sectors To Watch
 
-- Durable domestic demand and trust: `BRK.B`, `DAL`, `M`, `NYT`, `LEN`, `GOOGL`
-- Precision data and diagnostics: `TEM`, `NTRA`, `NTLA`, `WGS`, `ILMN`
-- Stress-test bucket and likely source of funds: `AMD`, `TSM`, `TER`, `TWST`, `CDNA`, `ADPT`
-- Keep monitoring agent and transaction rails: `SHOP`, `COIN`, `HOOD`, `CRM`, `NOW`
+- Tokenized market infrastructure and issuer rails: `BLSH`, `COIN`, `HOOD`, `ICE`, `NDAQ`, `CME`
+- Differentiated AI compute and infrastructure: `CBRS`, `NVDA`, `AMD`, `TSM`, `AVGO`, `VRT`
+- Consumer attention and ad-driven surfaces as source-of-funds risk: `ROKU`, `SNAP`, `PINS`, `SPOT`, `NFLX`
+- Wallet, settlement, and compliance layers around programmable securities: custody, transfer-agent, and tokenized-asset software names
 
 ## Future Receipts
 
-- 1M: Do ARK's `NTRA` and `NTLA` adds persist, and do `AMD`, `TSM`, and `TER` keep funding the rotation?
-- 3M: Do Tempus and Natera convert growth into sustained margin and data-platform operating leverage?
-- 6M: Do Berkshire's domestic-demand and trust-media additions outperform the megacap and payment names it exited or cut?
+- 1M: Do ARK keep adding `BLSH` or `CBRS`, and do `ROKU`, `AMD`, and `TER` remain source-of-funds?
+- 3M: Does Bullish report adoption signals around tokenized shares, issuer services, or Equiniti integration milestones?
+- 6M: Does tokenized market plumbing become a real valuation bucket rather than a one-off narrative premium?
 
 ## Evidence Anchors
 
-- Berkshire Hathaway Form 13F Information Table (2026-03-31): https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml
-- Berkshire Hathaway Form 13F Information Table (2025-12-31): https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml
-- Tempus Reports First Quarter 2026 Results: https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/
-- Natera Reports First Quarter 2026 Financial Results: https://investor.natera.com/news/news-details/2026/Natera-Reports-First-Quarter-2026-Financial-Results/default.aspx
+- Bullish, "Bullish to acquire Equiniti from Siris in $4.2 billion transaction, creating the global transfer agent for tokenized securities": https://www.bullish.com/news-insights/bullish-to-acquire-equiniti-from-siris-in-4-2-billion-transaction-creating-the-global-transfer-agent-for-tokenized-securities
+- Bullish, "Bullish tokenizes its shares, bringing BLSH onchain": https://www.bullish.com/us/news-insights/bullish-tokenizes-its-shares-bringing-blsh-onchain
+- Bullish, "Bullish reports first quarter 2026 results": https://investors.bullish.com/news/news-details/2026/Bullish-reports-first-quarter-2026-results/default.aspx
+- Cerebras Systems, "Cerebras Systems Announces Pricing of Initial Public Offering": https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-announces-pricing-initial-public-offering
 - Cathie's Ark Combined Trades: https://cathiesark.com/ark-funds-combined/trades

@@ -443,7 +443,7 @@ const kairosMoments = [
         type: "secondary tracker",
         url: "https://cathiesark.com/ark-funds-combined/trades",
         fact:
-          "Cathie's Ark combined feed lists ARKK and ARKW selling TSM ($18.5M and $5.8M), ARKK selling TER ($12.6M) and TWST ($816.3K), ARKW selling AMD ($5.8M), and ARKG continuing CDNA ($132.2K) and TWST ($59.4K) trims on 2026-05-15."
+          "Cathie's Ark combined feed shows the 2026-05-14 to 2026-05-15 source-of-funds basket broadening: ARKK and ARKW kept trimming TSM ($11.6M, $18.5M, $4.9M, and $5.8M), ARKW kept selling AMD ($5.1M and $5.8M), ARKK kept selling TER ($8.1M and $12.6M) and TWST ($564.1K and $816.3K), and ARKG continued TWST, CDNA, and ADPT trims into 2026-05-15."
       },
       {
         date: "2026-04-25",
@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W21"
+  selectedBrief: "2026-W22"
 };
 
 const translations = {
@@ -1484,30 +1484,30 @@ weeklyBriefs[0] = {
 };
 
 weeklyBriefs.unshift({
-  id: "2026-W21",
-  title: "KAIROS Weekly 2026-W21",
-  dateRange: "2026-05-11 to 2026-05-17",
-  status: "frozen 2026-05-17",
+  id: "2026-W18",
+  title: "KAIROS Weekly 2026-W18",
+  dateRange: "2026-04-27 to 2026-05-03",
+  status: "frozen 2026-05-04",
   thesis:
-    "The AI tape split into two winning shapes: boring domestic-demand durability on one side, and data-dense healthcare applications on the other, while generic compute beta increasingly became the funding source.",
-  moments: ["Berkshire Quality Boring Alpha", "Precision Data Moats", "ARK Risk-on Rebuild", "Agent-led Growth"],
+    "The control points got concrete: venture and public capital both moved toward agent-ready commerce data, AI implementation labor, and consumer financial rails rather than pure model supply.",
+  moments: ["Agent-led Growth", "AI-native Services", "Stablecoin Financial Rails", "ARK Risk-on Rebuild"],
   capitalFlow:
-    "Berkshire's 2026-03-31 13F added DAL and M, enlarged NYT, and kept GOOGL while AMZN, V, MA, and UNH disappeared from the disclosed table; Cathie's Ark then kept adding NTRA and NTLA while trimming TSM, AMD, TER, TWST, CDNA, and ADPT through 2026-05-15.",
+    "ARK Venture Fund initiated SHOP, Crusoe, and RBLX in Q1 2026, while ARKK, ARKF, and ARKW added HOOD, GOOG, META, and KTOS and kept reducing AMD or ARKB exposure in late April 2026.",
   mapRead:
-    "The capital market is no longer rewarding generic AI exposure by default. It is rewarding either recurring real-world cash flow and trust, or proprietary data and workflow leverage that can survive the next narrowing of the narrative.",
+    "The next edge is not just owning the model. It is owning merchant context, implementation workflows, and retail financial distribution once agents start routing demand.",
   watchNext: [
-    "continued ARK adds into NTRA, NTLA, or TEM",
-    "whether AMD, TSM, and TER remain the source of funds",
-    "Tempus and Natera margin follow-through",
-    "relative performance of Berkshire's domestic-demand additions versus its large-cap exits"
+    "SHOP MCP adoption and merchant agent traffic",
+    "HOOD chain or tokenized-asset traction",
+    "AI-native services gross-margin proof",
+    "ARK preference for HOOD, GOOG, META, and KTOS over AMD"
   ],
   futureReceipt:
-    "1M: ARK genomics add persistence. 3M: margin and workflow leverage evidence at data-rich healthcare platforms. 6M: Berkshire's boring-alpha basket relative to the names it exited or trimmed."
+    "1M: repeated ARK adds into SHOP or HOOD. 3M: agent-led commerce and implementation-margin evidence. 6M: tokenized-asset rails and autonomy contracts translating into revenue mix."
 });
 
 weeklyBriefs.unshift({
-  id: "2026-W20",
-  title: "KAIROS Weekly 2026-W20",
+  id: "2026-W19",
+  title: "KAIROS Weekly 2026-W19",
   dateRange: "2026-05-04 to 2026-05-10",
   status: "frozen 2026-05-11",
   thesis:
@@ -1528,25 +1528,69 @@ weeklyBriefs.unshift({
 });
 
 weeklyBriefs.unshift({
-  id: "2026-W19",
-  title: "KAIROS Weekly 2026-W19",
-  dateRange: "2026-04-27 to 2026-05-03",
-  status: "frozen 2026-05-04",
+  id: "2026-W20",
+  title: "KAIROS Weekly 2026-W20",
+  dateRange: "2026-05-11 to 2026-05-17",
+  status: "frozen 2026-05-17",
   thesis:
-    "The control points got concrete: venture and public capital both moved toward agent-ready commerce data, AI implementation labor, and consumer financial rails rather than pure model supply.",
-  moments: ["Agent-led Growth", "AI-native Services", "Stablecoin Financial Rails", "ARK Risk-on Rebuild"],
+    "The AI tape split into two winning shapes: boring domestic-demand durability on one side, and data-dense healthcare applications on the other, while generic compute beta increasingly became the funding source.",
+  moments: ["Berkshire Quality Boring Alpha", "Precision Data Moats", "ARK Risk-on Rebuild", "Agent-led Growth"],
   capitalFlow:
-    "ARK Venture Fund initiated SHOP, Crusoe, and RBLX in Q1 2026, while ARKK, ARKF, and ARKW added HOOD, GOOG, META, and KTOS and kept reducing AMD or ARKB exposure in late April 2026.",
+    "Berkshire's 2026-03-31 13F added DAL and M, enlarged NYT, and kept GOOGL while AMZN, V, MA, and UNH disappeared from the disclosed table; Cathie's Ark then kept adding NTRA and NTLA while trimming TSM, AMD, TER, TWST, CDNA, and ADPT through 2026-05-15.",
   mapRead:
-    "The next edge is not just owning the model. It is owning merchant context, implementation workflows, and retail financial distribution once agents start routing demand.",
+    "The capital market is no longer rewarding generic AI exposure by default. It is rewarding either recurring real-world cash flow and trust, or proprietary data and workflow leverage that can survive the next narrowing of the narrative.",
   watchNext: [
-    "SHOP MCP adoption and merchant agent traffic",
-    "HOOD chain or tokenized-asset traction",
-    "AI-native services gross-margin proof",
-    "ARK preference for HOOD, GOOG, META, and KTOS over AMD"
+    "continued ARK adds into NTRA, NTLA, or TEM",
+    "whether AMD, TSM, and TER remain the source of funds",
+    "Tempus and Natera margin follow-through",
+    "relative performance of Berkshire's domestic-demand additions versus its large-cap exits"
   ],
   futureReceipt:
-    "1M: repeated ARK adds into SHOP or HOOD. 3M: agent-led commerce and implementation-margin evidence. 6M: tokenized-asset rails and autonomy contracts translating into revenue mix."
+    "1M: ARK genomics add persistence. 3M: margin and workflow leverage evidence at data-rich healthcare platforms. 6M: Berkshire's boring-alpha basket relative to the names it exited or trimmed."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W21",
+  title: "KAIROS Weekly 2026-W21",
+  dateRange: "2026-05-18 to 2026-05-24",
+  status: "frozen 2026-05-24",
+  thesis:
+    "This week the market paid for regulated tokenization and selective compute, not generic AI or attention beta.",
+  moments: ["Stablecoin Financial Rails", "Compute to Power Bottleneck", "Consumer Attention Reset", "ARK Risk-on Rebuild"],
+  capitalFlow:
+    "Cathie's Ark bought BLSH across ARKK, ARKW, and ARKF and opened CBRS in ARKK on 2026-05-19 and 2026-05-20 while selling ROKU, AMD, TER, ICE, and KSPI; Bullish's own releases tied that rotation to tokenized issuer infrastructure and Equiniti.",
+  mapRead:
+    "This no longer looks like a generic crypto trade. It looks like a bet that tokenized capital-markets plumbing and differentiated compute are the next control points, while ad-driven attention becomes a funding source.",
+  watchNext: [
+    "continued ARK adds into BLSH or CBRS",
+    "Bullish tokenization or Equiniti integration milestones",
+    "whether ROKU, AMD, and TER remain source-of-funds",
+    "institutional adoption signals around tokenized equities or issuer rails"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence in BLSH and CBRS. 3M: Bullish adoption and integration milestones. 6M: rerating for tokenized market infrastructure versus attention beta."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W22",
+  title: "KAIROS Weekly 2026-W22",
+  dateRange: "2026-05-25 to 2026-05-31",
+  status: "frozen 2026-05-31",
+  thesis:
+    "The rotation stopped looking like a one-off tokenization trade and started looking like a portfolio rule: capital kept narrowing toward operational control points in selective compute, defense autonomy, healthcare data, and commerce distribution.",
+  moments: ["Compute to Power Bottleneck", "Defense Autonomy", "ARK Risk-on Rebuild", "Stablecoin Financial Rails"],
+  capitalFlow:
+    "Cathie's Ark added CBRS again in ARKK and ARKW, bought KTOS in ARKX, added TEM in ARKG, and added AMZN in ARKK on 2026-05-27, extending the prior week's shift away from generic beta and toward tighter operating chokepoints.",
+  mapRead:
+    "This is no longer a generic AI rebound. It looks like a filter for assets that translate infrastructure into workflow leverage: compute architecture, defense procurement, healthcare data loops, and commerce distribution.",
+  watchNext: [
+    "continued ARK adds into CBRS, KTOS, or TEM",
+    "whether AMZN remains part of the same rotation basket",
+    "defense autonomy contract or backlog evidence",
+    "Tempus application, margin, or data-platform follow-through"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence in CBRS, KTOS, and TEM. 3M: defense backlog and Tempus workflow leverage evidence. 6M: sustained premium for narrow operating control points over generic AI beta."
 });
 
 const monthlySummaries = [
@@ -1980,6 +2024,84 @@ capitalActions.splice(
       sourceType: "secondary tracker",
       url: "https://cathiesark.com/ark-funds-combined/trades",
       note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Twist Bioscience again on 2026-05-14."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "TWST",
+      action: "Sell",
+      sizeValue: "$67.2K",
+      weightChange: "0.01% ETF / 0.07% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Twist Bioscience again on 2026-05-14."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TSM",
+      action: "Sell",
+      sizeValue: "$11.6M",
+      weightChange: "0.18% ETF / 10.22% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Taiwan Semiconductor again on 2026-05-14."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKW",
+      ticker: "AMD",
+      action: "Sell",
+      sizeValue: "$5.1M",
+      weightChange: "0.29% ETF / 2.71% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKW trimming AMD again on 2026-05-14."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "ADPT",
+      action: "Sell",
+      sizeValue: "$465.0K",
+      weightChange: "0.04% ETF / 1.79% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming Adaptive Biotechnologies again on 2026-05-14."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKG",
+      ticker: "CDNA",
+      action: "Sell",
+      sizeValue: "$282.6K",
+      weightChange: "0.02% ETF / 0.75% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKG trimming CareDx again on 2026-05-14."
+    },
+    {
+      date: "2026-05-14",
+      manager: "ARK",
+      vehicle: "ARKK",
+      ticker: "TER",
+      action: "Sell",
+      sizeValue: "$8.1M",
+      weightChange: "0.12% ETF / 5.56% position",
+      source: "Cathie's Ark",
+      sourceType: "secondary tracker",
+      url: "https://cathiesark.com/ark-funds-combined/trades",
+      note: "Secondary tracker row. Cathie's Ark combined feed shows ARKK trimming Teradyne again on 2026-05-14."
     },
     {
       date: "2026-05-13",

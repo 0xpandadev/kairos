@@ -1,54 +1,50 @@
 # KAIROS Weekly 2026-W20
 
-Frozen as of 2026-05-11.
+Frozen as of 2026-05-17.
 
 ## Thesis
 
-This week the missing layer around agents got named. Sequoia framed 2026 as the year of agents because models, tools, and harnesses have finally come together, while Y Combinator's Summer 2026 Requests for Startups turned that into concrete startup categories: company brains, AI-native services, and counter-swarm systems. Coinbase and Robinhood then showed the transaction rails, and ARK's tape matched the narrative by adding `SHOP`, `TEM`, and `WGS` while continuing to cut `AMD`.
+This week the AI tape split into two winning shapes. One side is boring and durable: Berkshire's latest 13F moved deeper into domestic demand, housing, transport, and trusted media while trimming or exiting parts of energy, payments, managed care, and Amazon. The other side is data-dense and application-specific: Tempus and Natera posted strong growth, and Cathie's Ark kept buying `NTRA` and `NTLA` while using `TSM`, `AMD`, `TER`, `TWST`, `CDNA`, and `ADPT` as sources of funds. The common read is that capital now wants either clear real-world cash-flow durability or proprietary workflow and data leverage. Generic AI beta is no longer enough.
 
 ## Top Kairos Moments
 
-1. Agent Operating Stack
-   - Fact: On 2026-05-08, Sequoia wrote that 2026 is the year of agents because models, tools, and harnesses have finally come together. YC's Summer 2026 RFS added that companies will need a "company brain" so agents can act on structured operating knowledge instead of chat over documents.
-   - View: The scarce asset is moving from raw model access to the context layer that makes agents reliable inside real workflows.
-2. Stablecoin Financial Rails
-   - Fact: On 2026-05-07, Coinbase said Base processed 62% of global onchain stablecoin transaction volume, more than 90% of onchain agentic stablecoin transaction volume, and more than 100 million payments via `x402`. Robinhood had already said on 2026-04-28 that Robinhood Chain's public testnet had processed more than 100 million transactions.
-   - View: Payments and settlement are becoming agent infrastructure. The edge is shifting toward the platforms that can clear machine-driven commerce safely and at scale.
-3. Precision Data Moats
-   - Fact: On 2026-05-05, Tempus reported Q1 2026 revenue of $348.1M, up 36.1% year over year, with Data and Applications revenue up 40.5%. Cathie's Ark then showed ARKK and ARKG buying `TEM` on 2026-05-06 and 2026-05-07.
-   - View: Public-market risk capital is rotating toward application companies that pair proprietary data with AI workflow ownership, not just toward model or chip suppliers.
+1. Berkshire Quality Boring Alpha
+   - Fact: Berkshire's 2026-03-31 Form 13F, filed on 2026-05-15, disclosed a new `DAL` position, new `M` exposure, a much larger `NYT` stake, continued `GOOGL` ownership, and no `AMZN`, `V`, `MA`, or `UNH` in the March 31 table.
+   - View: The market keeps calling Berkshire anti-AI, but the actual move is a reweighting toward domestic demand, housing, transport, and trust assets, with selective mega-cap exposure instead of broad platform beta.
+2. Precision Data Moats
+   - Fact: Tempus reported Q1 2026 revenue of $348.1M, up 36.1% year over year, with Data and Applications revenue up 40.5% on 2026-05-05. Natera reported Q1 2026 revenue of $696.6M, up 38.8%, with oncology tests up 54.4% on 2026-05-07. Cathie's Ark then added `NTLA` and `NTRA` on 2026-05-12 and 2026-05-13.
+   - View: Genomics is being re-underwritten away from broad tooling and toward data-rich, clinically validated platforms with clearer reimbursement, workflow pull-through, and operating leverage.
+3. Compute Becomes The Funding Source
+   - Fact: Cathie's Ark's combined trade feed on 2026-05-14 and 2026-05-15 showed repeated trims in `TSM`, `AMD`, `TER`, and `TWST`, while genomics adds and healthcare reshuffling continued.
+   - View: AI infrastructure exposure still matters, but public-market innovation money is now demanding either demand capture or workflow-level differentiation. If that proof is missing, compute beta becomes the bankroll.
 
 ## Capital Movement
 
-- Cathie's Ark showed repeated ARK buying in `SHOP`, `TEM`, `WGS`, and `NTLA` across 2026-05-05 to 2026-05-07, while `AMD` was sold again across ARKK, ARKW, and ARKF.
-- The tape implies a continued shift away from generic AI compute beta and toward merchant context (`SHOP`), healthcare data/workflows (`TEM`, `NTLA`), and automation-exposed vertical software (`WGS`).
-- Coinbase's 2026-05-07 results and Robinhood's 2026-04-28 results reinforced that financial-rail builders are now reporting usage metrics that look like infrastructure adoption, not just crypto speculation.
+- Berkshire's March 31 13F shifted capital into `DAL`, `M`, `NYT`, `LEN`, and `GOOGL`, while `CVX` got smaller and `AMZN`, `V`, `MA`, and `UNH` disappeared from the disclosed table.
+- Cathie's Ark on 2026-05-12 through 2026-05-15 kept adding `NTRA` and `NTLA` while repeatedly trimming `TWST`, `CDNA`, `ADPT`, `AMD`, `TER`, and `TSM`.
+- The tape now looks like an innovation barbell: durable domestic-demand and trust assets on one side, data-rich healthcare applications on the other.
 
 ## Point To Map
 
-The map is moving from "agents are coming" to "which layer will agents depend on every day." Company knowledge graphs, merchant/product context, and payment rails look more like chokepoints than the user-facing chat surface.
+Last week's agent and context narrative did not disappear. It got filtered through a harder capital market test. If a company owns context, data, or recurring real-world demand, money will stay patient. If it only offers crowded beta to the same AI story, it becomes the source of funds.
 
 ## Tickers And Sectors To Watch
 
-- Agent-ready commerce and workflow context: `SHOP`, `CRM`, `NOW`, `MSFT`
-- Financial rails and agentic settlement: `COIN`, `HOOD`, `SQ`, `PYPL`, `V`, `MA`
-- Precision medicine and AI data/workflow platforms: `TEM`, `NTLA`, `TWST`, `ILMN`
-- Vertical software exposed to AI-native service delivery: `WGS`, `ADP`, `PAYX`, `FIS`
-- Autonomy and defense systems remain a live side pocket: `KTOS`, `PLTR`, `AVAV`
+- Durable domestic demand and trust: `BRK.B`, `DAL`, `M`, `NYT`, `LEN`, `GOOGL`
+- Precision data and diagnostics: `TEM`, `NTRA`, `NTLA`, `WGS`, `ILMN`
+- Stress-test bucket and likely source of funds: `AMD`, `TSM`, `TER`, `TWST`, `CDNA`, `ADPT`
+- Keep monitoring agent and transaction rails: `SHOP`, `COIN`, `HOOD`, `CRM`, `NOW`
 
 ## Future Receipts
 
-- 1M: Do ARK's `SHOP`, `TEM`, and `WGS` preferences persist across more daily files, and does `AMD` keep getting used as the source of funds?
-- 3M: Do companies start reporting measurable agent-driven transaction volume, workflow automation, or data-platform pull-through?
-- 6M: Do stablecoin/agent rails and precision-data applications change revenue mix enough to alter valuation framing?
+- 1M: Do ARK's `NTRA` and `NTLA` adds persist, and do `AMD`, `TSM`, and `TER` keep funding the rotation?
+- 3M: Do Tempus and Natera convert growth into sustained margin and data-platform operating leverage?
+- 6M: Do Berkshire's domestic-demand and trust-media additions outperform the megacap and payment names it exited or cut?
 
 ## Evidence Anchors
 
-- Sequoia, "AI Ascent 2026": https://sequoiacap.com/article/ai-ascent-2026/
-- Y Combinator, "Requests for Startups" (Summer 2026): https://www.ycombinator.com/rfs/
-- Coinbase Q1 2026 Financial Results: https://investor.coinbase.com/news/news-details/2026/Coinbase-Q1-Financial-Results-Show-Resilient-Financial-Performance-Driven-by-New-All-Time-High-Crypto-Trading-Volume-Market-Share/default.aspx
-- Robinhood Q1 2026 Results: https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-first-quarter-2026-results
+- Berkshire Hathaway Form 13F Information Table (2026-03-31): https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/xslForm13F_X02/53405.xml
+- Berkshire Hathaway Form 13F Information Table (2025-12-31): https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/xslForm13F_X02/50240.xml
 - Tempus Reports First Quarter 2026 Results: https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/
-- Cathie's Ark ARKK Trades: https://cathiesark.com/arkk/trades
-- Cathie's Ark ARKG Trades: https://cathiesark.com/arkg/trades
-- Cathie's Ark Combined TEM Trades: https://cathiesark.com/ark-funds-combined-trades-of-tem
+- Natera Reports First Quarter 2026 Financial Results: https://investor.natera.com/news/news-details/2026/Natera-Reports-First-Quarter-2026-Financial-Results/default.aspx
+- Cathie's Ark Combined Trades: https://cathiesark.com/ark-funds-combined/trades
