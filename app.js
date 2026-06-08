@@ -1,4 +1,4 @@
-const kairosMoments = [
+let kairosMoments = [
   {
     id: "compute-to-power-bottleneck",
     title: "Compute to Power Bottleneck",
@@ -1631,14 +1631,14 @@ const monthlySummaries = [
   }
 ];
 
-const rawFacts = kairosMoments.flatMap((moment) =>
+let rawFacts = kairosMoments.flatMap((moment) =>
   moment.evidence.map((evidence) => ({
     ...evidence,
     moment: moment.title
   }))
 );
 
-const capitalActions = [
+let capitalActions = [
   {
     date: "2026-04-10",
     manager: "ARK",
@@ -3452,7 +3452,7 @@ const capitalFlowThemes = [
   }
 ];
 
-const watchUniverse = [
+let watchUniverse = [
   {
     name: "ARK Daily Trades",
     cadence: "Daily",
@@ -3553,6 +3553,48 @@ const watchUniverse = [
     ]
   }
 ];
+
+function buildRawFacts(moments) {
+  return moments.flatMap((moment) =>
+    moment.evidence.map((evidence) => ({
+      ...evidence,
+      moment: moment.title
+    }))
+  );
+}
+
+function applyDashboardData(payload) {
+  if (!payload || typeof payload !== "object") return;
+
+  if (Array.isArray(payload.moments)) {
+    kairosMoments = payload.moments;
+  }
+
+  if (Array.isArray(payload.capitalActions)) {
+    capitalActions = payload.capitalActions;
+  }
+
+  if (Array.isArray(payload.watchUniverse)) {
+    watchUniverse = payload.watchUniverse;
+  }
+
+  rawFacts = buildRawFacts(kairosMoments);
+  state.moments = kairosMoments;
+}
+
+async function loadDashboardData() {
+  try {
+    const response = await fetch("data/moments.json", { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const payload = await response.json();
+    applyDashboardData(payload);
+  } catch (error) {
+    console.warn("KAIROS data fallback active:", error);
+  }
+}
 
 function t(key) {
   return translations[state.language]?.[key] || translations.ja[key] || key;
@@ -3998,7 +4040,8 @@ function setupLanguageSwitcher() {
   });
 }
 
-function init() {
+async function init() {
+  await loadDashboardData();
   rerenderDashboard();
   setupFilters();
   setupDialog();
