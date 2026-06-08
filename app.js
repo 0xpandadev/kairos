@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W22"
+  selectedBrief: "2026-W23"
 };
 
 const translations = {
@@ -1591,6 +1591,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in CBRS, KTOS, and TEM. 3M: defense backlog and Tempus workflow leverage evidence. 6M: sustained premium for narrow operating control points over generic AI beta."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W23",
+  title: "KAIROS Weekly 2026-W23",
+  dateRange: "2026-06-01 to 2026-06-07",
+  status: "frozen 2026-06-07",
+  thesis:
+    "Capital assembled a machine-economy stack across compute, platform distribution, and stablecoin rails instead of chasing second-derivative AI beta.",
+  moments: ["Compute to Power Bottleneck", "ARK Risk-on Rebuild", "Stablecoin Financial Rails", "Agent-led Growth"],
+  capitalFlow:
+    "ARK bought NVDA and CBRS on 2026-06-01, GOOG/GOOGL/META/BABA/AVGO on 2026-06-03 and 2026-06-04, and COIN/CRCL on 2026-06-04 and 2026-06-05, while AMD, TER, BIDU, and ACHR funded part of the move.",
+  mapRead:
+    "The edge is concentrating into liquid control points that can actually monetize agentic demand: compute, distribution, and programmable payments.",
+  watchNext: [
+    "continued ARK adds into NVDA, AVGO, COIN, or CRCL",
+    "whether AMD, TER, BIDU, and ACHR stay source-of-funds",
+    "payment or agent-commerce adoption signals at Coinbase and Circle",
+    "platform monetization evidence at Alphabet and Meta"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
 });
 
 const monthlySummaries = [
