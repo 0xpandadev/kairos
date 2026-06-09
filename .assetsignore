@@ -2,3 +2,5 @@
 !index.html
 !app.js
 !styles.css
+!data/
+!data/moments.json

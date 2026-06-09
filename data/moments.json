@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05",
+  "updatedAt": "2026-06-08",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,149 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ACHR",
+      "action": "Sell",
+      "sizeValue": "$5.5M",
+      "weightChange": "100% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Archer Aviation on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "DASH",
+      "action": "Buy",
+      "sizeValue": "$300.3K",
+      "weightChange": "100% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX buying DoorDash on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BEAM",
+      "action": "Buy",
+      "sizeValue": "$447.8K",
+      "weightChange": "100% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Beam Therapeutics on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "KDK",
+      "action": "Buy",
+      "sizeValue": "$227.6K",
+      "weightChange": "1.07% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ buying Kodiak AI on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BIDU",
+      "action": "Sell",
+      "sizeValue": "$344.1K",
+      "weightChange": "100% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Baidu on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "ACHR",
+      "action": "Sell",
+      "sizeValue": "$2.3M",
+      "weightChange": "100% position / 0.23% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX selling Archer Aviation on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "XE",
+      "action": "Buy New",
+      "sizeValue": "$25.2K",
+      "weightChange": "100% position / 0.00% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX opening X-Energy on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "PONY",
+      "action": "Buy",
+      "sizeValue": "$412.3K",
+      "weightChange": "2.29% position / 0.02% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ buying Pony AI on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "ACHR",
+      "action": "Sell",
+      "sizeValue": "$5.0M",
+      "weightChange": "8.59% position / 0.23% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ selling Archer Aviation on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "$27.1K",
+      "weightChange": "0.13% position / 0.00% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ buying X-Energy on 2026-06-08."
+    },
+    {
+      "date": "2026-06-08",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "DASH",
+      "action": "Buy",
+      "sizeValue": "$431.2K",
+      "weightChange": "1.89% position / 0.02% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ buying DoorDash on 2026-06-08."
+    },
     {
       "date": "2026-06-05",
       "manager": "ARK",
@@ -2756,7 +2899,7 @@
       "review": "3M",
       "oracleView": "AIの主戦場はモデル性能から、電力・冷却・送電・立地という物理制約へ移り始めている。",
       "valueChain": ["Compute: NVDA, AMD, AVGO, TSM, ASML", "Data center buildout: EQIX, DLR, CORZ, IREN, APLD", "Power/cooling/grid: VRT, ETN, GEV, CEG, BE, SMR", "Materials/industrial: CAT, NUE, FCX, MP"],
-      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "VRT", "ETN", "GEV", "CEG", "BE", "SMR", "CORZ", "IREN", "APLD"],
+      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "VRT", "ETN", "GEV", "CEG", "BE", "SMR", "CORZ", "IREN", "APLD"],
       "evidence": [
         {
           "date": "2026-04-23",
@@ -2827,6 +2970,13 @@
             "type": "secondary tracker",
             "url": "https://cathiesark.com/ark-funds-combined/trades",
             "fact": "Cathie's Ark combined feed shows ARK broadening its compute stack on 2026-06-04 by buying Broadcom across ARKK, ARKQ, and ARKW ($5.9M, $2.0M, and $1.5M) a day after Broadcom's strong Q2 print, while still funding the move with more Teradyne ($7.0M and $2.3M) and AMD ($1.7M) sales."
+          },
+          {
+            "date": "2026-06-04",
+            "source": "X-energy Q1 2026 Results",
+            "type": "official company release",
+            "url": "https://investors.x-energy.com/static-files/bca010d4-7efb-4aff-8cc4-b691818cf5c0",
+            "fact": "X-energy reported Q1 2026 revenues and grant income of $43 million versus $21 million a year earlier, said its IPO added about $1.1 billion of net proceeds, and highlighted NRC, UK GDA, and utility-deployment milestones, reinforcing advanced nuclear as a live AI-power infrastructure leg."
           }
         ]
       },
@@ -3089,7 +3239,7 @@
       "score": 83,
       "review": "1M",
       "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
-      "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS"],
+      "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR"],
       "evidence": [
         {
           "date": "2026-04-24",
@@ -3281,11 +3431,32 @@
           "fact": "Cathie's Ark combined feed shows the rebuild widening again on 2026-06-05: ARKK added CRCL ($8.3M), COIN ($2.0M), and BEAM ($2.7M), ARKQ and ARKX added DASH, XE, PONY, and KDK, and ACHR sales plus another AMD trim helped fund the new basket."
         },
         {
+          "date": "2026-06-08",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the same rebuild continuing on 2026-06-08: ARKQ and ARKX kept adding XE, PONY, KDK, and DASH while ARKK, ARKQ, and ARKX sold more ACHR and ARKK trimmed BIDU again, reinforcing that ARK is still funding operating-autonomy and power-exposed bets from older air-mobility and China-internet exposure."
+        },
+        {
           "date": "2026-06-03",
           "source": "Broadcom Q2 Fiscal 2026 Results",
           "type": "official company release",
           "url": "https://investors.broadcom.com/node/64371/pdf",
           "fact": "Broadcom reported Q2 FY2026 revenue of $22.2B, AI semiconductor revenue of $10.8B up 143% year over year, and Q3 revenue guidance of about $29.4B with AI semiconductor revenue expected to reach $16.0B, helping explain why ARK was willing to add AVGO immediately after the print."
+        },
+        {
+          "date": "2026-05-26",
+          "source": "Pony.ai Q1 2026 Results",
+          "type": "official company release",
+          "url": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-reports-first-quarter-2026-financial-results",
+          "fact": "Pony.ai reported Q1 2026 Robotaxi revenue up 395.4% year over year, total revenue up 145.0% to $34.3 million, and fleet deployment above 1,700 vehicles, which gives ARK's PONY adds a real commercialization backdrop rather than a concept-stock profile."
+        },
+        {
+          "date": "2026-05-07",
+          "source": "Kodiak AI Q1 2026 Results",
+          "type": "official company release",
+          "url": "https://investors.kodiak.ai/news-releases/news-release-details/kodiak-ai-reports-first-quarter-2026-results-announces-100",
+          "fact": "Kodiak AI said it ended Q1 2026 with 28 customer-owned fully driverless vehicles, more than 23,500 cumulative paid driverless hours, and a new $100 million PIPE, which strengthens the case that ARK's KDK buying is tied to deployed autonomy rather than only pilot-stage promise."
         },
         {
           "date": "2026-05-18",
