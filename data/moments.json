@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08",
+  "updatedAt": "2026-06-13",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,162 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-12",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$24.0M",
+      "weightChange": "9.47% position / 1.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ selling AMD on 2026-06-12."
+    },
+    {
+      "date": "2026-06-12",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$11.9M",
+      "weightChange": "100% position / 1.13% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX selling AMD on 2026-06-12."
+    },
+    {
+      "date": "2026-06-12",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$5.1M",
+      "weightChange": "3.42% position / 0.31% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling AMD on 2026-06-12."
+    },
+    {
+      "date": "2026-06-11",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "TER",
+      "action": "Sell",
+      "sizeValue": "$38.8M",
+      "weightChange": "24.54% position / 1.85% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ selling Teradyne on 2026-06-11."
+    },
+    {
+      "date": "2026-06-11",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "TER",
+      "action": "Sell",
+      "sizeValue": "$32.1M",
+      "weightChange": "100% position / 3.19% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX selling Teradyne on 2026-06-11."
+    },
+    {
+      "date": "2026-06-11",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "XE",
+      "action": "Sell",
+      "sizeValue": "$4.1M",
+      "weightChange": "100% position / 0.06% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling X-Energy on 2026-06-11."
+    },
+    {
+      "date": "2026-06-11",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "KTOS",
+      "action": "Sell",
+      "sizeValue": "$4.3M",
+      "weightChange": "100% position / 0.07% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Kratos Defense & Security Solutions on 2026-06-11."
+    },
+    {
+      "date": "2026-06-10",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "HOOD",
+      "action": "Sell",
+      "sizeValue": "$7.9M",
+      "weightChange": "100% position / 0.12% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Robinhood on 2026-06-10."
+    },
+    {
+      "date": "2026-06-10",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "KDK",
+      "action": "Buy",
+      "sizeValue": "$838.8K",
+      "weightChange": "100% position / 0.04% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ buying Kodiak AI on 2026-06-10."
+    },
+    {
+      "date": "2026-06-10",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "IRDM",
+      "action": "Sell",
+      "sizeValue": "$5.8M",
+      "weightChange": "100% position / 0.27% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ selling Iridium Communications on 2026-06-10."
+    },
+    {
+      "date": "2026-06-09",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "XE",
+      "action": "Buy New",
+      "sizeValue": "$96.8K",
+      "weightChange": "100% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX opening X-Energy on 2026-06-09."
+    },
+    {
+      "date": "2026-06-09",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BIDU",
+      "action": "Sell",
+      "sizeValue": "$616.2K",
+      "weightChange": "100% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Baidu on 2026-06-09."
+    },
     {
       "date": "2026-06-08",
       "manager": "ARK",
@@ -2898,8 +3054,8 @@
       "score": 88,
       "review": "3M",
       "oracleView": "AIの主戦場はモデル性能から、電力・冷却・送電・立地という物理制約へ移り始めている。",
-      "valueChain": ["Compute: NVDA, AMD, AVGO, TSM, ASML", "Data center buildout: EQIX, DLR, CORZ, IREN, APLD", "Power/cooling/grid: VRT, ETN, GEV, CEG, BE, SMR", "Materials/industrial: CAT, NUE, FCX, MP"],
-      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "VRT", "ETN", "GEV", "CEG", "BE", "SMR", "CORZ", "IREN", "APLD"],
+      "valueChain": ["Compute: NVDA, AMD, AVGO, TSM, ASML", "Data center buildout: EQIX, DLR, CORZ, IREN, APLD", "Power/cooling/grid: VRT, ETN, GEV, CEG, VST, BE, SMR", "Materials/industrial: CAT, NUE, FCX, MP", "Capital/structured finance: KKR, APO, BX"],
+      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
       "evidence": [
         {
           "date": "2026-04-23",
@@ -2977,6 +3133,20 @@
             "type": "official company release",
             "url": "https://investors.x-energy.com/static-files/bca010d4-7efb-4aff-8cc4-b691818cf5c0",
             "fact": "X-energy reported Q1 2026 revenues and grant income of $43 million versus $21 million a year earlier, said its IPO added about $1.1 billion of net proceeds, and highlighted NRC, UK GDA, and utility-deployment milestones, reinforcing advanced nuclear as a live AI-power infrastructure leg."
+          },
+          {
+            "date": "2026-06-11",
+            "source": "Financial Times",
+            "type": "media summary",
+            "url": "https://www.ft.com/content/34a1a91e-bbe3-4c1f-a62e-682a23c12521",
+            "fact": "The Financial Times reported that KKR launched Helix Digital Infrastructure with more than $10 billion of commitments from KKR, Vistra, NVIDIA, and the Kuwait Investment Authority to finance integrated data center, power, and connectivity projects."
+          },
+          {
+            "date": "2026-06-09",
+            "source": "Wall Street Journal",
+            "type": "media summary",
+            "url": "https://www.wsj.com/tech/ai/broadcom-apollo-blackstone-launch-35-billion-ai-infrastructure-platform-8fc8f65e",
+            "fact": "The Wall Street Journal reported that Broadcom, Apollo, and Blackstone launched the AI XPV Platform with an initial $35 billion tranche to finance AI infrastructure, support more than 20 gigawatts of compute capacity through 2028, and facilitate Anthropic's previously announced expansion of more than 1 gigawatt of compute infrastructure."
           }
         ]
       },
@@ -3471,6 +3641,20 @@
           "type": "official process",
           "url": "https://www.ark-funds.com/ark-trade-notifications",
           "fact": "ARK publishes trade notification files via its Trade Notifications page and provides a latest trade file link."
+        },
+        {
+          "date": "2026-06-10",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the same rotation extending on 2026-06-09 and 2026-06-10: ARKQ and ARKX kept adding KDK, XE, and PONY while ARKK and ARKQ sold BIDU, HOOD, IRDM, ROKU, SRTA, and TWST."
+        },
+        {
+          "date": "2026-06-12",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the June 11-12 rotation turning more defensive: ARK sold AMD across ARKQ, ARKW, and ARKX ($24.0M, $5.1M, and $11.9M), TER across ARKQ and ARKX ($38.8M and $32.1M), and also cut XE and KTOS, showing the rebuild is still being financed by trimming prior compute, nuclear, and defense-adjacent probes."
         }
       ]
     },
