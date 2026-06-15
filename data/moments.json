@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13",
+  "updatedAt": "2026-06-15",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,19 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-15",
+      "manager": "Fox Corporation",
+      "vehicle": "M&A",
+      "ticker": "ROKU",
+      "action": "Acquire",
+      "sizeValue": "$22B enterprise value",
+      "weightChange": "$160.00 per share; $96 cash + 0.9693 FOXA",
+      "source": "Fox Corporation",
+      "sourceType": "official company release",
+      "url": "https://investor.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-to-acquire-roku-inc/",
+      "note": "Fox said on 2026-06-15 that it entered a definitive agreement to acquire Roku in a cash-and-stock deal that values Roku at about $22 billion in enterprise value."
+    },
     {
       "date": "2026-06-12",
       "manager": "ARK",
@@ -3697,8 +3710,15 @@
       "score": 72,
       "review": "3M",
       "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
-      "watchlist": ["NYT", "ROKU", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
+      "watchlist": ["NYT", "ROKU", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
       "evidence": [
+        {
+          "date": "2026-06-15",
+          "source": "Fox Corporation to Acquire Roku, Inc.",
+          "type": "official company release",
+          "url": "https://investor.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-to-acquire-roku-inc/",
+          "fact": "Fox and Roku said they entered a definitive agreement for Fox to acquire Roku at $160.00 per share, valuing Roku at about $22 billion in enterprise value, with Fox expecting the combined company to become the third-largest player in U.S. television by share of viewing."
+        },
         {
           "date": "2026-04-17",
           "source": "Cathie's Ark ARKW ETF Trades",
