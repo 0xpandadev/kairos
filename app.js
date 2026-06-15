@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W23"
+  selectedBrief: "2026-W24"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W24",
+  title: "KAIROS Weekly 2026-W24",
+  dateRange: "2026-06-08 to 2026-06-14",
+  status: "frozen 2026-06-14",
+  thesis:
+    "The AI trade moved one layer deeper into the capital stack as private capital launched infrastructure-financing vehicles while ARK kept pruning public-market beta toward names with real deployment proof.",
+  moments: ["Compute to Power Bottleneck", "ARK Risk-on Rebuild", "Defense Autonomy"],
+  capitalFlow:
+    "Helix and AI XPV pointed to financing power and data-center buildout, while Cathie's Ark added KDK, PONY, XE, and DASH early in the week but sold AMD, TER, XE, KTOS, HOOD, IRDM, BIDU, and ACHR by June 12.",
+  mapRead:
+    "The edge is shifting from generic AI exposure toward who can finance physical buildout or show deployed autonomy throughput in the field.",
+  watchNext: [
+    "whether ARK keeps adding KDK, PONY, or CBRS",
+    "whether AMD, TER, ACHR, and KTOS remain source-of-funds",
+    "Helix or AI XPV follow-on counterparties and project announcements",
+    "Pony.ai and Kodiak deployment or paid-hours follow-through"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence and continued pruning. 3M: infra-financing milestones plus autonomy deployment proof. 6M: sustained premium for financing-and-power control points over concept beta."
 });
 
 const monthlySummaries = [
