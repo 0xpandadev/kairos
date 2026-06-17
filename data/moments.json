@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15",
+  "updatedAt": "2026-06-17",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,19 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-15",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$95.0M",
+      "weightChange": "100% position / 1.14% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Roku on 2026-06-15."
+    },
     {
       "date": "2026-06-15",
       "manager": "Fox Corporation",
@@ -3668,6 +3681,13 @@
           "type": "secondary tracker",
           "url": "https://cathiesark.com/ark-funds-combined/trades",
           "fact": "Cathie's Ark combined feed shows the June 11-12 rotation turning more defensive: ARK sold AMD across ARKQ, ARKW, and ARKX ($24.0M, $5.1M, and $11.9M), TER across ARKQ and ARKX ($38.8M and $32.1M), and also cut XE and KTOS, showing the rebuild is still being financed by trimming prior compute, nuclear, and defense-adjacent probes."
+        },
+        {
+          "date": "2026-06-16",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the de-risking continued on 2026-06-15 and 2026-06-16: ARKK sold ROKU ($95.0M), TSLA ($18.3M), AMZN ($11.5M), and TSM ($3.0M), ARKQ sold AMD ($35.2M), and ARKX sold AMD ($14.9M then $11.8M), which suggests the rebuild stayed in source-of-funds mode rather than widening into fresh adds."
         }
       ]
     },
@@ -3718,6 +3738,13 @@
           "type": "official company release",
           "url": "https://investor.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-to-acquire-roku-inc/",
           "fact": "Fox and Roku said they entered a definitive agreement for Fox to acquire Roku at $160.00 per share, valuing Roku at about $22 billion in enterprise value, with Fox expecting the combined company to become the third-largest player in U.S. television by share of viewing."
+        },
+        {
+          "date": "2026-06-15",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARKK selling Roku for about $95.0M on 2026-06-15, indicating ARK used the Fox deal day as a liquidity event to exit a large public-attention platform exposure."
         },
         {
           "date": "2026-04-17",
