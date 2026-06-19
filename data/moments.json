@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17",
+  "updatedAt": "2026-06-19",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,45 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-18",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SNOW",
+      "action": "Buy New",
+      "sizeValue": "$33.9M",
+      "weightChange": "100% position / 0.50% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK opening Snowflake on 2026-06-18."
+    },
+    {
+      "date": "2026-06-18",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$77.8M",
+      "weightChange": "100% position / 1.13% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Roku again on 2026-06-18."
+    },
+    {
+      "date": "2026-06-17",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "LLY",
+      "action": "Buy New",
+      "sizeValue": "$32.2M",
+      "weightChange": "100% position / 0.44% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK opening Eli Lilly on 2026-06-17."
+    },
     {
       "date": "2026-06-15",
       "manager": "ARK",
@@ -3081,11 +3120,18 @@
       "review": "3M",
       "oracleView": "AIの主戦場はモデル性能から、電力・冷却・送電・立地という物理制約へ移り始めている。",
       "valueChain": ["Compute: NVDA, AMD, AVGO, TSM, ASML", "Data center buildout: EQIX, DLR, CORZ, IREN, APLD", "Power/cooling/grid: VRT, ETN, GEV, CEG, VST, BE, SMR", "Materials/industrial: CAT, NUE, FCX, MP", "Capital/structured finance: KKR, APO, BX"],
-      "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
-      "evidence": [
-        {
-          "date": "2026-04-23",
-          "source": "ARK Trade Notifications",
+        "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
+        "evidence": [
+          {
+            "date": "2026-06-18",
+            "source": "Associated Press on FERC order",
+            "type": "media summary",
+            "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+            "fact": "AP reported that on 2026-06-18 the Federal Energy Regulatory Commission unanimously ordered six regional grid operators to speed interconnection processes for very large loads such as AI data centers, while requiring those customers to bear the full cost of any needed grid upgrades."
+          },
+          {
+            "date": "2026-04-23",
+            "source": "ARK Trade Notifications",
           "type": "official process",
           "url": "https://www.ark-funds.com/ark-trade-notifications",
           "fact": "ARK says it posts portfolio holdings files daily and sends trade information for actively managed ETFs, with exclusions and reconciliation caveats."
@@ -3435,8 +3481,8 @@
       "score": 83,
       "review": "1M",
       "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
-      "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR"],
-      "evidence": [
+        "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "SNOW", "LLY", "XYZ"],
+        "evidence": [
         {
           "date": "2026-04-24",
           "source": "Cathie's Ark ARKK ETF Trades",
@@ -3682,14 +3728,21 @@
           "url": "https://cathiesark.com/ark-funds-combined/trades",
           "fact": "Cathie's Ark combined feed shows the June 11-12 rotation turning more defensive: ARK sold AMD across ARKQ, ARKW, and ARKX ($24.0M, $5.1M, and $11.9M), TER across ARKQ and ARKX ($38.8M and $32.1M), and also cut XE and KTOS, showing the rebuild is still being financed by trimming prior compute, nuclear, and defense-adjacent probes."
         },
-        {
-          "date": "2026-06-16",
-          "source": "Cathie's Ark Combined ARK ETF Trades",
-          "type": "secondary tracker",
-          "url": "https://cathiesark.com/ark-funds-combined/trades",
-          "fact": "Cathie's Ark combined feed shows the de-risking continued on 2026-06-15 and 2026-06-16: ARKK sold ROKU ($95.0M), TSLA ($18.3M), AMZN ($11.5M), and TSM ($3.0M), ARKQ sold AMD ($35.2M), and ARKX sold AMD ($14.9M then $11.8M), which suggests the rebuild stayed in source-of-funds mode rather than widening into fresh adds."
-        }
-      ]
+          {
+            "date": "2026-06-16",
+            "source": "Cathie's Ark Combined ARK ETF Trades",
+            "type": "secondary tracker",
+            "url": "https://cathiesark.com/ark-funds-combined/trades",
+            "fact": "Cathie's Ark combined feed shows the de-risking continued on 2026-06-15 and 2026-06-16: ARKK sold ROKU ($95.0M), TSLA ($18.3M), AMZN ($11.5M), and TSM ($3.0M), ARKQ sold AMD ($35.2M), and ARKX sold AMD ($14.9M then $11.8M), which suggests the rebuild stayed in source-of-funds mode rather than widening into fresh adds."
+          },
+          {
+            "date": "2026-06-18",
+            "source": "Cathie's Ark Combined ARK ETF Trades",
+            "type": "secondary tracker",
+            "url": "https://cathiesark.com/ark-funds-combined/trades",
+            "fact": "Cathie's Ark combined feed shows the rotation changing shape on 2026-06-17 and 2026-06-18: ARKK opened Eli Lilly ($32.2M) and Snowflake ($33.9M), added XYZ ($17.6M), COIN ($14.0M), and TSLA ($17.3M), while ARKK, ARKW, and ARKF kept selling Roku ($30.2M, $1.7M, $1.3M on 2026-06-17 and $77.8M, $21.2M, $890.3K on 2026-06-18) alongside HOOD, BIDU, SRTA, and TWST trims."
+          }
+        ]
     },
     {
       "id": "berkshire-quality-boring-alpha",
@@ -3745,6 +3798,13 @@
           "type": "secondary tracker",
           "url": "https://cathiesark.com/ark-funds-combined/trades",
           "fact": "Cathie's Ark combined feed shows ARKK selling Roku for about $95.0M on 2026-06-15, indicating ARK used the Fox deal day as a liquidity event to exit a large public-attention platform exposure."
+        },
+        {
+          "date": "2026-06-18",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the Roku exit continuing after the Fox deal, with ARKK, ARKW, and ARKF selling Roku again on 2026-06-17 and 2026-06-18 for a combined roughly $133.3M, suggesting ARK kept using post-deal liquidity to leave the streaming-attention trade."
         },
         {
           "date": "2026-04-17",
