@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W24"
+  selectedBrief: "2026-W25"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W25",
+  title: "KAIROS Weekly 2026-W25",
+  dateRange: "2026-06-15 to 2026-06-21",
+  status: "frozen 2026-06-21",
+  thesis:
+    "The AI trade shifted from pure buildout hype toward access rights to power, households, and proprietary data as FERC addressed large-load queues, Fox bought Roku, and ARK rotated into Snowflake while selling legacy attention exposure.",
+  moments: ["Compute to Power Bottleneck", "Consumer Attention Reset", "ARK Risk-on Rebuild"],
+  capitalFlow:
+    "The week paired Fox's $22B Roku deal with large ARK Roku sales, while ARKK opened SNOW and LLY and the FERC large-load order made grid-interconnection economics a first-order AI input.",
+  mapRead:
+    "The next edge is concentrating in assets that control access to scarce infrastructure or durable monetization surfaces, not in generic AI or streaming beta.",
+  watchNext: [
+    "whether ARK keeps adding SNOW, COIN, or TSLA",
+    "whether ROKU, AMD, HOOD, and BIDU remain source-of-funds",
+    "grid-queue or upgrade-rule follow-through after the 2026-06-18 FERC order",
+    "Fox's integration and monetization framing for Roku and Tubi"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence plus grid-rule follow-through. 3M: Roku integration and power-counterparty milestones. 6M: sustained premium for power, data, and distribution access rights over old beta."
 });
 
 weeklyBriefs.unshift({
