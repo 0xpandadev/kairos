@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19",
+  "updatedAt": "2026-06-23",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,84 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-22",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "RBLX",
+      "action": "Buy",
+      "sizeValue": "$17.1M",
+      "weightChange": "100% position / 0.25% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Roblox on 2026-06-22."
+    },
+    {
+      "date": "2026-06-22",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "RBLX",
+      "action": "Buy",
+      "sizeValue": "$4.3M",
+      "weightChange": "9.67% position / 0.25% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Roblox on 2026-06-22."
+    },
+    {
+      "date": "2026-06-22",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "RBLX",
+      "action": "Buy",
+      "sizeValue": "$1.9M",
+      "weightChange": "100% position / 0.25% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Roblox on 2026-06-22."
+    },
+    {
+      "date": "2026-06-22",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$10.7M",
+      "weightChange": "100% position / 0.15% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Roku again on 2026-06-22."
+    },
+    {
+      "date": "2026-06-22",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$9.7M",
+      "weightChange": "17.97% position / 0.56% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling Roku again on 2026-06-22."
+    },
+    {
+      "date": "2026-06-22",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$1.9M",
+      "weightChange": "100% position / 0.26% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Roku again on 2026-06-22."
+    },
     {
       "date": "2026-06-18",
       "manager": "ARK",
@@ -3481,8 +3559,15 @@
       "score": 83,
       "review": "1M",
       "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
-        "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "SNOW", "LLY", "XYZ"],
-        "evidence": [
+      "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "SNOW", "LLY", "XYZ", "RBLX"],
+      "evidence": [
+        {
+          "date": "2026-06-22",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the rotation turning back toward consumer-interactive software on 2026-06-22: ARKK, ARKW, and ARKF bought Roblox ($17.1M, $4.3M, and $1.9M) while the same three funds kept selling Roku ($10.7M, $9.7M, and $1.9M), suggesting ARK is still recycling attention exposure rather than restoring the prior streaming-platform position."
+        },
         {
           "date": "2026-04-24",
           "source": "Cathie's Ark ARKK ETF Trades",
@@ -3783,8 +3868,15 @@
       "score": 72,
       "review": "3M",
       "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
-      "watchlist": ["NYT", "ROKU", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
+      "watchlist": ["NYT", "ROKU", "RBLX", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
       "evidence": [
+        {
+          "date": "2026-06-22",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK still exiting Roku after the Fox deal on 2026-06-22, with ARKK, ARKW, and ARKF selling another roughly $22.3M of Roku while buying Roblox across the same three funds for about $23.3M, pointing to a continued shift from legacy streaming distribution toward more interactive attention platforms."
+        },
         {
           "date": "2026-06-15",
           "source": "Fox Corporation to Acquire Roku, Inc.",
