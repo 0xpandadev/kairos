@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23",
+  "updatedAt": "2026-06-24",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,136 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-24",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$15.5M",
+      "weightChange": "100% position / 0.24% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Cerebras Systems again on 2026-06-24."
+    },
+    {
+      "date": "2026-06-24",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$3.9M",
+      "weightChange": "20.91% position / 0.24% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Cerebras Systems again on 2026-06-24."
+    },
+    {
+      "date": "2026-06-24",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$5.1M",
+      "weightChange": "100% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Roku again on 2026-06-24."
+    },
+    {
+      "date": "2026-06-24",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$3.6M",
+      "weightChange": "10.28% position / 0.22% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling Roku again on 2026-06-24."
+    },
+    {
+      "date": "2026-06-24",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$193.1K",
+      "weightChange": "100% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Roku again on 2026-06-24."
+    },
+    {
+      "date": "2026-06-23",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$4.6M",
+      "weightChange": "100% position / 0.07% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Cerebras Systems on 2026-06-23."
+    },
+    {
+      "date": "2026-06-23",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$1.2M",
+      "weightChange": "5.75% position / 0.07% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Cerebras Systems on 2026-06-23."
+    },
+    {
+      "date": "2026-06-23",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$32.6M",
+      "weightChange": "100% position / 0.49% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Roku again on 2026-06-23."
+    },
+    {
+      "date": "2026-06-23",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$9.1M",
+      "weightChange": "20.71% position / 0.54% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling Roku again on 2026-06-23."
+    },
+    {
+      "date": "2026-06-23",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$2.7M",
+      "weightChange": "100% position / 0.36% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Roku again on 2026-06-23."
+    },
     {
       "date": "2026-06-22",
       "manager": "ARK",
@@ -3201,6 +3331,13 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
           {
+            "date": "2026-06-24",
+            "source": "Cathie's Ark Combined ARK ETF Trades",
+            "type": "secondary tracker",
+            "url": "https://cathiesark.com/ark-funds-combined/trades",
+            "fact": "Cathie's Ark combined feed shows ARK leaning back into front-end AI compute on 2026-06-23 and 2026-06-24 by adding Cerebras Systems across ARKK and ARKW for about $5.8M and then $19.4M, extending the post-IPO CBRS accumulation even as the same two-day window still featured large Roku sales elsewhere in the complex."
+          },
+          {
             "date": "2026-06-18",
             "source": "Associated Press on FERC order",
             "type": "media summary",
@@ -3562,6 +3699,13 @@
       "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "SNOW", "LLY", "XYZ", "RBLX"],
       "evidence": [
         {
+          "date": "2026-06-24",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the rebuild broadening again on 2026-06-23 and 2026-06-24: ARKK, ARKW, and ARKF bought PLTR, GOOG, TSLA, AMZN, CRWV, and CBRS across the two sessions, while ARKK, ARKW, and ARKF kept selling Roku for about $53.3M and ARKW kept trimming BIDU, suggesting ARK is recycling capital from streaming and China-internet exposure back into AI platform, mega-cap, and front-end compute bets."
+        },
+        {
           "date": "2026-06-22",
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
@@ -3870,6 +4014,13 @@
       "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
       "watchlist": ["NYT", "ROKU", "RBLX", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
       "evidence": [
+        {
+          "date": "2026-06-24",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the Roku exit extending beyond the initial Fox deal burst on 2026-06-23 and 2026-06-24, with ARKK, ARKW, and ARKF selling another roughly $53.3M of Roku across the two sessions, reinforcing that ARK is still using post-deal liquidity to leave the legacy streaming-distribution trade."
+        },
         {
           "date": "2026-06-22",
           "source": "Cathie's Ark Combined ARK ETF Trades",
