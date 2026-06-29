@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W25"
+  selectedBrief: "2026-W26"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W26",
+  title: "KAIROS Weekly 2026-W26",
+  dateRange: "2026-06-22 to 2026-06-28",
+  status: "frozen 2026-06-28",
+  thesis:
+    "The AI trade kept climbing into operating systems for scarcity as ARK added Cerebras, X-Energy, Palantir, and Coinbase while funding the shift with further Roku and Alibaba sales.",
+  moments: ["Compute to Power Bottleneck", "Stablecoin Financial Rails", "ARK Risk-on Rebuild"],
+  capitalFlow:
+    "ARK spent the week buying CBRS, PLTR, COIN, XE, GOOG, TSLA, AMZN, and RBLX while continuing to sell ROKU and trimming BABA and BIDU, tightening the source-of-funds rotation into compute, power, workflow, and settlement rails.",
+  mapRead:
+    "The next edge is concentrating in control points that govern AI throughput after inference demand arrives: front-end compute, power optionality, enterprise workflow, and machine-native payments.",
+  watchNext: [
+    "whether ARK keeps adding CBRS, XE, PLTR, or COIN",
+    "whether ROKU, BABA, and BIDU remain source-of-funds",
+    "stablecoin and agent-payment adoption evidence at Coinbase or Circle",
+    "power or nuclear counterparties and milestone receipts around X-Energy"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence. 3M: agent-payment and power-project adoption evidence. 6M: sustained premium for throughput-control assets over old distribution beta."
 });
 
 weeklyBriefs.unshift({
