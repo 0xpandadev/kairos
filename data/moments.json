@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26",
+  "updatedAt": "2026-06-30",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,162 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-06-30",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BABA",
+      "action": "Sell",
+      "sizeValue": "$2.0M",
+      "weightChange": "100% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Alibaba on 2026-06-30."
+    },
+    {
+      "date": "2026-06-30",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SNOW",
+      "action": "Buy New",
+      "sizeValue": "$645.1K",
+      "weightChange": "100% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK opening Snowflake again on 2026-06-30."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BABA",
+      "action": "Sell",
+      "sizeValue": "$697.4K",
+      "weightChange": "100% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Alibaba on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "COIN",
+      "action": "Buy",
+      "sizeValue": "$5.5M",
+      "weightChange": "100% position / 0.09% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Coinbase on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "COIN",
+      "action": "Buy",
+      "sizeValue": "$823.8K",
+      "weightChange": "1.58% position / 0.05% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Coinbase on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "COIN",
+      "action": "Buy",
+      "sizeValue": "$368.7K",
+      "weightChange": "100% position / 0.05% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Coinbase on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "$4.4M",
+      "weightChange": "100% position / 0.07% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding X-Energy on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "KTOS",
+      "action": "Buy",
+      "sizeValue": "$6.6M",
+      "weightChange": "100% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Kratos Defense & Security Solutions on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "PLTR",
+      "action": "Buy",
+      "sizeValue": "$3.5M",
+      "weightChange": "100% position / 0.06% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Palantir on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "PLTR",
+      "action": "Buy",
+      "sizeValue": "$893.5K",
+      "weightChange": "2.19% position / 0.05% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Palantir on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "PLTR",
+      "action": "Buy",
+      "sizeValue": "$398.7K",
+      "weightChange": "100% position / 0.05% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Palantir on 2026-06-29."
+    },
+    {
+      "date": "2026-06-29",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$1.1M",
+      "weightChange": "100% position / 0.15% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF still selling Roku on 2026-06-29."
+    },
     {
       "date": "2026-06-26",
       "manager": "ARK",
@@ -3500,11 +3656,11 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
           {
-            "date": "2026-06-26",
+            "date": "2026-06-29",
             "source": "Cathie's Ark Combined ARK ETF Trades",
             "type": "secondary tracker",
             "url": "https://cathiesark.com/ark-funds-combined/trades",
-            "fact": "Cathie's Ark combined feed shows ARKK adding X-Energy on both 2026-06-25 and 2026-06-26 for about $1.8M in total, extending ARK's willingness to carry a power-and-reactor-side AI bottleneck exposure even after the June 23-24 Cerebras buying burst."
+            "fact": "Cathie's Ark combined feed shows ARKK adding X-Energy for about $4.4M on 2026-06-29 while ARKK and ARKW also made another small follow-on Cerebras buy, extending ARK's willingness to keep funding both reactor-side power exposure and front-end AI compute even after the bigger June 23-26 accumulation burst."
           },
           {
             "date": "2026-06-24",
@@ -3875,11 +4031,11 @@
       "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "SNOW", "LLY", "XYZ", "RBLX"],
       "evidence": [
         {
-          "date": "2026-06-26",
+          "date": "2026-06-30",
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
           "url": "https://cathiesark.com/ark-funds-combined/trades",
-          "fact": "Cathie's Ark combined feed shows the rebuild rotating again on 2026-06-25 and 2026-06-26: ARKK, ARKW, and ARKF added about $3.7M of PLTR across the two sessions, ARKK/ARKW/ARKF bought about $9.8M of COIN on 2026-06-26, and ARKK added XE on both days, while ARKK and ARKF sold about $45.5M of BABA on 2026-06-26 and ARKK/ARKW sold another roughly $17.7M of Roku on 2026-06-25, pointing to continued recycling from China-internet and legacy streaming exposure into AI, crypto-financial rails, and power-linked infrastructure."
+          "fact": "Cathie's Ark combined feed shows the rebuild rotating again on 2026-06-29 and 2026-06-30: ARKK added KTOS ($6.6M), XE ($4.4M), CRWV ($6.5M), COIN ($5.5M), PLTR ($3.5M), and SNOW ($2.1M then $645.1K buy new), while ARKW and ARKF joined the COIN and PLTR buying and ARKK kept trimming BABA, TWST, TXG, and VCYT, pointing to continued recycling from China-internet and legacy genomic exposure into defense, crypto-financial rails, AI software, and power-linked infrastructure."
         },
         {
           "date": "2026-06-24",
@@ -4198,11 +4354,11 @@
       "watchlist": ["NYT", "ROKU", "RBLX", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
       "evidence": [
         {
-          "date": "2026-06-25",
+          "date": "2026-06-29",
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
           "url": "https://cathiesark.com/ark-funds-combined/trades",
-          "fact": "Cathie's Ark combined feed shows the Roku exit continuing on 2026-06-25, with ARKK and ARKW selling another roughly $17.7M of Roku one session after the June 23-24 liquidation burst, reinforcing that ARK is still using post-Fox-deal liquidity to leave the legacy streaming-distribution trade."
+          "fact": "Cathie's Ark combined feed shows the Roku exit was still not fully complete on 2026-06-29, with ARKF selling another roughly $1.1M of Roku four sessions after the June 25 follow-through, reinforcing that ARK continued to use post-Fox-deal liquidity to finish exiting the legacy streaming-distribution trade."
         },
         {
           "date": "2026-06-24",
