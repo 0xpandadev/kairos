@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W26"
+  selectedBrief: "2026-W27"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W27",
+  title: "KAIROS Weekly 2026-W27",
+  dateRange: "2026-06-29 to 2026-07-05",
+  status: "frozen 2026-07-05",
+  thesis:
+    "The AI trade started looking like an executable stack as ARK added CRCL, BLSH, XE, and TSLA while still selling ROKU and BABA to fund regulated rails, power optionality, and autonomy demand surfaces.",
+  moments: ["Stablecoin Financial Rails", "Compute to Power Bottleneck", "ARK Risk-on Rebuild", "Consumer Attention Reset"],
+  capitalFlow:
+    "ARK reopened SNOW, added COIN, PLTR, KTOS, XE, and CRCL, kept building BLSH, and then bought TSLA across ARKK, ARKW, and ARKX while still liquidating ROKU and trimming BABA.",
+  mapRead:
+    "The next edge is shifting toward assets that let autonomous software transact, settle, and consume physical throughput in the real world: tokenized rails, power optionality, and scaled autonomy surfaces.",
+  watchNext: [
+    "whether ARK keeps adding CRCL, BLSH, XE, or TSLA",
+    "issuer, payment, or agent-usage milestones at Circle, Coinbase, or Bullish",
+    "X-Energy counterparties and deployment receipts",
+    "whether ROKU and BABA stay the source-of-funds sleeve"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence and a completed Roku exit. 3M: rails adoption and reactor milestones. 6M: sustained premium for power-plus-settlement-plus-autonomy stacks over old distribution beta."
 });
 
 weeklyBriefs.unshift({
