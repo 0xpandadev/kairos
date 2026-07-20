@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W27"
+  selectedBrief: "2026-W29"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W29",
+  title: "KAIROS Weekly 2026-W29",
+  dateRange: "2026-07-13 to 2026-07-19",
+  status: "frozen 2026-07-19",
+  thesis:
+    "The AI trade started looking like a physical execution stack as ARK kept opening SPCX, layering XE, and adding autonomy names while still selling AMD, HOOD, ROKU, and BIDU to fund power, launch-orbit, and mission-system exposure.",
+  moments: ["ARK Risk-on Rebuild", "Compute to Power Bottleneck", "Stablecoin Financial Rails", "Consumer Attention Reset"],
+  capitalFlow:
+    "ARK opened and expanded SPCX across four funds, kept adding XE, KTOS, KDK, PONY, and WRD, still bought CRCL after the COIN adds, and used AMD, HOOD, ROKU, and BIDU as the clearest source-of-funds sleeve.",
+  mapRead:
+    "The next edge is shifting toward infrastructure that lets intelligent systems operate under physical and regulatory constraints: power, launch-orbit, autonomy fleets, and the rails that settle machine-economy activity.",
+  watchNext: [
+    "whether ARK keeps pressing SPCX, XE, KTOS, KDK, PONY, or AVAV",
+    "X-Energy licensing, counterparties, and deployment receipts",
+    "whether CRCL and COIN keep winning over HOOD in the rails sleeve",
+    "whether AMD, ROKU, and BIDU remain the funding source"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence in space, power, and autonomy. 3M: counterparties, fleet deployment, and rails usage evidence. 6M: sustained premium for physical execution surfaces over generic software beta."
 });
 
 weeklyBriefs.unshift({
