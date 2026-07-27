@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W29"
+  selectedBrief: "2026-W30"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W30",
+  title: "KAIROS Weekly 2026-W30",
+  dateRange: "2026-07-20 to 2026-07-26",
+  status: "frozen 2026-07-26",
+  thesis:
+    "The AI trade stopped broadening and started choosing field operators as ARK concentrated into TSLA, SPCX, CRCL, XE, and ACHR while selling HOOD, FIG, DE, IRDM, CAT, TXG, and TWST to fund the tighter stack.",
+  moments: ["ARK Risk-on Rebuild", "Stablecoin Financial Rails", "Compute to Power Bottleneck", "Defense Autonomy"],
+  capitalFlow:
+    "ARK bought about $52.7M of TSLA on 2026-07-23, about $19.6M of SPCX across 2026-07-20 and 2026-07-22, about $7.6M of CRCL on 2026-07-23, and another roughly $1.9M of XE across 2026-07-21 and 2026-07-24 while still adding ACHR, KDK, PONY, and WRD.",
+  mapRead:
+    "The edge is shifting from a broad physical-AI basket toward operators that own closed-loop deployment surfaces across fleets, launch-orbit, settlement rails, and power.",
+  watchNext: [
+    "whether ARK keeps pressing TSLA, SPCX, CRCL, XE, or ACHR",
+    "whether HOOD, DE, and IRDM remain the clearest source-of-funds sleeve",
+    "Tesla autonomy, Archer partner, and Circle settlement-share receipts",
+    "whether the smaller KDK, PONY, and WRD probes keep scaling"
+  ],
+  futureReceipt:
+    "1M: add persistence in the tighter operator stack. 3M: deployment, partner, and settlement-share evidence. 6M: sustained premium for deployment operators over generic beta."
 });
 
 weeklyBriefs.unshift({
