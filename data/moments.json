@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17",
+  "updatedAt": "2026-07-31",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,357 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-07-31",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "CRCL",
+      "action": "Buy",
+      "sizeValue": "$597.9K",
+      "weightChange": "1.84% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF adding Circle Internet Group on 2026-07-31."
+    },
+    {
+      "date": "2026-07-31",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CRCL",
+      "action": "Buy",
+      "sizeValue": "$4.7M",
+      "weightChange": "2.26% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding Circle Internet Group on 2026-07-31."
+    },
+    {
+      "date": "2026-07-31",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CRCL",
+      "action": "Buy",
+      "sizeValue": "$1.4M",
+      "weightChange": "2.46% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW adding Circle Internet Group on 2026-07-31."
+    },
+    {
+      "date": "2026-07-31",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CRWV",
+      "action": "Buy",
+      "sizeValue": "$15.5M",
+      "weightChange": "12.65% position / 0.26% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding CoreWeave on 2026-07-31."
+    },
+    {
+      "date": "2026-07-31",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CRWV",
+      "action": "Buy",
+      "sizeValue": "$6.7M",
+      "weightChange": "14.29% position / 0.39% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW adding CoreWeave on 2026-07-31."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "LHX",
+      "action": "Buy",
+      "sizeValue": "$5.6M",
+      "weightChange": "10.14% position / 0.31% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ adding L3Harris Technologies on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "LHX",
+      "action": "Buy",
+      "sizeValue": "$4.6M",
+      "weightChange": "100% position / 0.59% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX buying L3Harris Technologies on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "$36.7K",
+      "weightChange": "100% position / 0.00% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding X-Energy on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "$23.4K",
+      "weightChange": "0.09% position / 0.00% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ adding X-Energy on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "XE",
+      "action": "Buy New",
+      "sizeValue": "$9.8K",
+      "weightChange": "100% position / 0.00% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX opening X-Energy on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "$8.6M",
+      "weightChange": "100% position / 0.16% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Meta Platforms on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "$4.1M",
+      "weightChange": "10.31% position / 0.26% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Meta Platforms on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "$1.4M",
+      "weightChange": "100% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Meta Platforms on 2026-07-30."
+    },
+    {
+      "date": "2026-07-30",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$1.4M",
+      "weightChange": "100% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF still selling Roku on 2026-07-30."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BWXT",
+      "action": "Buy",
+      "sizeValue": "$1.6M",
+      "weightChange": "100% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying BWX Technologies on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "BWXT",
+      "action": "Buy",
+      "sizeValue": "$534.8K",
+      "weightChange": "1.80% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ adding BWX Technologies on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "BWXT",
+      "action": "Buy",
+      "sizeValue": "$227.7K",
+      "weightChange": "100% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX buying BWX Technologies on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "KTOS",
+      "action": "Buy",
+      "sizeValue": "$4.5M",
+      "weightChange": "100% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Kratos Defense & Security Solutions on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "KTOS",
+      "action": "Buy",
+      "sizeValue": "$2.0M",
+      "weightChange": "1.91% position / 0.11% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ adding Kratos Defense & Security Solutions on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "KTOS",
+      "action": "Buy",
+      "sizeValue": "$868.2K",
+      "weightChange": "100% position / 0.11% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX buying Kratos Defense & Security Solutions on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SPCX",
+      "action": "Buy New",
+      "sizeValue": "$9.2M",
+      "weightChange": "100% position / 0.16% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK opening SPCX on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "SPCX",
+      "action": "Buy",
+      "sizeValue": "$3.0M",
+      "weightChange": "2.59% position / 0.16% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ adding SPCX on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SPCX",
+      "action": "Buy",
+      "sizeValue": "$1.3M",
+      "weightChange": "2.24% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW adding SPCX on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "SPCX",
+      "action": "Buy New",
+      "sizeValue": "$1.3M",
+      "weightChange": "100% position / 0.16% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX opening SPCX on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "$1.7M",
+      "weightChange": "100% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK adding X-Energy on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "$1.2M",
+      "weightChange": "5.08% position / 0.06% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ adding X-Energy on 2026-07-29."
+    },
+    {
+      "date": "2026-07-29",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "XE",
+      "action": "Buy New",
+      "sizeValue": "$503.4K",
+      "weightChange": "100% position / 0.06% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX opening X-Energy on 2026-07-29."
+    },
     {
       "date": "2026-07-17",
       "manager": "ARK",
@@ -5385,6 +5736,20 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "OKLO", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
         {
+          "date": "2026-07-29",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the power-and-reactor sleeve broadening again on 2026-07-29 and 2026-07-30: ARKK, ARKQ, and ARKX bought about $3.6M of BWXT plus about $3.5M of X-Energy across the two sessions, reinforcing that ARK is still adding reactor-side manufacturing and new-nuclear exposure rather than treating the July X-Energy build as finished."
+        },
+        {
+          "date": "2026-07-22",
+          "source": "X-energy Project Prometheus announcement",
+          "type": "official company release",
+          "url": "https://x-energy.com/news/x-energy-joins-project-prometheus-for-ai-accelerated-advanced-nuclear-deployment/",
+          "fact": "X-energy said it joined the Prometheus project with Idaho National Laboratory, NVIDIA, and AWS, that the three-year initiative was awarded $60 million under DOE's Genesis Mission, and that X-energy expects the work to help accelerate deployment across its 11 GW commercial pipeline."
+        },
+        {
           "date": "2026-07-16",
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
@@ -5564,6 +5929,20 @@
       "watchlist": ["BLSH", "CRCL", "COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
       "evidence": [
         {
+          "date": "2026-07-31",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK keeping the issuer-rails bid active on 2026-07-31: ARKK, ARKW, and ARKF bought about $6.7M of Circle while the same session also featured more source-of-funds sales elsewhere, reinforcing that ARK is still concentrating stablecoin exposure in regulated issuer-side infrastructure."
+        },
+        {
+          "date": "2026-07-10",
+          "source": "Circle National Trust approval",
+          "type": "official company release",
+          "url": "https://investor.circle.com/news/news-details/2026/Circle-Receives-Final-OCC-Approval-to-Establish-National-Trust-Bank/default.aspx",
+          "fact": "Circle said it received OCC approval to establish First National Digital Currency Bank, N.A., a national trust bank, bringing USDC custody infrastructure under direct federal oversight and enabling future reserve-management capabilities under that framework."
+        },
+        {
           "date": "2026-07-14",
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
@@ -5666,6 +6045,20 @@
       "valueChain": ["Prime contractors: LMT, RTX, NOC, GD", "Autonomy/software: PLTR, KTOS, AVAV", "Sensors/components: LHX, TDY, BWXT", "Second-order: shipbuilding, energy, secure communications"],
       "watchlist": ["PLTR", "AVAV", "KTOS", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
       "evidence": [
+        {
+          "date": "2026-07-30",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the defense-autonomy sleeve widening again on 2026-07-29 and 2026-07-30: ARKK, ARKQ, and ARKX bought about $7.3M of Kratos, ARKQ and ARKX bought about $10.2M of L3Harris, and ARKK, ARKQ, and ARKX also bought about $2.4M of BWXT, reinforcing that ARK is pressing into autonomy-plus-defense primes and subsystem suppliers rather than only single-name drone exposure."
+        },
+        {
+          "date": "2026-07-28",
+          "source": "Kratos hypersonic facility completion",
+          "type": "official company release",
+          "url": "https://ir.kratosdefense.com/news-releases/news-release-details/kratos-completes-construction-50-million-state-art-hypersonic",
+          "fact": "Kratos said it completed its $50 million Indiana Payload Integration Facility ahead of schedule, bringing a 68,000-square-foot site online to support faster hypersonic payload integration, testing, and manufacturing for U.S. programs including MACH-TB."
+        },
         {
           "date": "2026-07-17",
           "source": "Cathie's Ark Combined ARK ETF Trades",
@@ -5773,6 +6166,13 @@
       "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
       "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "SNOW", "LLY", "XYZ", "RBLX", "SPCX"],
       "evidence": [
+        {
+          "date": "2026-07-31",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the rebuild staying aggressive through 2026-07-29 to 2026-07-31: ARKK, ARKQ, ARKW, and ARKX bought about $14.8M of SPCX, about $7.3M of Kratos, about $3.6M of BWXT, about $3.5M of X-Energy, about $9.2M of L3Harris, about $22.2M of CoreWeave, and about $6.7M of Circle, while ARK kept selling Roku, Shopify, Snowflake, and other source-of-funds names."
+        },
         {
           "date": "2026-07-17",
           "source": "Cathie's Ark Combined ARK ETF Trades",
@@ -6103,6 +6503,13 @@
       "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
       "watchlist": ["NYT", "ROKU", "RBLX", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
       "evidence": [
+        {
+          "date": "2026-07-30",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK rotating attention exposure again on 2026-07-30: ARKF sold another about $1.4M of Roku while ARKK, ARKW, and ARKF bought about $14.1M of Meta, reinforcing that legacy streaming distribution remains a source of funds while scaled ad and AI surfaces keep absorbing incremental capital."
+        },
         {
           "date": "2026-07-17",
           "source": "Cathie's Ark Combined ARK ETF Trades",
