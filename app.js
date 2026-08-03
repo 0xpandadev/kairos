@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W30"
+  selectedBrief: "2026-W31"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W31",
+  title: "KAIROS Weekly 2026-W31",
+  dateRange: "2026-07-27 to 2026-08-02",
+  status: "frozen 2026-08-02",
+  thesis:
+    "The AI trade tightened around sovereign and infrastructure control points as ARK bought SPCX, TSLA, LHX, BWXT, TSM, NVDA, CRCL, CRWV, and XE while selling HOOD, SHOP, NET, DDOG, CRWD, TXG, DE, IRDM, and BLSH to fund the stack.",
+  moments: ["ARK Risk-on Rebuild", "Defense Autonomy", "Compute to Power Bottleneck", "Stablecoin Financial Rails"],
+  capitalFlow:
+    "ARK bought about $31.9M of SPCX, about $16.9M of TSLA, about $10.2M of LHX, about $7.0M of BWXT, about $14.5M of TSM, about $11.6M of NVDA, about $6.1M of CRCL, about $22.2M of CRWV, and another roughly $3.2M of XE across 2026-07-27 to 2026-07-31.",
+  mapRead:
+    "The edge is shifting from broad physical-AI exposure toward regulated and capital-intensive chokepoints across defense sensing, launch-orbit, scaled compute, settlement rails, and power.",
+  watchNext: [
+    "whether ARK keeps pressing LHX, BWXT, TSM, CRWV, CRCL, or SPCX",
+    "whether HOOD, SHOP, NET, and DDOG stay the clearest source-of-funds sleeve",
+    "L3Harris contract execution, BWXT commercial nuclear, and CoreWeave customer receipts",
+    "whether CRCL, TSLA, and XE remain part of the same control-point basket"
+  ],
+  futureReceipt:
+    "1M: ARK add persistence in sovereign and infrastructure control points. 3M: defense, power, and rails receipts. 6M: sustained premium for regulated chokepoints over generic growth beta."
 });
 
 weeklyBriefs.unshift({
