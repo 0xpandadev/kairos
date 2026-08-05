@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-04",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,292 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-08-04",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SPOT",
+      "action": "Buy",
+      "sizeValue": "$1.7M",
+      "weightChange": "9.50% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Spotify Technology on 2026-08-04."
+    },
+    {
+      "date": "2026-08-04",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "SPOT",
+      "action": "Buy",
+      "sizeValue": "$745.8K",
+      "weightChange": "6.18% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Spotify Technology on 2026-08-04."
+    },
+    {
+      "date": "2026-08-04",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ROKU",
+      "action": "Sell",
+      "sizeValue": "$57.5K",
+      "weightChange": "79.72% position / 0.01% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF still selling Roku on 2026-08-04."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$11.3M",
+      "weightChange": "5.12% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Advanced Micro Devices on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMD",
+      "action": "Sell",
+      "sizeValue": "$3.3M",
+      "weightChange": "2.74% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling Advanced Micro Devices on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$1.4M",
+      "weightChange": "4.41% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Amazon.com on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$11.0M",
+      "weightChange": "6.47% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Amazon.com on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$3.7M",
+      "weightChange": "5.04% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ buying Amazon.com on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$3.2M",
+      "weightChange": "4.33% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Amazon.com on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "$1.5M",
+      "weightChange": "3.92% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX buying Amazon.com on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$5.9M",
+      "weightChange": "5.76% position / 0.11% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Cerebras Systems on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$1.7M",
+      "weightChange": "5.83% position / 0.11% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Cerebras Systems on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "COIN",
+      "action": "Buy",
+      "sizeValue": "$716.3K",
+      "weightChange": "1.94% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF buying Coinbase on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "COIN",
+      "action": "Buy",
+      "sizeValue": "$5.7M",
+      "weightChange": "2.45% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Coinbase on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "COIN",
+      "action": "Buy",
+      "sizeValue": "$1.6M",
+      "weightChange": "2.96% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Coinbase on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CRCL",
+      "action": "Buy",
+      "sizeValue": "$1.1M",
+      "weightChange": "0.52% position / 0.02% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Circle Internet Group on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CRCL",
+      "action": "Buy",
+      "sizeValue": "$307.6K",
+      "weightChange": "0.56% position / 0.02% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Circle Internet Group on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CRWV",
+      "action": "Buy",
+      "sizeValue": "$10.2M",
+      "weightChange": "7.06% position / 0.19% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying CoreWeave on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CRWV",
+      "action": "Buy",
+      "sizeValue": "$3.1M",
+      "weightChange": "5.51% position / 0.20% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying CoreWeave on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "RBLX",
+      "action": "Sell",
+      "sizeValue": "$14.4M",
+      "weightChange": "10.52% position / 0.26% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Roblox on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "RBLX",
+      "action": "Sell",
+      "sizeValue": "$4.1M",
+      "weightChange": "10.89% position / 0.26% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling Roblox on 2026-08-03."
+    },
+    {
+      "date": "2026-08-03",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SNOW",
+      "action": "Sell",
+      "sizeValue": "$5.7M",
+      "weightChange": "15.34% position / 0.10% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Snowflake on 2026-08-03."
+    },
     {
       "date": "2026-07-31",
       "manager": "ARK",
@@ -5736,6 +6022,27 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "CBRS", "XE", "OKLO", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
         {
+          "date": "2026-08-03",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK leaning back into front-end AI compute on 2026-08-03: ARKK and ARKW bought about $13.2M of CoreWeave plus about $7.6M of Cerebras while trimming about $14.5M of AMD, reinforcing that the AI infrastructure sleeve is still absorbing capital even after the late-July reactor and defense adds."
+        },
+        {
+          "date": "2026-07-30",
+          "source": "Amazon Q2 2026 Results",
+          "type": "official company release",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+          "fact": "Amazon reported Q2 2026 net sales up 20% to $200.6B, AWS net sales up 37% to $42.2B, and said free cash flow fell to an outflow of $7.6B primarily because property and equipment purchases rose by $66.1B year over year, driven primarily by artificial intelligence."
+        },
+        {
+          "date": "2026-07-23",
+          "source": "AMD and Cerebras inference partnership",
+          "type": "official company release",
+          "url": "https://investors.cerebras.ai/news-releases/news-release-details/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and",
+          "fact": "AMD and Cerebras said AMD Helios and the Cerebras Wafer-Scale Engine will operate as a single disaggregated inference workflow, with Cerebras planning to deploy AMD Helios in its data centers and offer the joint solution through Cerebras Cloud in the second half of 2026."
+        },
+        {
           "date": "2026-07-29",
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
@@ -5928,6 +6235,20 @@
       "valueChain": ["Issuer/exchange: CRCL, COIN, HOOD", "Payment and merchant rails: SQ, PYPL, V, MA", "Treasury/custody infrastructure: banks, custodians, tokenization platforms", "Risk side: compliance, reserves, regulation"],
       "watchlist": ["BLSH", "CRCL", "COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
       "evidence": [
+        {
+          "date": "2026-08-03",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK extending the regulated-rails basket on 2026-08-03: ARKK, ARKW, and ARKF bought about $8.0M of Coinbase and ARKK plus ARKW added another about $1.4M of Circle, suggesting ARK is still adding both the exchange and issuer sides of stablecoin infrastructure rather than backing away after the late-July Circle build."
+        },
+        {
+          "date": "2026-05-07",
+          "source": "Coinbase Q1 2026 Results",
+          "type": "official company release",
+          "url": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q1-Financial-Results-Show-Resilient-Financial-Performance-Driven-by-New-All-Time-High-Crypto-Trading-Volume-Market-Share/default.aspx",
+          "fact": "Coinbase said in Q1 2026 that it led competitors in USDC on platform, onchain stablecoin transaction volume, and agentic stablecoin transaction volume, reinforcing its role as one of the largest regulated distribution points for stablecoin activity."
+        },
         {
           "date": "2026-07-31",
           "source": "Cathie's Ark Combined ARK ETF Trades",
@@ -6166,6 +6487,20 @@
       "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
       "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "SNOW", "LLY", "XYZ", "RBLX", "SPCX"],
       "evidence": [
+        {
+          "date": "2026-08-03",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the rebuild rotating again on 2026-08-03: ARK bought about $20.9M of Amazon across five funds, about $13.2M of CoreWeave, about $7.6M of Cerebras, about $8.0M of Coinbase, and about $1.4M of Circle, while funding the shift with about $18.5M of Roblox sales, about $14.5M of AMD sales, and about $5.7M of Snowflake sales."
+        },
+        {
+          "date": "2026-07-30",
+          "source": "Amazon Q2 2026 Results",
+          "type": "official company release",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+          "fact": "Amazon said Q2 2026 AWS net sales grew 37% year over year to $42.2B, its AI and chips businesses each exceeded annual run rates above $25B, and the company is still accelerating AI infrastructure investment, giving ARK a fresh large-cap platform reason to recycle capital back into Amazon."
+        },
         {
           "date": "2026-07-31",
           "source": "Cathie's Ark Combined ARK ETF Trades",
@@ -6503,6 +6838,20 @@
       "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
       "watchlist": ["NYT", "ROKU", "RBLX", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
       "evidence": [
+        {
+          "date": "2026-08-04",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows ARK rotating attention exposure again on 2026-08-04: ARKW and ARKF bought about $2.5M of Spotify while ARKF sold more Roku, reinforcing that ARK is still shifting away from legacy streaming-distribution exposure and toward scaled audio and subscription platforms."
+        },
+        {
+          "date": "2026-08-05",
+          "source": "Investors.com on Spotify Q2 2026 results",
+          "type": "media summary",
+          "url": "https://www.investors.com/news/technology/spotify-stock-q2-2026-earnings/",
+          "fact": "Investors.com reported Spotify's Q2 2026 results showed premium subscribers up by 7 million to 300 million, revenue up 14% to about $5.51B, and record gross margin of 33.4%, giving ARK's Spotify buys a current operating backdrop instead of a pure style rotation."
+        },
         {
           "date": "2026-07-30",
           "source": "Cathie's Ark Combined ARK ETF Trades",
