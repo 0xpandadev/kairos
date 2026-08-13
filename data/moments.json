@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-08-12",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,162 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-08-12",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "NET",
+      "action": "Buy",
+      "sizeValue": "$10.1M",
+      "weightChange": "19.21% position / 0.16% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Cloudflare on 2026-08-12."
+    },
+    {
+      "date": "2026-08-12",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TWST",
+      "action": "Sell",
+      "sizeValue": "$5.0M",
+      "weightChange": "2.02% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Twist Bioscience on 2026-08-12."
+    },
+    {
+      "date": "2026-08-12",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SHOP",
+      "action": "Sell",
+      "sizeValue": "$2.6M",
+      "weightChange": "0.9% position / 0.04% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Shopify on 2026-08-12."
+    },
+    {
+      "date": "2026-08-12",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "DE",
+      "action": "Sell",
+      "sizeValue": "$2.4M",
+      "weightChange": "79.43% position / 0.04% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling John Deere on 2026-08-12."
+    },
+    {
+      "date": "2026-08-12",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "PLTR",
+      "action": "Sell",
+      "sizeValue": "$1.9M",
+      "weightChange": "0.84% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Palantir Technologies on 2026-08-12."
+    },
+    {
+      "date": "2026-08-11",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "RKLB",
+      "action": "Buy New",
+      "sizeValue": "$15.8M",
+      "weightChange": "100% position / 0.25% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK opening Rocket Lab on 2026-08-11."
+    },
+    {
+      "date": "2026-08-11",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "RKLB",
+      "action": "Buy",
+      "sizeValue": "$5.1M",
+      "weightChange": "6.57% position / 0.25% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ buying Rocket Lab on 2026-08-11."
+    },
+    {
+      "date": "2026-08-11",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "RKLB",
+      "action": "Buy",
+      "sizeValue": "$2.1M",
+      "weightChange": "4.61% position / 0.25% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKX buying Rocket Lab on 2026-08-11."
+    },
+    {
+      "date": "2026-08-11",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "DE",
+      "action": "Sell",
+      "sizeValue": "$18.3M",
+      "weightChange": "85.4% position / 0.29% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling John Deere on 2026-08-11."
+    },
+    {
+      "date": "2026-08-11",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "CAT",
+      "action": "Sell",
+      "sizeValue": "$5.1M",
+      "weightChange": "15.57% position / 0.25% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKQ selling Caterpillar on 2026-08-11."
+    },
+    {
+      "date": "2026-08-11",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "NET",
+      "action": "Buy",
+      "sizeValue": "$1.9M",
+      "weightChange": "3.78% position / 0.03% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Cloudflare on 2026-08-11."
+    },
+    {
+      "date": "2026-08-11",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "NET",
+      "action": "Buy New",
+      "sizeValue": "$448.1K",
+      "weightChange": "12.96% position / 0.06% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF opening Cloudflare on 2026-08-11."
+    },
     {
       "date": "2026-08-10",
       "manager": "ARK",
@@ -7487,8 +7643,22 @@
       "score": 83,
       "review": "1M",
       "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
-      "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX"],
+      "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB"],
       "evidence": [
+        {
+          "date": "2026-08-12",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the rebuild extending into space systems and edge-control software on 2026-08-11 and 2026-08-12: ARKK opened Rocket Lab for about $15.8M while ARKQ and ARKX added another about $7.2M on August 11, ARKF opened Cloudflare for about $448.1K on August 11, and ARKK added another roughly $1.9M on August 11 plus $10.1M on August 12, while Deere, Caterpillar, Shopify, Palantir, and Twist Bioscience remained part of the source-of-funds basket."
+        },
+        {
+          "date": "2026-08-10",
+          "source": "Rocket Lab Q2 2026 Results",
+          "type": "official company release",
+          "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-second-quarter-2026-financial-results-posts",
+          "fact": "Rocket Lab reported Q2 2026 revenue of $234.1M up 62% year over year, backlog of $2.36B up 137%, more than $437M of new launch contracts across Electron, HASTE, and Neutron, and Q3 revenue guidance of $250M to $265M, giving ARK's new Rocket Lab position a current operating and backlog anchor."
+        },
         {
           "date": "2026-08-10",
           "source": "Cathie's Ark Combined ARK ETF Trades",
