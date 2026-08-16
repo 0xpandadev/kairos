@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-08-13",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,123 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$19.1M",
+      "weightChange": "15.25% position / 0.30% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK buying Cerebras Systems on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "$5.4M",
+      "weightChange": "14.86% position / 0.30% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW buying Cerebras Systems on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "PLTR",
+      "action": "Sell",
+      "sizeValue": "$5.1M",
+      "weightChange": "2.19% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Palantir Technologies on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SHOP",
+      "action": "Sell",
+      "sizeValue": "$5.0M",
+      "weightChange": "1.74% position / 0.08% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Shopify on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TXG",
+      "action": "Sell",
+      "sizeValue": "$2.8M",
+      "weightChange": "1.44% position / 0.05% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling 10x Genomics on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "PLTR",
+      "action": "Sell",
+      "sizeValue": "$2.7M",
+      "weightChange": "4.54% position / 0.15% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling Palantir Technologies on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SHOP",
+      "action": "Sell",
+      "sizeValue": "$2.7M",
+      "weightChange": "3.05% position / 0.15% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKW selling Shopify on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TWST",
+      "action": "Sell",
+      "sizeValue": "$1.4M",
+      "weightChange": "0.59% position / 0.02% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKK selling Twist Bioscience on 2026-08-13."
+    },
+    {
+      "date": "2026-08-13",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "SHOP",
+      "action": "Sell",
+      "sizeValue": "$1.1M",
+      "weightChange": "1.50% position / 0.15% ETF",
+      "source": "Cathie's Ark",
+      "sourceType": "secondary tracker",
+      "url": "https://cathiesark.com/ark-funds-combined/trades",
+      "note": "Secondary tracker row. Cathie's Ark combined feed shows ARKF selling Shopify on 2026-08-13."
+    },
     {
       "date": "2026-08-12",
       "manager": "ARK",
@@ -7645,6 +7762,13 @@
       "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
       "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB"],
       "evidence": [
+        {
+          "date": "2026-08-13",
+          "source": "Cathie's Ark Combined ARK ETF Trades",
+          "type": "secondary tracker",
+          "url": "https://cathiesark.com/ark-funds-combined/trades",
+          "fact": "Cathie's Ark combined feed shows the rebuild rotating back toward front-end inference infrastructure on 2026-08-13: ARKK and ARKW bought about $24.5M of Cerebras while funding the move with about $7.7M of Palantir sales, about $8.8M of Shopify sales, about $2.8M of 10x Genomics sales, and about $1.4M of Twist Bioscience sales, reinforcing that ARK is still recycling capital from prior software and tools winners into AI control-point exposure."
+        },
         {
           "date": "2026-08-12",
           "source": "Cathie's Ark Combined ARK ETF Trades",
