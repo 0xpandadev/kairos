@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W31"
+  selectedBrief: "2026-W33"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W33",
+  title: "KAIROS Weekly 2026-W33",
+  dateRange: "2026-08-10 to 2026-08-16",
+  status: "frozen 2026-08-16",
+  thesis:
+    "The AI trade stopped treating infrastructure as one bucket and started re-pricing the real-time control points inside it as ARK bought NVDA, AVGO, TER, NET, RKLB, and CBRS while selling DE, CAT, SHOP, PLTR, TWST, TXG, SNOW, and IRDM to fund the shift.",
+  moments: ["Compute to Power Bottleneck", "ARK Risk-on Rebuild", "Defense Autonomy", "Agent-led Growth"],
+  capitalFlow:
+    "ARK bought about $27.0M of NVDA, about $16.6M of AVGO, about $9.7M of TER, opened and added NET across ARKK and ARKF, opened RKLB in ARKK while adding it in ARKQ and ARKX, and then bought about $24.5M of CBRS on 2026-08-13 while Deere, Caterpillar, Shopify, Palantir, Twist, 10x, Snowflake, and Iridium stayed in the funding sleeve.",
+  mapRead:
+    "The edge is shifting from broad physical-AI exposure toward the control points that make agentic systems fast, deployable, and trusted in production: inference silicon, edge-control software, and launch-space infrastructure.",
+  watchNext: [
+    "whether ARK keeps pressing CBRS, NET, RKLB, NVDA, AVGO, or TER",
+    "whether DE, CAT, SHOP, PLTR, TWST, and TXG remain the clearest source-of-funds sleeve",
+    "Cerebras capacity, GPT-5.6 Sol Ultrafast, and Cloudflare agentic-web adoption receipts",
+    "whether Rocket Lab backlog and contract wins keep space inside the same control-point basket"
+  ],
+  futureReceipt:
+    "1M: add persistence in inference, edge-control, and space deployment names. 3M: capacity, customer, and backlog conversion receipts. 6M: sustained premium for inference-edge-space control points over generic software and industrial beta."
 });
 
 weeklyBriefs.unshift({
