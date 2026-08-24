@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W33"
+  selectedBrief: "2026-W34"
 };
 
 const translations = {
@@ -1613,6 +1613,28 @@ weeklyBriefs.unshift({
   ],
   futureReceipt:
     "1M: ARK add persistence in the machine-economy stack. 3M: AI demand and payments-rail adoption evidence. 6M: sustained premium for liquid control points over second-derivative AI names."
+});
+
+weeklyBriefs.unshift({
+  id: "2026-W34",
+  title: "KAIROS Weekly 2026-W34",
+  dateRange: "2026-08-17 to 2026-08-23",
+  status: "frozen 2026-08-23",
+  thesis:
+    "The AI trade rotated from fast-inference control points back toward physical deployment surfaces as ARK bought SPCX and BWXT while PLTR, SHOP, DE, RBLX, and TXG funded the move.",
+  moments: ["ARK Risk-on Rebuild", "Compute to Power Bottleneck", "Defense Autonomy", "Stablecoin Financial Rails"],
+  capitalFlow:
+    "ARK added NVDA, CBRS, RKLB, and XYZ on 2026-08-17 to 2026-08-18, then the official 2026-08-21 ARK file showed multi-fund SPCX and BWXT buys plus smaller NTLA, SECZ, and SOLQ.U adds while Palantir, Shopify, Deere, Roblox, and 10x stayed in the funding sleeve.",
+  mapRead:
+    "The edge is moving from generic AI infrastructure toward the deployment bottlenecks that turn narrative into operating capacity: launch-space execution, reactor-side manufacturing, and a few tightly sized finance or biotech sidecars.",
+  watchNext: [
+    "whether ARK keeps pressing SPCX and BWXT",
+    "whether PLTR, SHOP, DE, and RBLX remain the clearest source-of-funds sleeve",
+    "whether SECZ, SOLQ.U, or NTLA scale beyond sidecar sizing",
+    "whether space and nuclear operating receipts keep validating the physical-control-point thesis"
+  ],
+  futureReceipt:
+    "1M: add persistence in SPCX and BWXT. 3M: space backlog, nuclear manufacturing, and clinical or tokenization receipts. 6M: sustained premium for physical deployment surfaces over software and commerce beta."
 });
 
 weeklyBriefs.unshift({
