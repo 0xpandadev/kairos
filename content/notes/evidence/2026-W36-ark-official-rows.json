@@ -1,0 +1,112 @@
+{
+  "retrievedAt": "2026-09-07",
+  "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+  "tradeDate": "2026-09-04",
+  "coverage": "Eight rows from official rolling notification file; not complete weekly activity.",
+  "rows": [
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "SOLQ.U",
+      "action": "Buy",
+      "sizeValue": "1607 shares",
+      "weightChange": "0.0016% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF buy of 3iQ Solana Staking ETF on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "2466 shares",
+      "weightChange": "0.0016% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG buy of INTELLIA THERAPEUTICS, INC. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "VCYT",
+      "action": "Buy",
+      "sizeValue": "22144 shares",
+      "weightChange": "0.0148% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of Veracyte, Inc. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "HOOD",
+      "action": "Buy",
+      "sizeValue": "28589 shares",
+      "weightChange": "0.0528% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of Robinhood Markets, Inc. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "28720 shares",
+      "weightChange": "0.0056% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of INTELLIA THERAPEUTICS, INC. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TWST",
+      "action": "Sell",
+      "sizeValue": "12300 shares",
+      "weightChange": "0.0237% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK sell of Twist Bioscience Corporation on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TEM",
+      "action": "Sell",
+      "sizeValue": "20180 shares",
+      "weightChange": "0.0202% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK sell of Tempus AI, Inc. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SOLQ.U",
+      "action": "Buy",
+      "sizeValue": "1785 shares",
+      "weightChange": "0.0008% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKW buy of 3iQ Solana Staking ETF on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    }
+  ]
+}

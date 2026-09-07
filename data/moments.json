@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28",
+  "updatedAt": "2026-09-04",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,110 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "SOLQ.U",
+      "action": "Buy",
+      "sizeValue": "1607 shares",
+      "weightChange": "0.0016% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF buy of 3iQ Solana Staking ETF on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "2466 shares",
+      "weightChange": "0.0016% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG buy of INTELLIA THERAPEUTICS, INC. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "VCYT",
+      "action": "Buy",
+      "sizeValue": "22144 shares",
+      "weightChange": "0.0148% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of Veracyte, Inc. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "HOOD",
+      "action": "Buy",
+      "sizeValue": "28589 shares",
+      "weightChange": "0.0528% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of Robinhood Markets, Inc. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "28720 shares",
+      "weightChange": "0.0056% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of INTELLIA THERAPEUTICS, INC. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TWST",
+      "action": "Sell",
+      "sizeValue": "12300 shares",
+      "weightChange": "0.0237% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK sell of Twist Bioscience Corporation on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TEM",
+      "action": "Sell",
+      "sizeValue": "20180 shares",
+      "weightChange": "0.0202% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK sell of Tempus AI, Inc. on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-04",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SOLQ.U",
+      "action": "Buy",
+      "sizeValue": "1785 shares",
+      "weightChange": "0.0008% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKW buy of 3iQ Solana Staking ETF on 2026-09-04. Notifications are unreconciled and do not cover all fund activity."
+    },
     {
       "date": "2026-08-28",
       "manager": "ARK",
@@ -8885,9 +8989,23 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-      "oracleView": "ARKは単なる高ベータ再拡張ではなく、AIインフラ、配布面、金融レールという機械経済の制御点へ資本を寄せ、AMD・TER・BIDU・ACHRを資金源にしている可能性がある。",
+      "oracleView": "9月4日の公式通知はHOOD・VCYT・NTLAの買いとTEM・TWSTの売りを示す。週初のRKLB・XYZ買いは二次情報として区別し、広範なAI買いではなく個別の宇宙・決済・臨床仮説として検証する。",
         "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB"],
         "evidence": [
+      {
+        "date": "2026-09-04",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "September 4 notifications show ARKK buying 28,589 HOOD, 22,144 VCYT and 28,720 NTLA shares, ARKG buying 2,466 NTLA shares, ARKK selling 12,300 TWST and 20,180 TEM shares, and ARKF/ARKW buying 1,607/1,785 SOLQ.U shares. Coverage is limited to this file, not a complete weekly tape."
+      },
+      {
+        "date": "2026-09-01",
+        "source": "Cathie's Ark Combined Trades",
+        "type": "secondary tracker",
+        "url": "https://cathiesark.com/ark-funds-combined/trades",
+        "fact": "Rounded tracker rows indicate approximately $44.5M of RKLB buys on August 31 and September 1, and $37.4M of XYZ buys on August 31. Earlier-week official files were not obtained; amounts are secondary estimates, not execution values."
+      },
           {
             "date": "2026-08-28",
             "source": "ARK Latest Trade File",

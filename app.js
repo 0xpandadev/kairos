@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W34"
+  selectedBrief: "2026-W36"
 };
 
 const translations = {
@@ -4105,7 +4105,7 @@ function renderWatchUniverse() {
 
 function renderLedger() {
   const list = document.getElementById("ledgerList");
-  const latestBriefId = weeklyBriefs[0]?.id || state.selectedBrief;
+  const latestBriefId = state.selectedBrief || weeklyBriefs[0]?.id;
   list.innerHTML = state.moments
     .map(
       (moment) => `
@@ -4245,5 +4245,27 @@ async function init() {
   setupDialog();
   setupLanguageSwitcher();
 }
+
+weeklyBriefs.unshift({
+  "id": "2026-W36",
+  "title": "KAIROS Weekly 2026-W36",
+  "dateRange": "2026-08-31 to 2026-09-06",
+  "status": "frozen 2026-09-07",
+  "thesis": "ARK activity points to selective space, payments and biotech exposure, not a broad AI buying wave. Earlier-week flows remain secondary estimates.",
+  "moments": [
+    "Space execution and backlog conversion",
+    "Financial rails and distribution",
+    "Selective biotech milestones"
+  ],
+  "capitalFlow": "Secondary tracker: roughly $44.5M RKLB buys across Aug 31–Sep 1 and $37.4M XYZ buys Aug 31. Official Sep 4: HOOD, VCYT, NTLA and small SOLQ.U buys; TEM and TWST sells. Full weekly net flow is unverified.",
+  "mapRead": "Separate contracts-to-cash, payment distribution and clinical milestones. One manager does not establish market-wide leadership; GAAP economics and milestone execution are the tests.",
+  "watchNext": [
+    "RKLB revenue and cash conversion",
+    "XYZ profitability and CRCL/HOOD exposure",
+    "VCYT testing economics and NTLA regulatory status",
+    "PLTR, SHOP, TEM and TWST sales; verify earlier-week official records"
+  ],
+  "futureReceipt": "1M Oct 7: official holdings and trade persistence. Nov 3: announced Block Q3 release. 3M Dec 7: space delivery and regulatory status. 6M Mar 7: commercial outcomes; these review dates are not promised catalysts."
+});
 
 init();
