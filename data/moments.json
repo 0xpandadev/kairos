@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-18",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,110 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-09-18",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "SLMT",
+      "action": "Sell",
+      "sizeValue": "47046 shares",
+      "weightChange": "0.0191% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF sell of Brera Holdings PLC on 2026-09-18. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-18",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SLMT",
+      "action": "Sell",
+      "sizeValue": "187723 shares",
+      "weightChange": "0.0079% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK sell of Brera Holdings PLC on 2026-09-18. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-18",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SLMT",
+      "action": "Sell",
+      "sizeValue": "74332 shares",
+      "weightChange": "0.0126% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKW sell of Brera Holdings PLC on 2026-09-18. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-16",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "SLMT",
+      "action": "Sell",
+      "sizeValue": "218 shares",
+      "weightChange": "0.0001% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF sell of Brera Holdings PLC on 2026-09-16. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-16",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "GH",
+      "action": "Buy",
+      "sizeValue": "7738 shares",
+      "weightChange": "0.071% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG buy of Guardant Health, Inc. on 2026-09-16. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-16",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "SCTX",
+      "action": "Buy",
+      "sizeValue": "293 shares",
+      "weightChange": "0.0004% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG buy of Scribe Therapeutics Inc on 2026-09-16. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-16",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SLMT",
+      "action": "Sell",
+      "sizeValue": "870 shares",
+      "weightChange": "0% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK sell of Brera Holdings PLC on 2026-09-16. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-16",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SLMT",
+      "action": "Sell",
+      "sizeValue": "344 shares",
+      "weightChange": "0.0001% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKW sell of Brera Holdings PLC on 2026-09-16. Notifications are unreconciled and do not cover all fund activity."
+    },
     {
       "date": "2026-09-14",
       "manager": "ARK",
@@ -9926,9 +10030,30 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-      "oracleView": "9月14日の確認済み通知ではIONS・GH・AVAV・METAを買う一方、ARKB・AMD・CRCL・COIN・SHOPなどを売却した。KAIROSの解釈は、単純なリスクオンではなく、ゲノム診断・航空宇宙・大型プラットフォームへの選択的な入れ替え。売却資金の使途、臨床成果、市場全体のリスク選好回復は断定せず、次の1カ月は継続買いと企業の一次開示を確認する。",
+      "oracleView": "9月14日と16日の確認済み通知では、IONS・GH・AVAV・METAに続いてGHを再び買う一方、ARKB・AMD・CRCL・COIN・SHOPなどを売却した。9月18日はSLMTをARKF・ARKK・ARKWで売却したが、単一銘柄の整理にとどまる。KAIROSの解釈は、単純なリスクオンではなく、ゲノム診断・航空宇宙・大型プラットフォームへの選択的な入れ替え。Guardantの事業成長は一次開示で確認できるが、売却資金の使途、臨床成果、市場全体のリスク選好回復は断定せず、次の1カ月はGHの継続買いと企業の一次開示を確認する。",
         "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB"],
         "evidence": [
+        {
+          "date": "2026-09-18",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "September 18 notifications list SLMT sells in ARKF (47,046 shares; 0.0191% of ETF), ARKK (187,723; 0.0079%) and ARKW (74,332; 0.0126%). This is a single-name cleanup flow and does not establish broad risk appetite or the reason for any trade."
+        },
+        {
+          "date": "2026-09-16",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "September 16 notifications list an ARKG buy of Guardant Health (7,738 shares; 0.071% of ETF) and a small SCTX buy (293 shares; 0.0004%), alongside three immaterial SLMT sells across ARKF, ARKK and ARKW. This is a narrow continuation of the genomics sleeve, not evidence of broad risk appetite or the reason for any trade."
+        },
+        {
+          "date": "2026-07-30",
+          "source": "Guardant Health Q2 2026 Results",
+          "type": "official company release",
+          "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Reports-Second-Quarter-2026-Financial-Results-and-Increases-2026-Revenue-Guidance/default.aspx",
+          "fact": "Guardant Health reported Q2 2026 revenue of $335.0 million, up 44% year over year, with Oncology revenue up 38% and Screening revenue up more than 250%; it raised full-year 2026 revenue guidance to $1.34-$1.36 billion. The release also reported a $69.5 million quarterly free-cash-flow outflow, so operating growth does not remove execution and cash-burn risk."
+        },
         {
           "date": "2026-09-14",
           "source": "ARK Latest Trade File",
