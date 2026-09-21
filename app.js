@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W36"
+  selectedBrief: "2026-W38"
 };
 
 const translations = {
@@ -1482,6 +1482,29 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W38",
+  title: "KAIROS Weekly 2026-W38",
+  dateRange: "2026-09-14 to 2026-09-20",
+  status: "frozen 2026-09-21",
+  thesis:
+    "ARK's official tape pointed to selective operating receipts rather than a broad risk-on reset: repeated Guardant and genomics additions plus a two-fund AeroVironment buy, funded alongside heavier trims in crypto rails, software, and large platforms.",
+  moments: ["ARK Risk-on Rebuild", "Defense Autonomy", "Stablecoin Financial Rails"],
+  capitalFlow:
+    "The current fact base contains 39 official notification rows for the week: 7 buys and 32 sells. GH was bought on September 14 and 16, AVAV was bought in ARKQ and ARKX, while CRCL, COIN, BLSH, PLTR, SHOP, AMD, AMZN, GOOG, CRWV and others were sold; SLMT sales across three funds were treated as cleanup.",
+  mapRead:
+    "The edge is moving toward businesses with measurable conversion paths: diagnostic volume to revenue and funded defense programs to delivered systems. The observation is manager-specific; it does not prove a market-wide rotation or explain ARK's motives.",
+  watchNext: [
+    "whether ARKG repeats GH or IONS and retains the additions",
+    "whether ARKQ and ARKX keep AVAV exposure",
+    "Guardant volume, guidance and cash-burn conversion",
+    "AeroVironment backlog, integration and government-award execution",
+    "whether crypto rails and software remain a funding sleeve"
+  ],
+  futureReceipt:
+    "1M: holdings persistence in GH, IONS and AVAV. 3M: Guardant operating conversion and AeroVironment backlog execution. 6M: commercial or clinical receipts that either validate or falsify selective operating-proof allocation."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W18",
