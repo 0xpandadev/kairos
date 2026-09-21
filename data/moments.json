@@ -9782,6 +9782,20 @@
       "watchlist": ["BLSH", "CRCL", "COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
       "evidence": [
         {
+          "date": "2026-09-16",
+          "source": "Circle Arc Mainnet Launch",
+          "type": "official company release",
+          "url": "https://www.circle.com/pressroom/circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet",
+          "fact": "Circle announced that Arc mainnet went live on September 16 with more than 100 institutional and ecosystem builders on day one. This is an operating-rail milestone for Circle's enterprise blockchain strategy, but it does not by itself prove transaction scale, profitability, or adoption durability."
+        },
+        {
+          "date": "2026-09-16",
+          "source": "Coinbase and Stablecore Partnership",
+          "type": "official company post",
+          "url": "https://www.coinbase.com/blog/coinbase-and-stablecore-bring-stablecoin-and-digital-asset-services-to-community-and-regional-banks-and-credit-unions",
+          "fact": "Coinbase said its partnership with Stablecore is already underway with financial institutions and is designed to give community banks and credit unions access to custody, trading, and stablecoin payments through existing banking platforms, potentially reaching more than 3,000 institutions. The distribution figure is a stated potential, not realized usage."
+        },
+        {
           "date": "2026-08-07",
           "source": "Cathie's Ark Combined ARK ETF Trades",
           "type": "secondary tracker",
@@ -9912,6 +9926,13 @@
       "valueChain": ["Prime contractors: LMT, RTX, NOC, GD", "Autonomy/software: PLTR, KTOS, AVAV", "Sensors/components: LHX, TDY, BWXT", "Second-order: shipbuilding, energy, secure communications"],
       "watchlist": ["PLTR", "AVAV", "KTOS", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
       "evidence": [
+        {
+          "date": "2026-09-19",
+          "source": "Rocket Lab Electron Mission Success",
+          "type": "official company release",
+          "url": "https://rocketlabcorp.gcs-web.com/news-releases/news-release-details/mission-success-rocket-lab-launches-96th-electron-mission",
+          "fact": "Rocket Lab said its September 19 Electron mission delivered Synspective's 12th StriX satellite into a 572-kilometer orbit, marking Electron's 96th flight and 17th launch of 2026; Rocket Lab also said 15 additional dedicated Electron missions are manifested through the end of the decade for Synspective's constellation. This supports an operational-cadence signal, not a valuation or broad defense-demand conclusion."
+        },
         {
           "date": "2026-07-30",
           "source": "Cathie's Ark Combined ARK ETF Trades",
