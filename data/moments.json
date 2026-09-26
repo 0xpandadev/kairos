@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-25",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,32 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-09-25",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "SOLQ.U",
+      "action": "Buy",
+      "sizeValue": "1937 shares",
+      "weightChange": "0.0022% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF buy of 3iQ Solana Staking ETF on 2026-09-25. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-09-25",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SOLQ.U",
+      "action": "Buy",
+      "sizeValue": "4425 shares",
+      "weightChange": "0.0022% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKW buy of 3iQ Solana Staking ETF on 2026-09-25. Notifications are unreconciled and do not cover all fund activity."
+    },
     {
       "date": "2026-09-22",
       "manager": "ARK",
@@ -10194,9 +10220,23 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "9月22日の確認済み通知では、ARKK・ARKQ・ARKXがRKLBを買い、ARKGではVCYT・BEAM・SCTXを買う一方、TWST・TXGを売却した。GOOGLとPの売却も同日に確認できる。KAIROSの解釈は、単純なリスクオンではなく、宇宙・航空宇宙と選択的なゲノム診断への入れ替えが続いているというもの。Rocket LabとVeracyteには一次開示の事業アンカーがあるが、ARKの動機、SCTX・BEAMの臨床進捗、売却資金の使途、市場全体のリスク選好回復は断定しない。",
-        "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB"],
+  "oracleView": "9月25日の確認済み通知では、ARKFとARKWがSOLQ.Uを各1,937株・4,425株買い、デジタル資産への小口の継続的な配分が確認できる。9月22日のRKLB買いと選択的なゲノム入れ替えを合わせても、KAIROSの解釈は単純な全面リスクオンではなく、宇宙・航空宇宙、選択的ゲノム、ステーキング付きデジタル資産への小さな再配分が続いているというもの。Rocket Lab、Veracyte、3iQには一次情報の事業・商品アンカーがあるが、ARKの動機、SCTX・BEAMの臨床進捗、SOLQ.U買いの意味、市場全体のリスク選好回復は断定しない。",
+  "watchlist": ["PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+        {
+          "date": "2026-09-25",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "September 25 notifications list ARKF buying 1,937 SOLQ.U shares (0.0022% of ETF) and ARKW buying 4,425 shares (0.0022%). This extends the earlier September 4 and 10 SOLQ.U buys, but the small unreconciled trades do not establish ARK motive, broad crypto risk appetite, or adoption."
+        },
+        {
+          "date": "2026-09-25",
+          "source": "3iQ Solana Staking ETF",
+          "type": "official fund page",
+          "url": "https://www.3iq.io/our-funds/3iq-solana-staking-etf",
+          "fact": "3iQ identifies SOLQ.U as the U.S.-dollar line of its Solana Staking ETF, with 100% Solana exposure subject to cash balance, staking-related custody through Coinbase Custody, and the CME CF Solana-Dollar Reference Rate as benchmark. This establishes the instrument's exposure, not the reason for ARK's purchases."
+        },
         {
           "date": "2026-09-22",
           "source": "ARK Latest Trade File",
