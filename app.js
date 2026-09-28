@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W38"
+  selectedBrief: "2026-W39"
 };
 
 const translations = {
@@ -1482,6 +1482,29 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W39",
+  title: "KAIROS Weekly 2026-W39",
+  dateRange: "2026-09-21 to 2026-09-27",
+  status: "frozen 2026-09-28",
+  thesis:
+    "ARK's latest official tape extended selective allocation rather than a broad risk-on reset: ARKK, ARKQ, and ARKX bought Rocket Lab after a dated launch-cadence receipt, ARKG substituted into selected genomics names, and ARKF plus ARKW repeated tiny SOLQ.U buys that remain a watchlist signal.",
+  moments: ["ARK Risk-on Rebuild", "Defense Autonomy", "Stablecoin Financial Rails"],
+  capitalFlow:
+    "The current fact base contains 13 official notification rows for the Sep 22 and Sep 25 tape: 8 buys in RKLB, VCYT, BEAM, SCTX, and SOLQ.U, against 5 sells in TWST, TXG, GOOGL, and P. RKLB appeared in ARKK, ARKQ, and ARKX; SOLQ.U appeared in ARKF and ARKW.",
+  mapRead:
+    "The edge is moving toward businesses with measurable deployment or revenue receipts, but the evidence is still manager-specific: launch cadence and diagnostics conversion are stronger anchors than tiny digital-asset rows or unverified clinical narratives.",
+  watchNext: [
+    "whether ARKK, ARKQ, and ARKX retain RKLB",
+    "Rocket Lab launch cadence, manifested missions, and cash conversion",
+    "whether ARKG retains or repeats VCYT, BEAM, or SCTX while reducing TWST and TXG",
+    "whether SOLQ.U weights become meaningful rather than merely repeated",
+    "Veracyte revenue guidance and diagnostic profitability"
+  ],
+  futureReceipt:
+    "1M: holdings persistence in RKLB and selected genomics names. 3M: launch cadence, mission conversion, Veracyte revenue, and genomic milestones. 6M: repeatable selective allocation rather than isolated notifications."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W38",
