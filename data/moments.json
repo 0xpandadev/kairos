@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-10-02",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,136 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "ABNB",
+      "action": "Buy",
+      "sizeValue": "16152 shares",
+      "weightChange": "0.2989% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF buy of Airbnb, Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "DASH",
+      "action": "Buy",
+      "sizeValue": "11638 shares",
+      "weightChange": "0.2492% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF buy of DoorDash, Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "Z",
+      "action": "Sell",
+      "sizeValue": "200 shares",
+      "weightChange": "0.0006% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKF sell of Zillow Group, Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "100959 shares",
+      "weightChange": "0.0561% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG buy of Intellia Therapeutics, Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "TXG",
+      "action": "Sell",
+      "sizeValue": "12115 shares",
+      "weightChange": "0.051% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG sell of 10x Genomics, Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "80694 shares",
+      "weightChange": "0.167% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of Cerebras Systems Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "NTLA",
+      "action": "Buy",
+      "sizeValue": "410738 shares",
+      "weightChange": "0.0622% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of Intellia Therapeutics, Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "BWXT",
+      "action": "Buy",
+      "sizeValue": "72502 shares",
+      "weightChange": "0.1218% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKK buy of BWX Technologies Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "AMZN",
+      "action": "Buy",
+      "sizeValue": "16550 shares",
+      "weightChange": "0.2024% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKW buy of Amazon.com Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-02",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "CBRS",
+      "action": "Buy",
+      "sizeValue": "37064 shares",
+      "weightChange": "0.3032% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKW buy of Cerebras Systems Inc. on 2026-10-02. Notifications are unreconciled and do not cover all fund activity."
+    },
     {
       "date": "2026-09-29",
       "manager": "ARK",
@@ -10241,6 +10371,27 @@
             "type": "media summary",
             "url": "https://www.wsj.com/tech/ai/broadcom-apollo-blackstone-launch-35-billion-ai-infrastructure-platform-8fc8f65e",
             "fact": "The Wall Street Journal reported that Broadcom, Apollo, and Blackstone launched the AI XPV Platform with an initial $35 billion tranche to finance AI infrastructure, support more than 20 gigawatts of compute capacity through 2028, and facilitate Anthropic's previously announced expansion of more than 1 gigawatt of compute infrastructure."
+          },
+          {
+            "date": "2026-10-02",
+            "source": "Cerebras Systems Fast Inference Cloud Business Nearly Quadruples in Second Quarter 2026",
+            "type": "official company release",
+            "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-fast-inference-cloud-business-nearly-quadruples",
+            "fact": "Cerebras reported Q2 2026 core cloud revenue up 287% year over year to $127.7M, more than 600 MW of data-center capacity live or under contract, and $25.4B of remaining performance obligations. The operating data supports the inference-infrastructure backdrop for the new ARKK and ARKW CBRS buys, but does not establish ARK motive or execution certainty."
+          },
+          {
+            "date": "2026-10-01",
+            "source": "BWX Technologies Awarded Naval Nuclear Fuel Contract",
+            "type": "official company release",
+            "url": "https://investors.bwxt.com/news-releases/news-release-details/bwxt-awarded-189-million-naval-nuclear-fuel-contract",
+            "fact": "BWXT announced a $189M naval nuclear fuel contract on October 1, 2026, adding a current defense-nuclear procurement anchor to the power-and-mission-critical hardware leg. A contract award is not proof of broader AI-power demand or ARK's allocation motive."
+          },
+          {
+            "date": "2026-07-30",
+            "source": "Amazon Q2 2026 Results",
+            "type": "official company release",
+            "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+            "fact": "Amazon reported Q2 2026 AWS sales up 37% year over year to $42.2B and said trailing-twelve-month free cash flow fell to a $7.6B outflow as property-and-equipment purchases rose $66.1B, primarily reflecting AI investment. This anchors the capital intensity behind the ARKW AMZN addition without proving returns on that spend."
           }
         ]
       },
@@ -10579,8 +10730,8 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "9月29日の確認済み通知では、ARKK・ARKQ・ARKW・ARKXがそろってNVDAを買い、ARKK・ARKWがAVGOとCRWVを買う一方、AMDを4ファンドで売った。これは単純な全面リスクオンではなく、AIインフラの主力銘柄へ資金を戻しつつ、ARKFのABNB・XYZ、ARKQのSPCX、ARKG/ARKKのNTLA・VCYTという小さなサイドカーを並行する混合ローテーションである。NVIDIA、Broadcom、CoreWeave、Rocket Lab、Veracyte、3iQには一次情報の事業・商品アンカーがあるが、ARKの動機、SCTX・BEAMの臨床進捗、SOLQ.U買いの意味、市場全体のリスク選好回復は断定しない。",
-  "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
+  "oracleView": "10月2日の確認済み通知では、ARKKとARKWがCBRSを買い、ARKKがBWXT、ARKWがAMZNを追加し、ARKG/ARKKがNTLAを買う一方でTXGを売った。これは9月29日のAIインフラ回帰に、推論インフラ・原子力ハードウェア・大型プラットフォーム・臨床バイオの選択的サイドカーが重なった混合ローテーションである。Cerebras、BWXT、Amazon、Intelliaには一次情報の事業アンカーがあるが、ARKの動機、評価、実行リスク、市場全体のリスク選好回復は断定しない。",
+  "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "PONY", "KDK", "CRWV", "TOST", "TEM", "NTLA", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
         {
           "date": "2026-09-29",
@@ -11091,8 +11242,29 @@
             "source": "Cathie's Ark Combined ARK ETF Trades",
             "type": "secondary tracker",
             "url": "https://cathiesark.com/ark-funds-combined/trades",
-            "fact": "Cathie's Ark combined feed shows the rotation changing shape on 2026-06-17 and 2026-06-18: ARKK opened Eli Lilly ($32.2M) and Snowflake ($33.9M), added XYZ ($17.6M), COIN ($14.0M), and TSLA ($17.3M), while ARKK, ARKW, and ARKF kept selling Roku ($30.2M, $1.7M, $1.3M on 2026-06-17 and $77.8M, $21.2M, $890.3K on 2026-06-18) alongside HOOD, BIDU, SRTA, and TWST trims."
-          }
+          "fact": "Cathie's Ark combined feed shows the rotation changing shape on 2026-06-17 and 2026-06-18: ARKK opened Eli Lilly ($32.2M) and Snowflake ($33.9M), added XYZ ($17.6M), COIN ($14.0M), and TSLA ($17.3M), while ARKK, ARKW, and ARKF kept selling Roku ($30.2M, $1.7M, $1.3M on 2026-06-17 and $77.8M, $21.2M, $890.3K on 2026-06-18) alongside HOOD, BIDU, SRTA, and TWST trims."
+        },
+        {
+          "date": "2026-10-02",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "October 2 notifications show a bounded continuation of the mixed rebuild: ARKK and ARKW both bought Cerebras, ARKK also bought BWXT, and ARKW bought Amazon, while ARKG and ARKK added Intellia and ARKG sold 10x Genomics. ARKF added Airbnb and DoorDash while trimming a small Zillow position. These unreconciled rows support selective compute, nuclear, platform, and genomics exposure, not a claim of broad risk-on behavior."
+        },
+        {
+          "date": "2026-10-01",
+          "source": "BWX Technologies Awarded Naval Nuclear Fuel Contract",
+          "type": "official company release",
+          "url": "https://investors.bwxt.com/news-releases/news-release-details/bwxt-awarded-189-million-naval-nuclear-fuel-contract",
+          "fact": "BWXT announced a $189M naval nuclear fuel contract on October 1, one day before ARKK's disclosed BWXT buy. The timing is a useful operating catalyst to monitor, but it does not prove the trade was caused by the announcement or establish a broader nuclear allocation thesis."
+        },
+        {
+          "date": "2026-10-02",
+          "source": "Cerebras Systems Fast Inference Cloud Business Nearly Quadruples in Second Quarter 2026",
+          "type": "official company release",
+          "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-fast-inference-cloud-business-nearly-quadruples",
+          "fact": "Cerebras reported Q2 2026 core cloud revenue up 287% year over year, more than 600 MW of capacity live or under contract, and $25.4B of remaining performance obligations. This gives the new CBRS buys a current operating anchor while leaving ARK motive, valuation, and delivery risk unresolved."
+        }
         ]
     },
     {
