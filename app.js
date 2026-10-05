@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W39"
+  selectedBrief: "2026-W40"
 };
 
 const translations = {
@@ -1482,6 +1482,29 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W40",
+  title: "KAIROS Weekly 2026-W40",
+  dateRange: "2026-09-28 to 2026-10-04",
+  status: "frozen 2026-10-05",
+  thesis:
+    "ARK's W40 tape favored control points with scale or operating receipts: four funds bought NVDA against four-fund AMD selling, ARKK and ARKW added CBRS, and ARKK bought BWXT after a naval nuclear fuel contract, while genomics remained a selective NTLA/VCYT versus TXG/TWST/TEM trade.",
+  moments: ["Compute to Power Bottleneck", "ARK Risk-on Rebuild", "Defense Autonomy"],
+  capitalFlow:
+    "The current fact base contains 36 official notification rows for Sep 29 and Oct 2: 23 buys and 13 sells. NVDA appeared in ARKK, ARKQ, ARKW, and ARKX; AVGO and CRWV in ARKK and ARKW; CBRS in ARKK and ARKW; BWXT in ARKK; and NTLA in ARKG and ARKK on both observed dates. AMD was sold across four funds.",
+  mapRead:
+    "The edge is moving toward scaled compute, inference capacity, and mission-critical hardware, with milestone-sensitive genomics as a discriminating sleeve. The evidence remains manager-specific and does not prove broad risk appetite, motive, or complete weekly net flow.",
+  watchNext: [
+    "whether NVDA, AVGO, CRWV, CBRS, BWXT, and NTLA persist in the same funds",
+    "Cerebras performance-obligation and capacity conversion",
+    "BWXT naval nuclear contract execution and November 2 results",
+    "whether AMD, TXG, TWST, and TEM remain the funding sleeve",
+    "NTLA regulatory and commercialization milestones"
+  ],
+  futureReceipt:
+    "1M: holdings persistence. 3M: Cerebras, CoreWeave, BWXT, and gene-editing operating or regulatory conversion. 6M: repeatable control-point allocation rather than isolated fund rebalancing."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W39",
