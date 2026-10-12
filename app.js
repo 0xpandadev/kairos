@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W40"
+  selectedBrief: "2026-W41"
 };
 
 const translations = {
@@ -1482,6 +1482,29 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W41",
+  title: "KAIROS Weekly 2026-W41",
+  dateRange: "2026-10-05 to 2026-10-11",
+  status: "frozen 2026-10-12",
+  thesis:
+    "ARK's W41 tape favored deployed autonomy, space and AI-cloud control points while continuing to select within genomics: ARKQ/ARKX bought AVAV, JOBY and LUNR, ARKK/ARKQ/ARKX bought ACHR, ARKK/ARKW added CRWV, and ARKG repeated adds in selected biotech names while funding the rotation with trims in TER, PSNL, CDNA, AMD, HOOD, SHOP, GOOG, SPCX and DKNG.",
+  moments: ["Defense Autonomy", "ARK Risk-on Rebuild", "Compute to Power Bottleneck"],
+  capitalFlow:
+    "The current fact base contains 53 official notification rows for Oct 7 and Oct 9: 35 buys and 18 sells. ACHR appeared in ARKK, ARKQ and ARKX; AVAV, JOBY and LUNR appeared in ARKQ and ARKX; CRWV appeared in ARKK and ARKW; and RXRX, KYMR, NRIX and FRNM repeated in ARKG-related activity. The visible file does not establish complete weekly net flow.",
+  mapRead:
+    "The edge is moving toward deployment throughput and operating control points across autonomy, space and AI-cloud capacity, with genomics as a discriminating milestone-sensitive sleeve. The evidence remains manager-specific and does not prove broad risk appetite, motive or complete weekly net flow.",
+  watchNext: [
+    "whether ACHR, AVAV, JOBY, LUNR and CRWV persist in the same funds",
+    "autonomy fleet, launch, contract and safety receipts",
+    "CoreWeave capacity, utilization, revenue and margin conversion",
+    "whether KYMR, NRIX, FRNM, RXRX and NTLA continue while PSNL/CDNA remain funding sells",
+    "regulatory and clinical milestones for NTLA and the wider genomics sleeve"
+  ],
+  futureReceipt:
+    "1M: holdings persistence and deployment receipts. 3M: autonomy/space contracts, CoreWeave conversion and genomics milestones. 6M: repeatable control-point allocation rather than isolated fund rebalancing."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W40",
