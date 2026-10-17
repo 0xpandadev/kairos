@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-16",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,58 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-10-16",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "SCTX",
+      "action": "Buy",
+      "sizeValue": "29416 shares",
+      "weightChange": "0.0276% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG buy of Scribe Therapeutics Inc on 2026-10-16. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-16",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "FRNM",
+      "action": "Buy",
+      "sizeValue": "254668 shares",
+      "weightChange": "0.1418% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG buy of Freenome, Inc. on 2026-10-16. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-16",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "PSNL",
+      "action": "Sell",
+      "sizeValue": "670746 shares",
+      "weightChange": "0.4969% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG sell of Personalis, Inc. on 2026-10-16. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-16",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "CDNA",
+      "action": "Sell",
+      "sizeValue": "59477 shares",
+      "weightChange": "0.1789% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists ARKG sell of CareDx, Inc. on 2026-10-16. Notifications are unreconciled and do not cover all fund activity."
+    },
     {
       "date": "2026-10-14",
       "manager": "ARK",
@@ -11894,10 +11946,17 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "10月14日の確認済み通知では、ARKKとARKWがCRWV、ARKKがCBRS、ARKQがKDK、ARKWがMETA、ARKGがFRNM・SCTXを買い、同時にARKGがPSNL・CDNA、ARKKがTWST・TXG・PLTR・SHOP、ARKWがDKNG・PLTR・TOST・SHOPを売った。AIインフラと自律移動、診断への選択的な資本配分は続くが、旧来のプラットフォーム・ゲノム銘柄の売却も大きく、全面的なリスクオン回帰とは断定しない。CoreWeaveの高単価・短期契約と約4.2GWの契約電力、Cerebrasの600MW容量、Freenomeの新しい大腸がん検査データ、Kodiakの96%安全ケース進捗は事業アンカーになるが、ARKの動機、評価、実行リスク、市場全体のリスク選好回復は断定しない。",
+  "oracleView": "10月16日の確認済み通知では、ARKGがSCTXとFRNMを買い、PSNLとCDNAを売った。FRNMの買い増しは10月14日から続く一方、PSNL・CDNAの売却も続いており、診断・ゲノム内の銘柄選別は強まったが、バイオ全体へのリスクオンやARKの動機とは断定しない。Freenomeの新しい大腸がん検査データは事業アンカーになるが、SCTXの臨床・事業進捗、商業転換、評価、ARKの動機、市場全体のリスク選好回復は未確認である。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
          {
+           "date": "2026-10-16",
+           "source": "ARK Latest Trade File",
+           "type": "official file",
+           "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+           "fact": "October 16 notifications show ARKG buying SCTX (29,416 shares; 0.0276% of ETF) and FRNM (254,668; 0.1418%) while selling PSNL (670,746; 0.4969%) and CDNA (59,477; 0.1789%). FRNM buying continued from October 14, but the simultaneous PSNL/CDNA reductions keep this as selective genomics rotation rather than proof of broad biotech risk-on behavior or ARK motive."
+          },
+          {
            "date": "2026-10-14",
            "source": "ARK Latest Trade File",
            "type": "official file",
