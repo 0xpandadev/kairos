@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-20",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,214 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "PACB",
+      "action": "Buy",
+      "sizeValue": "77416 shares",
+      "weightChange": "0.007% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Pacific Biosciences of California, Inc. in ARKG on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "SCTX",
+      "action": "Buy",
+      "sizeValue": "10832 shares",
+      "weightChange": "0.0101% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Scribe Therapeutics Inc in ARKG on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "IAM",
+      "action": "Buy",
+      "sizeValue": "101248 shares",
+      "weightChange": "0.076% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Iambic Therapeutics, Inc. in ARKG on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "PSNL",
+      "action": "Sell",
+      "sizeValue": "385778 shares",
+      "weightChange": "0.2899% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Personalis, Inc. in ARKG on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "PACB",
+      "action": "Buy",
+      "sizeValue": "225455 shares",
+      "weightChange": "0.007% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Pacific Biosciences of California, Inc. in ARKK on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "292022 shares",
+      "weightChange": "0.0504% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of X-Energy Inc in ARKK on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "PLTR",
+      "action": "Sell",
+      "sizeValue": "27790 shares",
+      "weightChange": "0.0875% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Palantir Technologies Inc. in ARKK on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "SHOP",
+      "action": "Sell",
+      "sizeValue": "24430 shares",
+      "weightChange": "0.0691% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Shopify Inc. in ARKK on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "OKLO",
+      "action": "Buy",
+      "sizeValue": "150998 shares",
+      "weightChange": "0.234% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Oklo Inc. in ARKQ on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "126437 shares",
+      "weightChange": "0.0755% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of X-Energy Inc in ARKQ on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "ESLT",
+      "action": "Sell",
+      "sizeValue": "1428 shares",
+      "weightChange": "0.0598% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Elbit Systems Ltd. in ARKQ on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKQ",
+      "ticker": "TER",
+      "action": "Sell",
+      "sizeValue": "15964 shares",
+      "weightChange": "0.3017% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Teradyne, Inc. in ARKQ on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "LUNR",
+      "action": "Buy",
+      "sizeValue": "120900 shares",
+      "weightChange": "0.1813% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Intuitive Machines Inc in ARKX on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "XE",
+      "action": "Buy",
+      "sizeValue": "66436 shares",
+      "weightChange": "0.1004% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of X-Energy Inc in ARKX on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "ESLT",
+      "action": "Sell",
+      "sizeValue": "1500 shares",
+      "weightChange": "0.1589% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Elbit Systems Ltd. in ARKX on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-20",
+      "manager": "ARK",
+      "vehicle": "ARKX",
+      "ticker": "HO",
+      "action": "Sell",
+      "sizeValue": "6874 shares",
+      "weightChange": "0.2239% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Thales SA in ARKX on 2026-10-20. Notifications are unreconciled and do not cover all fund activity."
+    },
     {
       "date": "2026-10-16",
       "manager": "ARK",
@@ -11365,6 +11573,27 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "TER", "CBRS", "CRWV", "XE", "OKLO", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
         {
+          "date": "2026-10-20",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "October 20 notifications show ARKK, ARKQ, and ARKX all buying X-Energy, while ARKQ also bought Oklo and ARKQ/ARKX reduced Teradyne and defense names. The cross-fund XE/OKLO adds extend the nuclear-power leg of the infrastructure signal, but the unreconciled file does not establish ARK motive, deployment economics, or a portfolio-wide shift."
+        },
+        {
+          "date": "2026-10-19",
+          "source": "X-energy, Amazon, American Electric Power Partner to Bring SMR Project to Indiana",
+          "type": "official company release",
+          "url": "https://investors.x-energy.com/news-releases/news-release-details/x-energy-amazon-american-electric-power-partner-bring-smr",
+          "fact": "X-energy and AEP announced a joint development agreement to evaluate a 12-unit, 960 MW Xe-100 project in Indiana, with Amazon providing development capital as part of a collaboration targeting more than 5 GW of new nuclear capacity by 2039. The announcement is a development-stage power-demand anchor, not proof of construction, revenue, or ARK motive."
+        },
+        {
+          "date": "2026-10-13",
+          "source": "Oklo to Advance Groves-2 Forge as Part of U.S. Department of Energy's Nuclear Energy Launch Pad Selection",
+          "type": "official company release",
+          "url": "https://oklo.com/newsroom/oklo-to-advance-groves-2-forge-as-part-of-u-s-department-of-energys-nuclear-energy-launch-pad-se",
+          "fact": "Oklo said DOE's Nuclear Energy Launch Pad selected Groves-2 Forge, a planned isotope production and processing pilot initially focused on lutetium-177. The project adds an isotope and nuclear supply-chain operating anchor for the October 20 OKLO buy, but licensing, commercial scale, and ARK motive remain unconfirmed."
+        },
+        {
           "date": "2026-10-07",
           "source": "ARK Latest Trade File",
           "type": "official file",
@@ -11946,9 +12175,30 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "10月16日の確認済み通知では、ARKGがSCTXとFRNMを買い、PSNLとCDNAを売った。FRNMの買い増しは10月14日から続く一方、PSNL・CDNAの売却も続いており、診断・ゲノム内の銘柄選別は強まったが、バイオ全体へのリスクオンやARKの動機とは断定しない。Freenomeの新しい大腸がん検査データは事業アンカーになるが、SCTXの臨床・事業進捗、商業転換、評価、ARKの動機、市場全体のリスク選好回復は未確認である。",
-  "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
+  "oracleView": "10月20日の確認済み通知では、ARKGとARKKがPACBを買い、ARKQとARKXがXEを買い、ARKQがOKLO、ARKXがLUNRを買った。一方でARKGはPSNLを、ARKKはPLTRとSHOPを、ARKQ・ARKXはESLT・TER・HOを売っており、資金はゲノム、核・電力、宇宙へ選別的に回っている。X-energyの960MW計画、Okloの同位体パイロット、PacBioのVerilyとの生物AI連携は事業アンカーになるが、取引動機、商業転換、評価、市場全体のリスク選好回復は未確認である。",
+  "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+         {
+           "date": "2026-10-20",
+           "source": "ARK Latest Trade File",
+           "type": "official file",
+           "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+           "fact": "October 20 notifications show ARKG and ARKK buying PACB, ARKG adding SCTX and IAM while selling PSNL, ARKK adding PACB while selling PLTR and SHOP, ARKQ buying OKLO and XE while selling ESLT and TER, and ARKX buying LUNR and XE while selling ESLT and HO. The 16 unreconciled rows extend selective genomics, nuclear-power, and space exposure but also include meaningful reductions, so they do not prove broad risk-on behavior or ARK motive."
+          },
+          {
+           "date": "2026-10-19",
+           "source": "PacBio and Verily Health Announce Multi-Year Strategic Collaboration to Scale Long-Read Genomics for Biomedical AI",
+           "type": "official company release",
+           "url": "https://www.pacb.com/press_releases/pacbio-and-verily-health-announce-multi-year-strategic-collaboration-to-scale-long-read-genomics-for-biomedical-ai/",
+           "fact": "PacBio and Verily Health announced a multi-year collaboration connecting PacBio HiFi sequencing with Verily Pre to create governed, AI-ready clinico-genomic datasets; Verily said Workbench serves more than 20,000 researchers and has supported more than 700 publications. The collaboration provides an operating and narrative anchor for the PACB buys, but revenue conversion and ARK motive remain unknown."
+          },
+          {
+           "date": "2026-10-13",
+           "source": "Oklo to Advance Groves-2 Forge as Part of U.S. Department of Energy's Nuclear Energy Launch Pad Selection",
+           "type": "official company release",
+           "url": "https://oklo.com/newsroom/oklo-to-advance-groves-2-forge-as-part-of-u-s-department-of-energys-nuclear-energy-launch-pad-se",
+           "fact": "Oklo said DOE's Nuclear Energy Launch Pad selected Groves-2 Forge, a planned isotope production and processing pilot initially focused on lutetium-177. This is current operating context for the October 20 OKLO buy, but the project remains development-stage and does not establish commercial scale or ARK motive."
+          },
          {
            "date": "2026-10-16",
            "source": "ARK Latest Trade File",
