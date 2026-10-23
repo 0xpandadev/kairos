@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-22",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,175 @@
     }
   ],
   "capitalActions": [
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "3023 shares",
+      "weightChange": "0.2455% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Meta Platforms, Inc. in ARKF on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKF",
+      "ticker": "PLTR",
+      "action": "Sell",
+      "sizeValue": "7936 shares",
+      "weightChange": "0.194% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Palantir Technologies Inc. in ARKF on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "PACB",
+      "action": "Buy",
+      "sizeValue": "88512 shares",
+      "weightChange": "0.0094% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Pacific Biosciences of California, Inc. in ARKG on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "SCTX",
+      "action": "Buy",
+      "sizeValue": "99254 shares",
+      "weightChange": "0.0877% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Scribe Therapeutics Inc in ARKG on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "FRNM",
+      "action": "Buy",
+      "sizeValue": "35377 shares",
+      "weightChange": "0.0229% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Freenome, Inc. in ARKG on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKG",
+      "ticker": "IAM",
+      "action": "Buy",
+      "sizeValue": "6604 shares",
+      "weightChange": "0.0051% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Iambic Therapeutics, Inc. in ARKG on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "PACB",
+      "action": "Buy",
+      "sizeValue": "266184 shares",
+      "weightChange": "0.0089% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Pacific Biosciences of California, Inc. in ARKK on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "28069 shares",
+      "weightChange": "0.2901% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Meta Platforms, Inc. in ARKK on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKK",
+      "ticker": "TER",
+      "action": "Sell",
+      "sizeValue": "57444 shares",
+      "weightChange": "0.2836% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Teradyne, Inc. in ARKK on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "META",
+      "action": "Buy",
+      "sizeValue": "7018 shares",
+      "weightChange": "0.2442% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists buy of Meta Platforms, Inc. in ARKW on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "RBLX",
+      "action": "Sell",
+      "sizeValue": "33793 shares",
+      "weightChange": "0.0962% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Roblox Corporation in ARKW on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "SHOP",
+      "action": "Sell",
+      "sizeValue": "5397 shares",
+      "weightChange": "0.0482% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Shopify Inc. in ARKW on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
+    {
+      "date": "2026-10-22",
+      "manager": "ARK",
+      "vehicle": "ARKW",
+      "ticker": "XYZ",
+      "action": "Sell",
+      "sizeValue": "23020 shares",
+      "weightChange": "0.0971% ETF",
+      "source": "ARK Latest Trade File",
+      "sourceType": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "note": "Official notification lists sell of Block, Inc. in ARKW on 2026-10-22. Notifications are unreconciled and do not cover all fund activity."
+    },
     {
       "date": "2026-10-20",
       "manager": "ARK",
@@ -11851,6 +12020,13 @@
       "watchlist": ["MSFT", "GOOGL", "META", "AAPL", "CRM", "NOW", "HUBS", "ADBE", "SHOP", "AMZN", "RDFN"],
       "evidence": [
           {
+            "date": "2026-10-21",
+            "source": "Meta Reports Third Quarter 2026 Results",
+            "type": "official company release",
+            "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+            "fact": "Meta reported Q3 2026 revenue of $64.60 billion, Family daily active people of 3.64 billion, ad impressions up 10% year over year, and average price per ad up 14%. It also reported $34.91 billion of Q3 capital expenditures and narrowed 2026 capital-expenditure guidance to $135-$145 billion. The release supports a scaled AI-and-advertising platform anchor for the October 22 META buys, but does not establish ARK motive or future returns."
+          },
+          {
             "date": "2026-04-23",
             "source": "Sequoia Training Data",
             "type": "thought source",
@@ -12176,8 +12352,37 @@
       "score": 83,
       "review": "1M",
   "oracleView": "10月20日の確認済み通知では、ARKGとARKKがPACBを買い、ARKQとARKXがXEを買い、ARKQがOKLO、ARKXがLUNRを買った。一方でARKGはPSNLを、ARKKはPLTRとSHOPを、ARKQ・ARKXはESLT・TER・HOを売っており、資金はゲノム、核・電力、宇宙へ選別的に回っている。X-energyの960MW計画、Okloの同位体パイロット、PacBioのVerilyとの生物AI連携は事業アンカーになるが、取引動機、商業転換、評価、市場全体のリスク選好回復は未確認である。",
+      "oracleView": "10月22日の確認済み通知では、ARKF・ARKK・ARKWがMETAを買い、ARKGとARKKがPACBを買い、ARKGがSCTX・FRNM・IAMを買った。一方でPLTR、TER、RBLX、SHOP、XYZを売っており、資金はAI広告・プラットフォームと選別的ゲノムへ回る一方、既存のプラットフォーム/自動化銘柄からも資金を抜いている。MetaのQ3、Freenomeの肺がん検査開始、IambicのIPO/AbbVie連携は事業アンカーになるが、取引動機、商業転換、評価、市場全体のリスク選好回復は未確認である。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+         {
+           "date": "2026-10-22",
+           "source": "ARK Latest Trade File",
+           "type": "official file",
+           "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+           "fact": "October 22 notifications show ARKF, ARKK, and ARKW all buying META; ARKG and ARKK buying PACB; and ARKG buying SCTX, FRNM, and IAM. The same 13 unreconciled rows include ARKF PLTR, ARKK TER, and ARKW RBLX, SHOP, and XYZ sells, so the tape supports selective AI-platform and genomics rotation rather than broad risk-on behavior or ARK motive."
+         },
+         {
+           "date": "2026-10-21",
+           "source": "Meta Reports Third Quarter 2026 Results",
+           "type": "official company release",
+           "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+           "fact": "Meta reported Q3 2026 revenue of $64.60 billion, Family daily active people of 3.64 billion, ad impressions up 10% year over year, and average price per ad up 14%. It also reported $34.91 billion of Q3 capital expenditures and 2026 capital-expenditure guidance of $135-$145 billion. This gives the META buys a current operating anchor, but not proof of ARK motive, valuation, or future returns."
+         },
+         {
+           "date": "2026-10-20",
+           "source": "Freenome Expands Personalized Cancer Detection Portfolio, Launching SimpleScreen Lung Test With FDA-Approved SimpleScreen CRC Option",
+           "type": "official company release",
+           "url": "https://investors.freenome.com/news-releases/news-release-details/freenome-expands-personalized-cancer-detection-portfolio",
+           "fact": "Freenome announced the launch of SimpleScreen Lung and said it can be ordered with FDA-approved SimpleScreen CRC in a single blood draw. The launch is a current diagnostics and commercialization anchor for the October 22 FRNM buy, but uptake, economics, and ARK motive remain unknown."
+         },
+         {
+           "date": "2026-09-21",
+           "source": "AbbVie and Iambic Announce Collaboration to Accelerate AI-driven Drug Discovery",
+           "type": "official company release",
+           "url": "https://ir.iambic.ai/news-releases/news-release-details/abbvie-and-iambic-announce-collaboration-accelerate-ai-driven",
+           "fact": "Iambic announced a multi-year AbbVie collaboration to accelerate AI-driven drug discovery across immunology, neuroscience, and oncology, with upfront, milestone, and royalty economics. The collaboration provides operating context for the ARKG IAM buy, but does not establish clinical success, commercial conversion, valuation, or ARK motive."
+         },
          {
            "date": "2026-10-20",
            "source": "ARK Latest Trade File",
@@ -12858,6 +13063,20 @@
       "oracleView": "ROKUのTrimとNYTのNewは逆向きの小さなシグナルだが、広告依存のattentionと、信頼/サブスク/データを持つメディアの差が広がっている可能性がある。",
       "watchlist": ["NYT", "ROKU", "RBLX", "FOXA", "NFLX", "SPOT", "PINS", "SNAP", "META", "GOOGL"],
       "evidence": [
+        {
+          "date": "2026-10-22",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "October 22 notifications show ARKF, ARKK, and ARKW all buying Meta while ARKW sold Roblox. The three-fund META adds after Meta's Q3 release extend the existing scaled-platform and AI-surface signal, but the unreconciled file does not establish motive or a broad attention allocation shift."
+        },
+        {
+          "date": "2026-10-21",
+          "source": "Meta Reports Third Quarter 2026 Results",
+          "type": "official company release",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+          "fact": "Meta reported Q3 2026 revenue of $64.60 billion, Family daily active people of 3.64 billion, ad impressions up 10% year over year, and average price per ad up 14%. Meta also said its AI investments are contributing to advertising revenue through stronger engagement, recommendations, and monetization efficiency; the release also reports very high AI capital spending and negative Q3 free cash flow, so operating strength does not remove execution risk."
+        },
         {
           "date": "2026-08-04",
           "source": "Cathie's Ark Combined ARK ETF Trades",
