@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W41"
+  selectedBrief: "2026-W43"
 };
 
 const translations = {
@@ -1482,6 +1482,29 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W43",
+  title: "KAIROS Weekly 2026-W43",
+  dateRange: "2026-10-19 to 2026-10-25",
+  status: "frozen 2026-10-26",
+  thesis:
+    "W43 was a selective reallocation into biological data and physical power optionality, funded by trims in software, platform and crypto-rail exposures: PACB, SCTX, FRNM and XE repeated in the observed tape, OKLO appeared in ARKQ, and META was bought across three funds while liquid growth names were reduced.",
+  moments: ["ARK Risk-on Rebuild", "Compute to Power Bottleneck", "Defense Autonomy"],
+  capitalFlow:
+    "The current fact base contains 46 official notification rows from Oct 20, Oct 22 and Oct 23: 21 buys and 25 sells. PACB appeared four times, SCTX three times, FRNM twice, META three times, and XE appeared in ARKK, ARKQ and ARKX; PLTR and SHOP were repeatedly sold, with NET, GOOG, CRWD, CRCL, RBLX, RBRK, XYZ and P also sold on Oct 23. The visible file does not establish complete weekly net flow.",
+  mapRead:
+    "The edge is moving toward two operating bottlenecks—measurement of biology and future power supply—while liquid software and financial-platform exposure funds the shift. The evidence remains manager-specific and does not prove broad risk appetite, motive or completed deployment.",
+  watchNext: [
+    "whether PACB, SCTX and FRNM persist in the same ARKG/ARKK sleeve",
+    "XE and OKLO licensing, counterparties, financing and physical deployment",
+    "whether META persists across ARKF, ARKK and ARKW",
+    "whether PLTR, SHOP, NET, GOOG, CRWD, CRCL and XYZ remain the funding sleeve",
+    "clinical, regulatory, customer and revenue receipts for the selected biology names"
+  ],
+  futureReceipt:
+    "1M: holdings persistence. 3M: biology data/product conversion and nuclear licensing, counterparties, site and funding evidence. 6M: repeatable control-point allocation rather than isolated fund rebalancing."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W41",
