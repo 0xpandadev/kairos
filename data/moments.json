@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-28",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,33 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKF","ticker":"HOOD","action":"Buy","sizeValue":"12115 shares","weightChange":"0.1438% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Robinhood Markets, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKF","ticker":"ARKB","action":"Sell","sizeValue":"42364 shares","weightChange":"0.1486% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of ARK 21Shares Bitcoin ETF on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKG","ticker":"BEAM","action":"Buy","sizeValue":"4497 shares","weightChange":"0.0052% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Beam Therapeutics Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKK","ticker":"TER","action":"Buy","sizeValue":"54092 shares","weightChange":"0.2585% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Teradyne, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKK","ticker":"HOOD","action":"Buy","sizeValue":"69604 shares","weightChange":"0.0982% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Robinhood Markets, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKK","ticker":"CBRS","action":"Buy","sizeValue":"28168 shares","weightChange":"0.0489% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Cerebras Systems Inc on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKK","ticker":"TWST","action":"Sell","sizeValue":"42187 shares","weightChange":"0.1135% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Twist Bioscience Corporation on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKK","ticker":"TXG","action":"Sell","sizeValue":"48140 shares","weightChange":"0.0628% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 10x Genomics, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKK","ticker":"TEM","action":"Sell","sizeValue":"58371 shares","weightChange":"0.0695% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Tempus AI, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKQ","ticker":"TER","action":"Buy","sizeValue":"14844 shares","weightChange":"0.2494% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Teradyne, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKQ","ticker":"AVAV","action":"Buy","sizeValue":"10113 shares","weightChange":"0.0694% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of AeroVironment, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKQ","ticker":"JOBY","action":"Buy","sizeValue":"442095 shares","weightChange":"0.1204% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Joby Aviation, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKQ","ticker":"ACHR","action":"Buy","sizeValue":"649240 shares","weightChange":"0.1509% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Archer Aviation Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKQ","ticker":"KDK","action":"Buy","sizeValue":"277891 shares","weightChange":"0.0195% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kodiak AI Inc on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKQ","ticker":"AMD","action":"Sell","sizeValue":"4135 shares","weightChange":"0.1296% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Advanced Micro Devices, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKQ","ticker":"TSM","action":"Sell","sizeValue":"7491 shares","weightChange":"0.1795% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Taiwan Semiconductor Manufacturing Company Limited on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKW","ticker":"HOOD","action":"Buy","sizeValue":"17699 shares","weightChange":"0.1009% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Robinhood Markets, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKW","ticker":"CBRS","action":"Buy","sizeValue":"14108 shares","weightChange":"0.099% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Cerebras Systems Inc on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKW","ticker":"CRWD","action":"Sell","sizeValue":"2100 shares","weightChange":"0.0351% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of CrowdStrike Holdings, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKW","ticker":"NET","action":"Sell","sizeValue":"1600 shares","weightChange":"0.032% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Cloudflare, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKW","ticker":"RBRK","action":"Sell","sizeValue":"3417 shares","weightChange":"0.029% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Rubrik, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKX","ticker":"TER","action":"Buy","sizeValue":"5755 shares","weightChange":"0.2502% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Teradyne, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKX","ticker":"AVAV","action":"Buy","sizeValue":"4478 shares","weightChange":"0.0795% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of AeroVironment, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKX","ticker":"JOBY","action":"Buy","sizeValue":"211597 shares","weightChange":"0.1492% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Joby Aviation, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKX","ticker":"ACHR","action":"Buy","sizeValue":"318635 shares","weightChange":"0.1916% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Archer Aviation Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKX","ticker":"AMD","action":"Sell","sizeValue":"1600 shares","weightChange":"0.1298% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Advanced Micro Devices, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-28","manager":"ARK","vehicle":"ARKX","ticker":"TSM","action":"Sell","sizeValue":"3224 shares","weightChange":"0.2% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Taiwan Semiconductor Manufacturing Company Limited on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-26","manager":"ARK","vehicle":"ARKF","ticker":"MELI","action":"Buy","sizeValue":"723 shares","weightChange":"0.1492% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of MercadoLibre, Inc. on 2026-10-26. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-26","manager":"ARK","vehicle":"ARKF","ticker":"NU","action":"Buy","sizeValue":"76636 shares","weightChange":"0.1178% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Nu Holdings Ltd. on 2026-10-26. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-26","manager":"ARK","vehicle":"ARKF","ticker":"ARKB","action":"Sell","sizeValue":"85966 shares","weightChange":"0.2942% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of ARK 21Shares Bitcoin ETF on 2026-10-26. Notifications are unreconciled and do not cover all fund activity."},
@@ -11986,6 +12013,13 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "TER", "CBRS", "CRWV", "XE", "OKLO", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
         {
+          "date": "2026-10-28",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "October 28 notifications show ARKK, ARKQ, ARKW, and ARKX buying Teradyne, while ARKK and ARKW also bought Cerebras. Teradyne's October 27 Q3 release reported revenue up 70% year over year and robotics profitability; Cerebras announced an Oracle Cloud inference partnership on October 27. The trade file and releases support a current AI test/inference anchor, but not ARK motive or valuation."
+        },
+        {
           "date": "2026-10-20",
           "source": "ARK Latest Trade File",
           "type": "official file",
@@ -12326,6 +12360,13 @@
       "watchlist": ["BLSH", "CRCL", "COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
       "evidence": [
         {
+          "date": "2026-10-28",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "October 28 notifications show ARKW buying HOOD while ARKF sold ARKB. Robinhood's October 27 Q3 release reported record revenue of $1.42B, $15.7B of net deposits, and 5.2M Gold subscribers, while crypto revenue declined 55% year over year; the capital signal supports platform/financial-rail monitoring, not a claim of stablecoin adoption or ARK motive."
+        },
+        {
           "date": "2026-10-26",
           "source": "ARK Latest Trade File",
           "type": "official file",
@@ -12475,8 +12516,15 @@
       "review": "6M",
       "oracleView": "地政学、ドローン戦、低コスト自律システム、調達改革が重なることで、防衛はソフトウェア/ロボティクス市場になり始めている。",
       "valueChain": ["Prime contractors: LMT, RTX, NOC, GD", "Autonomy/software: PLTR, KTOS, AVAV", "Sensors/components: LHX, TDY, BWXT", "Second-order: shipbuilding, energy, secure communications"],
-      "watchlist": ["PLTR", "AVAV", "KTOS", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
+      "watchlist": ["PLTR", "AVAV", "KTOS", "JOBY", "ACHR", "KDK", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
       "evidence": [
+        {
+          "date": "2026-10-28",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "October 28 notifications show ARKQ and ARKX buying TER, AVAV, JOBY, and ACHR, with ARKQ also buying KDK. Kodiak announced a binding agreement to deploy 75 driverless trucks with DTL on October 28, while Joby previously reported a 3,199-mile autonomous flight; these are operating anchors for an autonomy basket, not proof of commercial scale or ARK motive."
+        },
         {
           "date": "2026-10-26",
           "source": "ARK Latest Trade File",
@@ -12612,6 +12660,13 @@
   "oracleView": "10月26日の確認済み通知では、ARKQとARKXがKTOS、AVAV、JOBY、ACHRを両ファンドで買い、ARKQがKDKも買った。ARKGとARKKはPACBを追加し、ARKWはCRCL、ARKFはMELIとNUを買った。一方でARKF・ARKWはARKB、ARKQ・ARKXはAMDとTSMを売っている。資金は自律走行・防衛、ゲノム、決済レールへ選別的に回る一方、旧来の半導体・ビットコインETFから抜けており、広範なリスクオンとは読めない。Kodiakの年末無人長距離運行計画、Kratosの防衛設備投資、CircleのArc展開は事業アンカーになるが、取引動機、商業転換、評価、市場全体のリスク選好回復は未確認である。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+         {
+           "date": "2026-10-28",
+           "source": "ARK Latest Trade File",
+           "type": "official file",
+           "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+           "fact": "October 28 notifications show a 27-row mixed rotation: ARKQ and ARKX bought TER, AVAV, JOBY, and ACHR, ARKQ bought KDK, ARKK and ARKW bought CBRS, ARKF/ARKK/ARKW bought HOOD, and ARKG bought BEAM. ARKQ and ARKX sold AMD and TSM while ARKK/ARKW sold selected software and genomics names. This is selective capital recycling across AI infrastructure, autonomy, fintech, and biotech, not broad risk-on proof."
+         },
          {
            "date": "2026-10-26",
            "source": "ARK Latest Trade File",
