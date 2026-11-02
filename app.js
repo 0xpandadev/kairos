@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W43"
+  selectedBrief: "2026-W45"
 };
 
 const translations = {
@@ -1482,6 +1482,28 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W45",
+  title: "KAIROS Weekly 2026-W45",
+  dateRange: "2026-10-26 to 2026-11-01",
+  status: "frozen 2026-11-02",
+  thesis:
+    "The observed tape concentrated capital into deployed autonomy, defense systems and AI test/inference infrastructure, funded partly by trims in semiconductor, bitcoin-wrapper, software and genomics exposures. This is selective physical-execution and AI-deployment allocation, not proof of broad risk-on behavior.",
+  moments: ["Defense Autonomy", "Compute to Power Bottleneck", "ARK Risk-on Rebuild"],
+  capitalFlow:
+    "ARKQ and ARKX repeatedly bought AVAV, JOBY and ACHR, with KTOS and KDK also added; TER was bought across ARKK, ARKQ and ARKX, and CBRS in ARKK and ARKW. AMD, TSM, ARKB, selected software and genomics names supplied the visible funding sleeve, while HOOD, MELI, NU and CRCL kept financial rails in the map.",
+  mapRead:
+    "The next edge is the production layer that converts intelligence into physical throughput: autonomy fleets and aircraft, defense components, robotics test equipment and inference capacity. The key variable is operating conversion, not another thematic label.",
+  watchNext: [
+    "whether AVAV, JOBY, ACHR, KDK, KTOS, TER and CBRS persist in the same funds",
+    "driverless deployments, flight/certification receipts and defense customer contracts",
+    "Teradyne robotics/test demand and Cerebras inference capacity or customer conversion",
+    "whether AMD, TSM, ARKB and selected software/genomics names remain the funding sleeve"
+  ],
+  futureReceipt:
+    "1M: holdings persistence and autonomy/deployment receipts. 3M: fleet, flight, test-equipment and inference-capacity conversion. 6M: repeatable physical-execution allocation rather than isolated fund rebalancing."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W43",
