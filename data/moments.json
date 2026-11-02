@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-30",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,25 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKF","ticker":"CRCL","action":"Buy","sizeValue":"5816 shares","weightChange":"0.0546% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Circle Internet Group, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKF","ticker":"COIN","action":"Buy","sizeValue":"4420 shares","weightChange":"0.0807% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Coinbase Global, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKF","ticker":"HOOD","action":"Buy","sizeValue":"13757 shares","weightChange":"0.1496% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Robinhood Markets, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKF","ticker":"BLSH","action":"Sell","sizeValue":"61470 shares","weightChange":"0.1943% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKG","ticker":"PACB","action":"Buy","sizeValue":"133767 shares","weightChange":"0.0139% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Pacific Biosciences of California, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKG","ticker":"BEAM","action":"Buy","sizeValue":"22687 shares","weightChange":"0.0256% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Beam Therapeutics Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKG","ticker":"ARCT","action":"Buy","sizeValue":"64483 shares","weightChange":"0.0302% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Arcturus Therapeutics Holdings Inc on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKG","ticker":"TEM","action":"Buy","sizeValue":"61114 shares","weightChange":"0.1841% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Tempus AI, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKG","ticker":"CDNA","action":"Sell","sizeValue":"50859 shares","weightChange":"0.1836% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of CareDx, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKK","ticker":"ILMN","action":"Buy","sizeValue":"43130 shares","weightChange":"0.1562% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Illumina Inc on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKK","ticker":"PACB","action":"Buy","sizeValue":"346507 shares","weightChange":"0.0133% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Pacific Biosciences of California, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKK","ticker":"CRCL","action":"Buy","sizeValue":"54462 shares","weightChange":"0.0604% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Circle Internet Group, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKK","ticker":"COIN","action":"Buy","sizeValue":"27592 shares","weightChange":"0.0594% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Coinbase Global, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKK","ticker":"TEM","action":"Buy","sizeValue":"93407 shares","weightChange":"0.104% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Tempus AI, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKK","ticker":"LLY","action":"Sell","sizeValue":"17626 shares","weightChange":"0.3878% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Eli Lilly and Company on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKK","ticker":"BLSH","action":"Sell","sizeValue":"115132 shares","weightChange":"0.0429% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKW","ticker":"CRCL","action":"Buy","sizeValue":"14616 shares","weightChange":"0.0614% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Circle Internet Group, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKW","ticker":"COIN","action":"Buy","sizeValue":"7406 shares","weightChange":"0.0605% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Coinbase Global, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-10-30","manager":"ARK","vehicle":"ARKW","ticker":"BLSH","action":"Sell","sizeValue":"61771 shares","weightChange":"0.0874% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-28","manager":"ARK","vehicle":"ARKF","ticker":"HOOD","action":"Buy","sizeValue":"12115 shares","weightChange":"0.1438% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Robinhood Markets, Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-28","manager":"ARK","vehicle":"ARKF","ticker":"ARKB","action":"Sell","sizeValue":"42364 shares","weightChange":"0.1486% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of ARK 21Shares Bitcoin ETF on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-28","manager":"ARK","vehicle":"ARKG","ticker":"BEAM","action":"Buy","sizeValue":"4497 shares","weightChange":"0.0052% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Beam Therapeutics Inc. on 2026-10-28. Notifications are unreconciled and do not cover all fund activity."},
@@ -12657,9 +12676,23 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "10月26日の確認済み通知では、ARKQとARKXがKTOS、AVAV、JOBY、ACHRを両ファンドで買い、ARKQがKDKも買った。ARKGとARKKはPACBを追加し、ARKWはCRCL、ARKFはMELIとNUを買った。一方でARKF・ARKWはARKB、ARKQ・ARKXはAMDとTSMを売っている。資金は自律走行・防衛、ゲノム、決済レールへ選別的に回る一方、旧来の半導体・ビットコインETFから抜けており、広範なリスクオンとは読めない。Kodiakの年末無人長距離運行計画、Kratosの防衛設備投資、CircleのArc展開は事業アンカーになるが、取引動機、商業転換、評価、市場全体のリスク選好回復は未確認である。",
+  "oracleView": "10月30日の確認済み通知では、ARKK・ARKW・ARKFがCRCLとCOINを買い、ARKK・ARKGがTEMを、ARKK・ARKGがPACBを追加し、ARKFはHOODも買った。一方でARKK・ARKW・ARKFはBLSHを、ARKKはLLYを売っている。資金は発行体・取引所・証券アプリの決済レールと、ゲノム／AI医療へ選別的に回るが、トークン化株式や一部バイオの削減も同時に進んでおり、広範なリスクオンとは読めない。RobinhoodのQ3成長とCircleの11月4日決算予定は事業アンカーになるが、取引動機、商業転換、評価、市場全体のリスク選好回復は未確認である。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+    {
+      "date": "2026-10-30",
+      "source": "ARK Latest Trade File",
+      "type": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "fact": "October 30 notifications show ARKK, ARKW, and ARKF buying CRCL and COIN; ARKK and ARKG buying TEM; ARKK and ARKG buying PACB; ARKK buying ILMN; and ARKF buying HOOD. The same 19 unreconciled rows include BLSH sales across ARKK, ARKW, and ARKF plus an ARKK LLY sale, so the evidence supports selective rotation into financial rails and genomics/AI healthcare rather than broad risk-on behavior or ARK motive."
+    },
+    {
+      "date": "2026-10-27",
+      "source": "Robinhood Reports Third Quarter 2026 Results",
+      "type": "official company release",
+      "url": "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-third-quarter-2026-results",
+      "fact": "Robinhood reported Q3 2026 revenue of $1.42 billion, net deposits of $15.7 billion, 5.2 million Gold subscribers, and 14 business lines at $100 million or more in annualized revenue; crypto transaction revenue declined 55% year over year. This anchors the HOOD add as a scaled financial-platform signal while leaving stablecoin adoption, valuation, and ARK motive unknown."
+    },
          {
            "date": "2026-10-28",
            "source": "ARK Latest Trade File",
@@ -13378,6 +13411,20 @@
       "oracleView": "Berkshireの最新13Fは、AIを完全に避けているというより、Alphabetを抱えつつ、Delta・Macy's・NYT・Lennarを増やし、Chevron・Amazon・Visa・Mastercard・UnitedHealthを引く形で、巨大テック/決済から国内消費・住宅・輸送・信頼メディアへ資本を再配分している。",
       "watchlist": ["BRK.B", "GOOGL", "DAL", "M", "NYT", "LEN", "CVX", "AAPL", "AMZN", "V", "MA", "OXY"],
       "evidence": [
+    {
+      "date": "2026-10-30",
+      "source": "ARK Latest Trade File",
+      "type": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "fact": "October 30 notifications show ARKK, ARKW, and ARKF all buying Circle, while ARKK, ARKW, and ARKF also bought Coinbase; ARKF bought Robinhood and all three funds sold Bullish. This is a concentrated issuer/exchange/brokerage-rail basket, but it does not establish stablecoin transaction scale, adoption durability, or ARK motive."
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Circle Reports Third Quarter 2026 Results",
+      "type": "official schedule",
+      "url": "https://investor.circle.com/events-and-presentations/event-details/2026/Circle-Reports-Third-Quarter-2026-Results/default.aspx",
+      "fact": "Circle scheduled its Q3 2026 results webcast for November 4, 2026. The event is the next receipt for testing whether the CRCL buying is matched by issuer economics and adoption evidence; results were not yet available at this refresh."
+    },
           {
             "date": "2026-02-17",
             "source": "SEC EDGAR 13F-HR (Berkshire Hathaway Inc)",
