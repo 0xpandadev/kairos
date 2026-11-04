@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-03",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,37 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKF","ticker":"CRCL","action":"Buy","sizeValue":"1632 shares","weightChange":"0.0168% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Circle Internet Group, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKF","ticker":"PLTR","action":"Buy","sizeValue":"4291 shares","weightChange":"0.1025% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Palantir Technologies Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKF","ticker":"SHOP","action":"Buy","sizeValue":"7646 shares","weightChange":"0.1499% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Shopify Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKF","ticker":"CRWD","action":"Sell","sizeValue":"6901 shares","weightChange":"0.2328% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of CrowdStrike Holdings, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKF","ticker":"TOST","action":"Sell","sizeValue":"47311 shares","weightChange":"0.2209% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Toast, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKF","ticker":"BLSH","action":"Sell","sizeValue":"10384 shares","weightChange":"0.033% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"ILMN","action":"Buy","sizeValue":"6842 shares","weightChange":"0.0778% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Illumina Inc on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"PACB","action":"Buy","sizeValue":"67004 shares","weightChange":"0.0079% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Pacific Biosciences of California, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"CMPS","action":"Buy","sizeValue":"600709 shares","weightChange":"0.257% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Compass Pathways PLC on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"KYMR","action":"Buy","sizeValue":"8211 shares","weightChange":"0.0515% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kymera Therapeutics, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"WGS","action":"Buy","sizeValue":"3409 shares","weightChange":"0.0111% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of GeneDx Holdings Corp. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"SCTX","action":"Buy","sizeValue":"7987 shares","weightChange":"0.0061% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Scribe Therapeutics Inc on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"IAM","action":"Buy","sizeValue":"22226 shares","weightChange":"0.0138% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Iambic Therapeutics, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"PSNL","action":"Sell","sizeValue":"435977 shares","weightChange":"0.332% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Personalis, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKG","ticker":"CDNA","action":"Sell","sizeValue":"31538 shares","weightChange":"0.1342% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of CareDx, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKK","ticker":"PACB","action":"Buy","sizeValue":"187449 shares","weightChange":"0.0077% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Pacific Biosciences of California, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKK","ticker":"TWST","action":"Buy","sizeValue":"4852 shares","weightChange":"0.0109% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Twist Bioscience Corporation on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKK","ticker":"CRCL","action":"Buy","sizeValue":"8787 shares","weightChange":"0.0109% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Circle Internet Group, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKK","ticker":"PLTR","action":"Buy","sizeValue":"35346 shares","weightChange":"0.1023% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Palantir Technologies Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKK","ticker":"SHOP","action":"Buy","sizeValue":"63238 shares","weightChange":"0.1502% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Shopify Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKK","ticker":"TEM","action":"Sell","sizeValue":"13356 shares","weightChange":"0.0178% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Tempus AI, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKK","ticker":"BLSH","action":"Sell","sizeValue":"17660 shares","weightChange":"0.0068% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKQ","ticker":"CCJ","action":"Buy","sizeValue":"24117 shares","weightChange":"0.1015% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Cameco Corporation on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKQ","ticker":"PLTR","action":"Buy","sizeValue":"10309 shares","weightChange":"0.1036% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Palantir Technologies Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKQ","ticker":"GOOG","action":"Sell","sizeValue":"12530 shares","weightChange":"0.2022% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Alphabet Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKW","ticker":"CRCL","action":"Buy","sizeValue":"2416 shares","weightChange":"0.0109% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Circle Internet Group, Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKW","ticker":"PLTR","action":"Buy","sizeValue":"9613 shares","weightChange":"0.1012% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Palantir Technologies Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKW","ticker":"SHOP","action":"Buy","sizeValue":"17129 shares","weightChange":"0.148% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Shopify Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKW","ticker":"BLSH","action":"Sell","sizeValue":"9710 shares","weightChange":"0.0136% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKX","ticker":"PLTR","action":"Buy","sizeValue":"4079 shares","weightChange":"0.1042% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Palantir Technologies Inc. on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-03","manager":"ARK","vehicle":"ARKX","ticker":"HONA","action":"Sell","sizeValue":"2178 shares","weightChange":"0.0505% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Honeywell Aerospace Inc on 2026-11-03. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-30","manager":"ARK","vehicle":"ARKF","ticker":"CRCL","action":"Buy","sizeValue":"5816 shares","weightChange":"0.0546% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Circle Internet Group, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-30","manager":"ARK","vehicle":"ARKF","ticker":"COIN","action":"Buy","sizeValue":"4420 shares","weightChange":"0.0807% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Coinbase Global, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-10-30","manager":"ARK","vehicle":"ARKF","ticker":"HOOD","action":"Buy","sizeValue":"13757 shares","weightChange":"0.1496% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Robinhood Markets, Inc. on 2026-10-30. Notifications are unreconciled and do not cover all fund activity."},
@@ -12317,6 +12348,20 @@
       "watchlist": ["MSFT", "GOOGL", "META", "AAPL", "CRM", "NOW", "HUBS", "ADBE", "SHOP", "AMZN", "RDFN"],
       "evidence": [
           {
+            "date": "2026-11-03",
+            "source": "Shopify Sustains Rapid Growth with Revenue Up 32% and Free Cash Flow Margin of 22%",
+            "type": "official company release",
+            "url": "https://www.shopify.com/news/shopify-q3-2026-financial-results",
+            "fact": "Shopify said Q3 2026 GMV reached $119 billion while revenue grew 32% and free-cash-flow margin was 22%, and described commerce expanding across every surface and increasingly every agent. This supports a current commerce-distribution anchor for the SHOP buys, but the release does not establish the size, durability, or monetization of agent-driven demand."
+          },
+          {
+            "date": "2026-11-02",
+            "source": "Palantir Q3 2026 Business Update",
+            "type": "official company presentation",
+            "url": "https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf",
+            "fact": "Palantir's Q3 2026 update reported 165% net dollar retention, 212 deals of at least $1 million, and $2.31 billion of revenue, while highlighting production use of governed AI workflows. This is an enterprise execution anchor for the PLTR buys, not proof that all growth is agent-led or that ARK's motive is known."
+          },
+          {
             "date": "2026-10-21",
             "source": "Meta Reports Third Quarter 2026 Results",
             "type": "official company release",
@@ -12378,6 +12423,20 @@
       "valueChain": ["Issuer/exchange: CRCL, COIN, HOOD", "Payment and merchant rails: SQ, PYPL, V, MA", "Treasury/custody infrastructure: banks, custodians, tokenization platforms", "Risk side: compliance, reserves, regulation"],
       "watchlist": ["BLSH", "CRCL", "COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
       "evidence": [
+        {
+          "date": "2026-11-04",
+          "source": "Circle Reports Third Quarter 2026 Results",
+          "type": "official SEC filing / company release",
+          "url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000309/finalq3epr-110326.htm",
+          "fact": "Circle reported Q3 2026 average USDC in circulation of $73.3 billion, up 8% year over year, USDC onchain transaction volume of $13.9 trillion, up 49%, total revenue and reserve income of $865 million, up 17%, and adjusted EBITDA of $317 million, up 85%. Reserve income fell 8% as the reserve return rate declined 61 basis points, so the update supports real payment-rail usage while keeping rate sensitivity, distribution economics, market share, and ARK motive unresolved."
+        },
+        {
+          "date": "2026-11-03",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "November 3 notifications show CRCL buys in ARKF, ARKK, and ARKW, alongside PLTR and SHOP buys across multiple funds, while BLSH was sold in ARKF, ARKK, and ARKW. The repeated CRCL adds strengthen the issuer/platform rail signal, but the unreconciled file does not establish motive, valuation, or a portfolio-wide risk-on shift."
+        },
         {
           "date": "2026-10-28",
           "source": "ARK Latest Trade File",
@@ -12676,9 +12735,37 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "10月30日の確認済み通知では、ARKK・ARKW・ARKFがCRCLとCOINを買い、ARKK・ARKGがTEMを、ARKK・ARKGがPACBを追加し、ARKFはHOODも買った。一方でARKK・ARKW・ARKFはBLSHを、ARKKはLLYを売っている。資金は発行体・取引所・証券アプリの決済レールと、ゲノム／AI医療へ選別的に回るが、トークン化株式や一部バイオの削減も同時に進んでおり、広範なリスクオンとは読めない。RobinhoodのQ3成長とCircleの11月4日決算予定は事業アンカーになるが、取引動機、商業転換、評価、市場全体のリスク選好回復は未確認である。",
+  "oracleView": "11月3日の確認済み通知では、ARKF・ARKK・ARKWがCRCLを、ARKF・ARKK・ARKQ・ARKW・ARKXがPLTRを、ARKF・ARKK・ARKWがSHOPを買った。ARKGではCMPS・KYMR・WGS・SCTX・IAMなどを買う一方、PSNL・CDNAを売り、ARKF・ARKK・ARKWはBLSHを売っている。CircleのQ3はUSDC平均流通額が前年比8%、オンチェーン取引量が49%増、ShopifyはQ3売上高が32%増でGMV1190億ドル、Palantirは売上高96%増で米国商用売上が初めて政府売上を上回った。資金は決済・エージェント商流・選択的ゲノムへ再配分されているが、単一日の通知から広範なリスクオン、取引動機、評価、商業転換を断定できない。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+    {
+      "date": "2026-11-04",
+      "source": "PacBio Announces Third Quarter 2026 Financial Results",
+      "type": "official company release",
+      "url": "https://www.pacb.com/press_releases/pacbio-announces-third-quarter-2026-financial-results/",
+      "fact": "PacBio reported Q3 2026 revenue of $40.6 million versus $38.4 million a year earlier, delivered 35 Vega systems with more than 90% sold to new customers, and said more than half of Revio consumables revenue was tied to SPRQ-Nx. It also disclosed a $37.8 million GAAP net loss and cash and investments of $199.4 million. This provides a current operating anchor for the PACB adds while showing that adoption and economics remain incomplete rather than proven."
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Shopify Sustains Rapid Growth with Revenue Up 32% and Free Cash Flow Margin of 22%",
+      "type": "official company release",
+      "url": "https://www.shopify.com/news/shopify-q3-2026-financial-results",
+      "fact": "Shopify reported Q3 2026 revenue growth of 32%, a 22% free-cash-flow margin, and $119 billion of GMV, and said the platform is extending commerce across surfaces and agents. This anchors the cross-fund SHOP buys as a commerce/distribution signal, but does not prove ARK motive or future returns."
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Palantir Q3 2026 Business Update",
+      "type": "official company presentation",
+      "url": "https://investors.palantir.com/files/Palantir%20-%20Q3%202026%20Business%20Update.pdf",
+      "fact": "Palantir reported Q3 2026 revenue of $2.31 billion, up 96% year over year, US commercial revenue of $984 million, up 148%, and net dollar retention of 165%; US commercial revenue exceeded US government revenue for the first time. The result is an operating anchor for the five-fund PLTR buys, not proof of ARK motive, valuation support, or broad risk appetite."
+    },
+    {
+      "date": "2026-11-03",
+      "source": "ARK Latest Trade File",
+      "type": "official file",
+      "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+      "fact": "November 3 notifications show PLTR buys across ARKF, ARKK, ARKQ, ARKW, and ARKX; SHOP buys across ARKF, ARKK, and ARKW; and CRCL buys across ARKF, ARKK, and ARKW. The same 31 unreconciled rows include BLSH sales across three funds, GOOG and HONA sales, and selective genomics rotation, so the tape is a cross-theme reallocation rather than proof of broad risk-on behavior."
+    },
     {
       "date": "2026-10-30",
       "source": "ARK Latest Trade File",
