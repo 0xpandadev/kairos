@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,37 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKF","ticker":"BLSH","action":"Sell","sizeValue":"3353 shares","weightChange":"0.0103% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKG","ticker":"TWST","action":"Buy","sizeValue":"4790 shares","weightChange":"0.0299% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Twist Bioscience Corporation on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKG","ticker":"TEM","action":"Buy","sizeValue":"12500 shares","weightChange":"0.0453% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Tempus AI, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKG","ticker":"NTRA","action":"Buy","sizeValue":"15572 shares","weightChange":"0.2505% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Natera, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKG","ticker":"SCTX","action":"Buy","sizeValue":"37246 shares","weightChange":"0.0298% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Scribe Therapeutics Inc on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKG","ticker":"IAM","action":"Buy","sizeValue":"16550 shares","weightChange":"0.0093% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Iambic Therapeutics, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKG","ticker":"PSNL","action":"Sell","sizeValue":"1344 shares","weightChange":"0.0011% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Personalis, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKG","ticker":"CDNA","action":"Sell","sizeValue":"113168 shares","weightChange":"0.4512% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of CareDx, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"KTOS","action":"Buy","sizeValue":"87471 shares","weightChange":"0.0538% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kratos Defense & Security Solutions, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"TXG","action":"Buy","sizeValue":"14605 shares","weightChange":"0.0152% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of 10x Genomics, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"COIN","action":"Buy","sizeValue":"2065 shares","weightChange":"0.0051% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Coinbase Global, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"NTRA","action":"Buy","sizeValue":"46389 shares","weightChange":"0.2641% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Natera, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"GOOG","action":"Buy","sizeValue":"6020 shares","weightChange":"0.031% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Alphabet Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"LLY","action":"Sell","sizeValue":"398 shares","weightChange":"0.0098% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Eli Lilly and Company on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"TER","action":"Sell","sizeValue":"5428 shares","weightChange":"0.0215% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Teradyne, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"AVGO","action":"Sell","sizeValue":"8662 shares","weightChange":"0.0456% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Broadcom Inc on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"CRWV","action":"Sell","sizeValue":"50631 shares","weightChange":"0.0422% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of CoreWeave, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKK","ticker":"BLSH","action":"Sell","sizeValue":"81813 shares","weightChange":"0.0315% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKQ","ticker":"KTOS","action":"Buy","sizeValue":"44740 shares","weightChange":"0.0976% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kratos Defense & Security Solutions, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKQ","ticker":"BYDDY","action":"Sell","sizeValue":"180000 shares","weightChange":"0.1088% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of BYD Company Limited on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKW","ticker":"AMD","action":"Buy","sizeValue":"519 shares","weightChange":"0.0152% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Advanced Micro Devices, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKW","ticker":"NVDA","action":"Buy","sizeValue":"405 shares","weightChange":"0.005% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of NVIDIA Corporation on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKW","ticker":"CBRS","action":"Buy","sizeValue":"12522 shares","weightChange":"0.0709% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Cerebras Systems Inc on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKW","ticker":"GOOG","action":"Buy","sizeValue":"1076 shares","weightChange":"0.0203% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Alphabet Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKW","ticker":"BLSH","action":"Sell","sizeValue":"43898 shares","weightChange":"0.0619% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKX","ticker":"KTOS","action":"Buy","sizeValue":"6931 shares","weightChange":"0.0388% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kratos Defense & Security Solutions, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKX","ticker":"AVAV","action":"Buy","sizeValue":"2078 shares","weightChange":"0.0353% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of AeroVironment, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKX","ticker":"JOBY","action":"Buy","sizeValue":"16568 shares","weightChange":"0.0153% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Joby Aviation, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKX","ticker":"LUNR","action":"Buy","sizeValue":"3339 shares","weightChange":"0.0054% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Intuitive Machines Inc on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKX","ticker":"RKLB","action":"Buy","sizeValue":"714 shares","weightChange":"0.0059% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Rocket Lab Corp on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-06","manager":"ARK","vehicle":"ARKX","ticker":"TER","action":"Sell","sizeValue":"194 shares","weightChange":"0.007% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Teradyne, Inc. on 2026-11-06. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-05","manager":"ARK","vehicle":"ARKF","ticker":"MELI","action":"Buy","sizeValue":"935 shares","weightChange":"0.1941% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of MercadoLibre, Inc. on 2026-11-05. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-05","manager":"ARK","vehicle":"ARKF","ticker":"SPOT","action":"Sell","sizeValue":"2235 shares","weightChange":"0.1863% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Spotify Technology S.A. on 2026-11-05. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-05","manager":"ARK","vehicle":"ARKF","ticker":"BLSH","action":"Sell","sizeValue":"8493 shares","weightChange":"0.0239% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Bullish on 2026-11-05. Notifications are unreconciled and do not cover all fund activity."},
@@ -12116,6 +12147,13 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "TER", "CBRS", "CRWV", "XE", "OKLO", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
         {
+          "date": "2026-11-06",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "November 6 notifications show ARKW buying AMD, NVIDIA, Cerebras, and Alphabet while ARKK sold Broadcom, CoreWeave, and Teradyne. This is a mixed AI-compute rotation toward selected accelerator, inference, and platform exposure rather than proof of a uniform increase in AI risk or ARK motive."
+        },
+        {
           "date": "2026-10-28",
           "source": "ARK Latest Trade File",
           "type": "official file",
@@ -12477,6 +12515,13 @@
       "watchlist": ["BLSH", "CRCL", "COIN", "HOOD", "SQ", "PYPL", "V", "MA", "MSTR", "CME"],
       "evidence": [
       {
+        "date": "2026-11-06",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "November 6 notifications show ARKK buying Coinbase while ARKF, ARKK, and ARKW continued selling Bullish. This is a selective crypto-market-infrastructure rotation, not evidence of stablecoin transaction scale, valuation, or ARK motive."
+      },
+      {
         "date": "2026-11-05",
         "source": "ARK Latest Trade File",
         "type": "official file",
@@ -12657,6 +12702,20 @@
       "watchlist": ["PLTR", "AVAV", "KTOS", "JOBY", "ACHR", "KDK", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
       "evidence": [
       {
+        "date": "2026-11-05",
+        "source": "Kratos Reports Third Quarter 2026 Financial Results",
+        "type": "official company release",
+        "url": "https://ir.kratosdefense.com/news-releases/news-release-details/kratos-reports-third-quarter-2026-financial-results",
+        "fact": "Kratos reported Q3 2026 revenue of $471.8 million, up 35.7% year over year, while its Q3 10-Q showed $1.3016 billion of nine-month revenue and a subsequent $60 million Jetset Airmotive acquisition. The results provide an operating anchor for the November 6 KTOS adds, but do not establish ARK motive or valuation."
+      },
+      {
+        "date": "2026-11-06",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "November 6 notifications show KTOS buys across ARKK, ARKQ, and ARKX, alongside ARKX buys of AVAV, JOBY, LUNR, and RKLB. The cross-fund defense, autonomy, and space basket extends the theme, but the unreconciled file does not establish motive, valuation, certification, or broad risk appetite."
+      },
+      {
         "date": "2026-11-04",
         "source": "Joby Reports Third Quarter 2026 Financial Results",
         "type": "official company release",
@@ -12809,9 +12868,37 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "11月3日の確認済み通知では、ARKF・ARKK・ARKWがCRCLを、ARKF・ARKK・ARKQ・ARKW・ARKXがPLTRを、ARKF・ARKK・ARKWがSHOPを買った。ARKGではCMPS・KYMR・WGS・SCTX・IAMなどを買う一方、PSNL・CDNAを売り、ARKF・ARKK・ARKWはBLSHを売っている。CircleのQ3はUSDC平均流通額が前年比8%、オンチェーン取引量が49%増、ShopifyはQ3売上高が32%増でGMV1190億ドル、Palantirは売上高96%増で米国商用売上が初めて政府売上を上回った。資金は決済・エージェント商流・選択的ゲノムへ再配分されているが、単一日の通知から広範なリスクオン、取引動機、評価、商業転換を断定できない。",
+  "oracleView": "11月6日の確認済み通知では、ARKGがTWST・TEM・NTRA・SCTX・IAMを買い、ARKKがKTOS・TXG・COIN・NTRA・GOOGを買い、ARKWがAMD・NVDA・CBRS・GOOGを買い、ARKXがKTOS・AVAV・JOBY・LUNR・RKLBを買った。一方でAVGO・CRWV・TER・BLSH・BYDDYなどを売っている。資金は計算・防衛宇宙・選択的ゲノム・暗号資産レールへ再配分されているが、NateraやKratosの決算は運用上の受け皿を示すだけで、単一日の通知から広範なリスクオン、取引動機、評価、商業転換を断定できない。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+      {
+        "date": "2026-11-05",
+        "source": "Natera Reports Third Quarter 2026 Financial Results",
+        "type": "official company release",
+        "url": "https://www.natera.com/company/news/natera-reports-third-quarter-2026-financial-results/",
+        "fact": "Natera reported Q3 2026 revenue of $794.0 million, up 34.1% year over year, processed about 1.093 million tests, and raised 2026 revenue guidance to $3.005 billion-$3.035 billion. This provides a current operating receipt for the November 6 NTRA buys, while clinical mix, cash conversion, valuation, and ARK motive remain unresolved."
+      },
+      {
+        "date": "2026-11-06",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "November 6 notifications show fresh buys across genomics and precision-medicine names (TWST, TEM, NTRA, SCTX, IAM, and TXG), plus defense, space, compute, commerce, and Coinbase, while multiple AI and crypto holdings were sold. The basket is selective cross-theme reallocation, not evidence of broad risk-on behavior or ARK motive."
+      },
+      {
+        "date": "2026-11-09",
+        "source": "Rocket Lab Announces Date of Third Quarter 2026 Financial Results",
+        "type": "official company schedule",
+        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-announces-date-third-quarter-2026-financial-results",
+        "fact": "Rocket Lab scheduled its Q3 2026 results for after the U.S. market close on November 9, 2026. The release is the next receipt for the new RKLB buy; results and their implications were not yet treated as available in this refresh."
+      },
+      {
+        "date": "2026-11-12",
+        "source": "Cerebras Systems Announces Date of Third-Quarter 2026 Financial Results",
+        "type": "official company schedule",
+        "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-announces-date-third-quarter-2026-financial",
+        "fact": "Cerebras scheduled its Q3 2026 results for after the market close on November 12, 2026. The release is the next receipt for the November 6 CBRS buy; results and delivery economics remain unresolved."
+      },
       {
         "date": "2026-11-04",
         "source": "Veracyte Announces Third Quarter 2026 Financial Results",
