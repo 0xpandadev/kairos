@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W45"
+  selectedBrief: "2026-W46"
 };
 
 const translations = {
@@ -1482,6 +1482,29 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W46",
+  title: "KAIROS Weekly 2026-W46",
+  dateRange: "2026-11-02 to 2026-11-08",
+  status: "frozen 2026-11-09",
+  thesis:
+    "The observed tape sought operating receipts across compute, defense/space, genomics, commerce and crypto rails, funded by selected AVGO, CRWV, TER, BLSH and other liquid-exposure trims. This is selective receipt-seeking reallocation, not proof of broad risk-on behavior.",
+  moments: ["ARK Risk-on Rebuild", "Defense Autonomy", "Compute to Power Bottleneck"],
+  capitalFlow:
+    "The current fact base contains 115 official notification rows from Nov. 3, 5 and 6: 71 buys and 44 sells. KTOS, RKLB, GOOG, PLTR, TWST, TEM, AMD, NVDA, CBRS, SPCX, CRCL and SHOP were among the repeated or multi-fund adds; BLSH, AVGO, CRWV and TER were visible funding-side sells. Full weekly dollar net flow is unverified.",
+  mapRead:
+    "Capital is being filtered through nearer receipts: revenue, tests, contracts, production, capacity and transaction volume. The hidden constraint is conversion into cash flow, not another thematic label.",
+  watchNext: [
+    "Rocket Lab Q3 results and launch/backlog conversion",
+    "Cerebras Q3 capacity, customer conversion and economics",
+    "KTOS, JOBY, AVAV and SPCX operating persistence",
+    "NTRA, PACB, VCYT and selected genomics test adoption",
+    "CRCL, COIN, SHOP and PLTR usage or monetization receipts"
+  ],
+  futureReceipt:
+    "Immediate: Nov. 9 Rocket Lab and Nov. 12 Cerebras scheduled results. 1M: holdings persistence and operating receipts. 3M: deployment, tests, capacity and transaction-volume conversion. 6M: repeatable receipt-seeking allocation rather than temporary fund rebalancing."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W45",
