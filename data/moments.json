@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,10 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-11-13","manager":"ARK","vehicle":"ARKG","ticker":"SCTX","action":"Buy","sizeValue":"28905 shares","weightChange":"0.023% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Scribe Therapeutics Inc on 2026-11-13. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-13","manager":"ARK","vehicle":"ARKG","ticker":"TEM","action":"Sell","sizeValue":"7996 shares","weightChange":"0.0284% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Tempus AI, Inc. on 2026-11-13. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-13","manager":"ARK","vehicle":"ARKQ","ticker":"KTOS","action":"Buy","sizeValue":"24784 shares","weightChange":"0.0477% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kratos Defense & Security Solutions, Inc. on 2026-11-13. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-13","manager":"ARK","vehicle":"ARKQ","ticker":"BYDDY","action":"Sell","sizeValue":"219468 shares","weightChange":"0.1039% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of BYD Company Limited on 2026-11-13. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-09","manager":"ARK","vehicle":"ARKF","ticker":"NVDA","action":"Buy","sizeValue":"6049 shares","weightChange":"0.1529% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of NVIDIA Corporation on 2026-11-09. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-09","manager":"ARK","vehicle":"ARKF","ticker":"SOFI","action":"Buy","sizeValue":"42809 shares","weightChange":"0.1025% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of SoFi Technologies, Inc. on 2026-11-09. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-09","manager":"ARK","vehicle":"ARKF","ticker":"PLTR","action":"Sell","sizeValue":"8509 shares","weightChange":"0.2053% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Palantir Technologies Inc. on 2026-11-09. Notifications are unreconciled and do not cover all fund activity."},
@@ -12730,6 +12734,13 @@
       "watchlist": ["PLTR", "AVAV", "KTOS", "JOBY", "ACHR", "KDK", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
       "evidence": [
       {
+        "date": "2026-11-13",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "November 13 notifications show an ARKQ buy of 24,784 Kratos shares (0.0477% of the ETF), extending the defense/autonomy signal after the November 6 KTOS buys across ARKK, ARKQ, and ARKX. The unreconciled file does not establish motive, valuation, certification, or broad risk appetite."
+      },
+      {
         "date": "2026-11-09",
         "source": "Rocket Lab Announces Third Quarter 2026 Financial Results",
         "type": "official company release",
@@ -12906,6 +12917,13 @@
   "oracleView": "11月9日の確認済み通知では、ARKF・ARKK・ARKQ・ARKW・ARKXの5ファンドがNVDAを買い、ARKF・ARKKはSOFIも買った一方、AVGO・TER・TEM・XYZ・ARKB・BLSHなどを売っている。資金はスケールしたAI計算、選択的フィンテック、宇宙防衛へ再配分されているが、Rocket Labの好決算を含めても、単一日の通知から広範なリスクオン、取引動機、評価、商業転換を断定できない。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+      {
+        "date": "2026-11-13",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "November 13 notifications show a selective four-row rotation: ARKQ bought KTOS while ARKG bought SCTX and sold TEM, and ARKQ sold BYDDY. The small mixed basket extends defense and genomics exposure while trimming a prior genomics and China-internet position, but it is not evidence of broad risk-on behavior or known ARK motive."
+      },
       {
         "date": "2026-11-09",
         "source": "ARK Latest Trade File",
