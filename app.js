@@ -1484,6 +1484,29 @@ weeklyBriefs[0] = {
 };
 
 weeklyBriefs.unshift({
+  id: "2026-W47",
+  title: "KAIROS Weekly 2026-W47",
+  dateRange: "2026-11-09 to 2026-11-15",
+  status: "frozen 2026-11-16",
+  thesis:
+    "The observed tape concentrated on scalable AI compute, selective fintech distribution, defense autonomy and genomic tooling while funding the move with trims in software, crypto-market and China internet exposures. This is selective receipt-seeking reallocation, not proof of broad risk-on behavior.",
+  moments: ["ARK Risk-on Rebuild", "Compute to Power Bottleneck", "Defense Autonomy"],
+  capitalFlow:
+    "The current fact base contains 25 official notification rows from Nov. 9 and Nov. 13: 10 buys and 15 sells. NVDA was bought across ARKF, ARKK, ARKQ, ARKW and ARKX; SOFI was bought in ARKF and ARKK; SCTX and KTOS were added. TEM, BYDDY, BLSH, TER, AVGO, XYZ, PLTR, SNPS, ARKB, HONA and PSNL were visible funding-side or cleanup sells. Full weekly dollar net flow is unverified.",
+  mapRead:
+    "The capital map links compute scale, distribution rails, defense autonomy and genomic design, but the useful unit is the next receipt: capacity, revenue, members, contracts, tests or cash conversion. The hidden constraint is monetization and execution, not another thematic label.",
+  watchNext: [
+    "NVDA scale and AI-capacity receipts across five ARK funds",
+    "SOFI member, revenue and credit-quality follow-through",
+    "KTOS, RKLB and defense/autonomy contract and production receipts",
+    "SCTX, NTRA, TWST and selected genomics test or platform adoption",
+    "whether TEM, BLSH, TER, AVGO and XYZ remain the funding sleeve"
+  ],
+  futureReceipt:
+    "Immediate: review the Nov. 9 Rocket Lab results against the RKLB exposure already in the fact base. 1M: test persistence of NVDA, SOFI, KTOS and SCTX and the operating receipts behind them. 3M: compare capacity, contracts, tests, members and cash conversion. 6M: test whether receipt-seeking allocation repeats beyond fund rebalancing."
+});
+
+weeklyBriefs.unshift({
   id: "2026-W46",
   title: "KAIROS Weekly 2026-W46",
   dateRange: "2026-11-02 to 2026-11-08",
