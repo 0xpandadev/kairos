@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-19",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,25 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKF","ticker":"ANT","action":"Buy","sizeValue":"38729 shares","weightChange":"0.5171% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKF","ticker":"ETHQ.U","action":"Sell","sizeValue":"143682 shares","weightChange":"0.1344% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Ether Staking ETF on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKF","ticker":"SOLQ.U","action":"Sell","sizeValue":"77931 shares","weightChange":"0.0638% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Solana Staking ETF on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKG","ticker":"TWST","action":"Buy","sizeValue":"18151 shares","weightChange":"0.1132% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Twist Bioscience Corporation on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKG","ticker":"ANT","action":"Buy","sizeValue":"77782 shares","weightChange":"0.4089% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKG","ticker":"LLY","action":"Sell","sizeValue":"2094 shares","weightChange":"0.1527% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Eli Lilly and Company on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKG","ticker":"ADPT","action":"Sell","sizeValue":"93430 shares","weightChange":"0.1421% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Adaptive Biotechnologies Corporation on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKG","ticker":"CDNA","action":"Sell","sizeValue":"28095 shares","weightChange":"0.1094% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of CareDx, Inc. on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKK","ticker":"WGS","action":"Buy","sizeValue":"38858 shares","weightChange":"0.015% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of GeneDx Holdings Corp. on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKK","ticker":"ANT","action":"Buy","sizeValue":"556777 shares","weightChange":"0.419% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKQ","ticker":"KDK","action":"Buy","sizeValue":"882530 shares","weightChange":"0.0482% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kodiak AI Inc on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKQ","ticker":"ANT","action":"Buy","sizeValue":"90923 shares","weightChange":"0.4748% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKQ","ticker":"NVDA","action":"Sell","sizeValue":"33430 shares","weightChange":"0.2629% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of NVIDIA Corporation on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKW","ticker":"ANT","action":"Buy","sizeValue":"146183 shares","weightChange":"0.4828% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKW","ticker":"ETHQ.U","action":"Sell","sizeValue":"281318 shares","weightChange":"0.0652% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Ether Staking ETF on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKW","ticker":"SOLQ.U","action":"Sell","sizeValue":"122069 shares","weightChange":"0.0248% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Solana Staking ETF on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKX","ticker":"ANT","action":"Buy","sizeValue":"24574 shares","weightChange":"0.3943% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKX","ticker":"HEI","action":"Sell","sizeValue":"2134 shares","weightChange":"0.1167% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of HEICO Corporation on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-19","manager":"ARK","vehicle":"ARKX","ticker":"GRMN","action":"Sell","sizeValue":"2803 shares","weightChange":"0.1259% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of Garmin Ltd. on 2026-11-19. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-16","manager":"ARK","vehicle":"ARKF","ticker":"AMZN","action":"Buy","sizeValue":"15176 shares","weightChange":"0.5478% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Amazon.com Inc on 2026-11-16. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-16","manager":"ARK","vehicle":"ARKF","ticker":"META","action":"Buy","sizeValue":"1444 shares","weightChange":"0.1265% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Meta Platforms, Inc. on 2026-11-16. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-16","manager":"ARK","vehicle":"ARKF","ticker":"SHOP","action":"Buy","sizeValue":"6591 shares","weightChange":"0.1367% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Shopify Inc. on 2026-11-16. Notifications are unreconciled and do not cover all fund activity."},
@@ -12204,6 +12223,20 @@
       "valueChain": ["Compute: NVDA, AMD, AVGO, TSM, ASML", "Data center buildout: EQIX, DLR, CORZ, IREN, APLD", "Power/cooling/grid: VRT, ETN, GEV, CEG, VST, BE, SMR", "Materials/industrial: CAT, NUE, FCX, MP", "Capital/structured finance: KKR, APO, BX"],
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "TER", "CBRS", "CRWV", "XE", "OKLO", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
+      {
+        "date": "2026-11-19",
+        "source": "Anthropic IPO prospectus",
+        "type": "official filing",
+        "url": "https://ipo.anthropic.com/documents/us/prospectus.pdf",
+        "fact": "Anthropic priced its IPO at $83 per share for 980 million Class A shares, with trading under ANT expected to begin November 19. Its prospectus also disclosed planned private placements totaling $26 billion from AMD, Broadcom, Google, Micron, Microsoft, NVIDIA, and TSMC Partners. The disclosure creates a new public AI capital-market control point, but does not establish ARK motive, valuation sustainability, profitability, or demand durability."
+      },
+      {
+        "date": "2026-11-19",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "November 19 notifications show ANT buys in ARKF, ARKG, ARKK, ARKQ, ARKW, and ARKX, with ARKQ also trimming NVDA. The cross-fund ANT allocation is a meaningful new capital signal around the IPO, but the unreconciled file does not establish motive, portfolio-wide risk appetite, or the economic value of the private-placement commitments."
+      },
         {
           "date": "2026-11-16",
           "source": "ARK Latest Trade File",
@@ -12781,11 +12814,32 @@
       "watchlist": ["PLTR", "AVAV", "KTOS", "JOBY", "ACHR", "KDK", "LMT", "RTX", "NOC", "GD", "LHX", "TDY", "BWXT"],
       "evidence": [
       {
+        "date": "2026-11-19",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "The 19-row November 19 file pairs ANT buys across ARKF, ARKG, ARKK, ARKQ, ARKW, and ARKX with KDK/TWST/WGS adds and ETHQ.U, SOLQ.U, NVDA, LLY, ADPT, CDNA, HEI, and GRMN reductions. It is a selective cross-theme reallocation around a newly public AI issuer, not evidence of broad risk-on behavior or known ARK motive."
+      },
+      {
+        "date": "2026-11-18",
+        "source": "Anthropic prices initial public offering",
+        "type": "official company release",
+        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "fact": "Anthropic said its IPO was priced at $83 per share and that the shares would begin trading under ANT on November 19. The event supplies a market-transmission anchor for the cross-fund trade, but does not prove that ARK's purchases were caused by the announcement or that AI valuations are sustainable."
+      },
+      {
         "date": "2026-11-16",
         "source": "ARK Latest Trade File",
         "type": "official file",
         "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
         "fact": "November 16 notifications show ARKQ buying KTOS, ACHR, LUNR, and KDK, with ARKX also buying LUNR. This extends the defense, eVTOL, lunar, and autonomous-trucking basket; the unreconciled file does not establish motive, certification, deployment economics, or broad risk appetite."
+      },
+      {
+        "date": "2026-11-19",
+        "source": "Kodiak AI Reports Third Quarter 2026 Results",
+        "type": "official company release",
+        "url": "https://kodiakrobotics.gcs-web.com/news-releases/news-release-details/kodiak-ai-reports-third-quarter-2026-results-secures-landmark",
+        "fact": "Kodiak reported Q3 2026 results on November 5, highlighted a landmark unsupervised autonomous-trucking agreement, and ended the quarter with $113.6 million in cash and marketable securities. The November 19 KDK buy adds a current operating receipt to the autonomy signal, but launch execution, financing, and ARK motive remain unresolved."
       },
       {
         "date": "2026-11-13",
@@ -12975,9 +13029,23 @@
       "category": "fund-flow",
       "score": 83,
       "review": "1M",
-  "oracleView": "11月9日の確認済み通知では、ARKF・ARKK・ARKQ・ARKW・ARKXの5ファンドがNVDAを買い、ARKF・ARKKはSOFIも買った一方、AVGO・TER・TEM・XYZ・ARKB・BLSHなどを売っている。資金はスケールしたAI計算、選択的フィンテック、宇宙防衛へ再配分されているが、Rocket Labの好決算を含めても、単一日の通知から広範なリスクオン、取引動機、評価、商業転換を断定できない。",
+  "oracleView": "11月19日の確認済み通知では、ANTをARKF・ARKG・ARKK・ARKQ・ARKW・ARKXの6ファンドが買い、KDK・TWST・WGSを一部買い増す一方、ETHQ.U・SOLQ.U・NVDAなどを売っている。AnthropicのIPOが新しいAI資本市場の接点になったが、資金は選択的なクロステーマ再配分であり、広範なリスクオン、取引動機、評価、商業転換は断定できない。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+      {
+        "date": "2026-11-19",
+        "source": "ARK Latest Trade File",
+        "type": "official file",
+        "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+        "fact": "The 19-row November 19 file pairs ANT buys across ARKF, ARKG, ARKK, ARKQ, ARKW, and ARKX with KDK/TWST/WGS adds and ETHQ.U, SOLQ.U, NVDA, LLY, ADPT, CDNA, HEI, and GRMN reductions. It is a selective cross-theme reallocation around a newly public AI issuer, not evidence of broad risk-on behavior or known ARK motive."
+      },
+      {
+        "date": "2026-11-18",
+        "source": "Anthropic prices initial public offering",
+        "type": "official company release",
+        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "fact": "Anthropic said its IPO was priced at $83 per share and that the shares would begin trading under ANT on November 19. The event supplies a market-transmission anchor for the cross-fund trade, but does not prove that ARK's purchases were caused by the announcement or that AI valuations are sustainable."
+      },
       {
         "date": "2026-11-16",
         "source": "ARK Latest Trade File",
