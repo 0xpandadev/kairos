@@ -931,7 +931,7 @@ const state = {
   filter: "all",
   language: localStorage.getItem("kairosLanguage") || "ja",
   moments: kairosMoments,
-  selectedBrief: "2026-W46"
+  selectedBrief: "2026-W48"
 };
 
 const translations = {
@@ -1482,6 +1482,29 @@ weeklyBriefs[0] = {
   futureReceipt:
     "1M: ARK rotation persistence. 3M: agent-led traffic and service-margin evidence. 6M: defense autonomy contracts and rerating."
 };
+
+weeklyBriefs.unshift({
+  id: "2026-W48",
+  title: "KAIROS Weekly 2026-W48",
+  dateRange: "2026-11-16 to 2026-11-22",
+  status: "frozen 2026-11-23",
+  thesis:
+    "The W48 tape did not show a broad risk-on reset. It showed selective substitution: ARK repeatedly added Anthropic, and added Cerebras, CoreWeave and SpaceX across funds, while trimming NVIDIA, PLTR, crypto wrappers, software and selected genomics names. The useful question is where AI capital can become distribution, capacity and deployment receipts.",
+  moments: ["ARK Risk-on Rebuild", "Compute to Power Bottleneck", "Defense Autonomy"],
+  capitalFlow:
+    "The current fact base contains 97 official notification rows dated Nov. 16, Nov. 19 and Nov. 20: 46 buys and 51 sells. Anthropic (ANT) was bought 12 times across ARKF, ARKG, ARKK, ARKQ, ARKW and ARKX. CBRS, CRWV and SPCX were each bought across ARKK and ARKW; TWST, AMD, KDK, SHOP and XYZ were also added. NVDA was sold five times, while PLTR, ETHQ.U, SOLQ.U, BLSH and selected software and genomics names supplied visible funding-side sells. Full weekly dollar net flow is unverified.",
+  mapRead:
+    "The market map is moving one layer downstream: from owning incumbent compute and liquid crypto exposure toward model distribution, inference capacity, space deployment and selected data workflows. The hidden constraint is not narrative breadth but whether these surfaces produce customers, utilization, contracts, tests and cash conversion.",
+  watchNext: [
+    "ANT exposure and any public or fund-level evidence of model distribution and monetization",
+    "CBRS and CRWV capacity, customer conversion, utilization and margin receipts",
+    "SPCX, KDK, LUNR, ACHR and KTOS deployment, contract and production evidence",
+    "TWST, SCTX and selected genomics persistence versus GH, ADPT, CDNA and TEM trims",
+    "whether NVDA, PLTR, ETHQ.U, SOLQ.U and BLSH remain the funding sleeve"
+  ],
+  futureReceipt:
+    "1M: check persistence of ANT, CBRS, CRWV, SPCX and TWST in the same funds and compare with operating updates. 3M: test model distribution, compute utilization, space or autonomy contracts and genomics adoption. 6M: determine whether this is repeatable receipt-seeking allocation or temporary fund rebalancing."
+});
 
 weeklyBriefs.unshift({
   id: "2026-W47",
