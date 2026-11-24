@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,16 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKF","ticker":"ETHQ.U","action":"Sell","sizeValue":"48909 shares","weightChange":"0.0394% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Ether Staking ETF on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKF","ticker":"SOLQ.U","action":"Sell","sizeValue":"34098 shares","weightChange":"0.0245% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Solana Staking ETF on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKK","ticker":"CRSP","action":"Buy","sizeValue":"102828 shares","weightChange":"0.0253% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of CRISPR Therapeutics AG on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKK","ticker":"BEAM","action":"Buy","sizeValue":"127648 shares","weightChange":"0.0165% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Beam Therapeutics Inc. on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKK","ticker":"RXRX","action":"Buy","sizeValue":"1586642 shares","weightChange":"0.0242% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Recursion Pharmaceuticals, Inc. on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKK","ticker":"WGS","action":"Buy","sizeValue":"50006 shares","weightChange":"0.0143% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of GeneDx Holdings Corp. on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKQ","ticker":"KDK","action":"Buy","sizeValue":"345891 shares","weightChange":"0.0092% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Kodiak AI Inc on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKQ","ticker":"BYDDY","action":"Sell","sizeValue":"6055 shares","weightChange":"0.0013% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of BYD Company Limited on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKW","ticker":"ETHQ.U","action":"Sell","sizeValue":"101091 shares","weightChange":"0.0144% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Ether Staking ETF on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-23","manager":"ARK","vehicle":"ARKW","ticker":"SOLQ.U","action":"Sell","sizeValue":"40902 shares","weightChange":"0.0052% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Solana Staking ETF on 2026-11-23. Notifications are unreconciled and do not cover all fund activity."},
 {"date":"2026-11-20","manager":"ARK","vehicle":"ARKF","ticker":"ANT","action":"Buy","sizeValue":"19484 shares","weightChange":"0.1771% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-20. Notifications are unreconciled and do not cover all fund activity."},
 {"date":"2026-11-20","manager":"ARK","vehicle":"ARKF","ticker":"ETHQ.U","action":"Sell","sizeValue":"129250 shares","weightChange":"0.0842% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Ether Staking ETF on 2026-11-20. Notifications are unreconciled and do not cover all fund activity."},
 {"date":"2026-11-20","manager":"ARK","vehicle":"ARKF","ticker":"SOLQ.U","action":"Sell","sizeValue":"69959 shares","weightChange":"0.0407% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Solana Staking ETF on 2026-11-20. Notifications are unreconciled and do not cover all fund activity."},
@@ -12282,6 +12292,13 @@
           "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
           "fact": "November 20 notifications show ANT buys in ARKF, ARKG, ARKK, ARKQ, ARKW, and ARKX, alongside ARKK/ARKW buys of Cerebras and CoreWeave, ARKK/ARKW AMD buys, and selected NVDA/AVGO/TSM sells. The tape keeps the AI signal focused on selective public-capital access and inference infrastructure rather than a uniform increase in AI risk; the unreconciled file does not establish motive or dollar net flow."
         },
+        {
+          "date": "2026-11-23",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "November 23 notifications shifted the visible basket toward genomics and gene-editing exposure: ARKK bought CRSP, BEAM, RXRX, and WGS, while ARKF/ARKW sold ETHQ.U and SOLQ.U. The rows are a small, selective rotation rather than proof of a broad biotech or crypto view, and the unreconciled file does not establish motive or net flow."
+        },
       {
         "date": "2026-11-19",
         "source": "Anthropic IPO prospectus",
@@ -13104,6 +13121,20 @@
           "type": "official file",
           "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
           "fact": "The 45-row November 20 file extends ANT buys across ARKF, ARKG, ARKK, ARKQ, ARKW, and ARKX, while ARKK/ARKW added CBRS, CRWV and SPCX, ARKK/ARKW added AMD, and ARKW sold NVDA, AVGO, NET, CRWD, DDOG, RBLX and PLTR. The observed basket is selective cross-theme reallocation around a newly public AI issuer and inference/space exposure, not proof of broad risk-on behavior, motive, valuation support, or causality."
+        },
+        {
+          "date": "2026-11-23",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "The November 23 file added four ARKK biotech/precision-medicine names (CRSP, BEAM, RXRX, and WGS), a small ARKQ KDK buy, and crypto ETF reductions in ARKF/ARKW. Recursion's November 18 FDA alignment for a planned REC-4881 Phase 3 design gives the RXRX row a current operating/regulatory receipt, but does not prove ARK motive, clinical success, valuation, or broad risk appetite."
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Recursion Announces Alignment with FDA on Registrational Phase 3 Trial Design for REC-4881",
+          "type": "official company release",
+          "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-announces-alignment-fda-registrational-phase-3-trial",
+          "fact": "Recursion said it aligned with the FDA on a randomized Phase 3 design for REC-4881 in familial adenomatous polyposis, targeting about 200 adults and a second-half 2027 start. The company also stated that the alignment does not ensure trial success or regulatory approval; it is an operating receipt for the RXRX signal, not proof of commercial conversion."
         },
       {
         "date": "2026-11-19",
