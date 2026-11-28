@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-27",
   "product": "KAIROS",
   "tagline": "The moment before consensus.",
   "watchUniverse": [
@@ -68,6 +68,19 @@
     }
   ],
   "capitalActions": [
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKG","ticker":"TWST","action":"Buy","sizeValue":"1284 shares","weightChange":"0.0089% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKG buy of Twist Bioscience Corporation on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKG","ticker":"BEAM","action":"Buy","sizeValue":"206 shares","weightChange":"0.0003% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKG buy of Beam Therapeutics Inc. on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKG","ticker":"ARCT","action":"Buy","sizeValue":"6538 shares","weightChange":"0.0036% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKG buy of Arcturus Therapeutics Holdings Inc on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"CRSP","action":"Buy","sizeValue":"35772 shares","weightChange":"0.0272% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK buy of CRISPR Therapeutics AG on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"TWST","action":"Buy","sizeValue":"24873 shares","weightChange":"0.0484% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK buy of Twist Bioscience Corporation on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"BEAM","action":"Buy","sizeValue":"8213 shares","weightChange":"0.0035% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK buy of Beam Therapeutics Inc. on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"RXRX","action":"Buy","sizeValue":"115086 shares","weightChange":"0.0056% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK buy of Recursion Pharmaceuticals, Inc. on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"TEM","action":"Buy","sizeValue":"10114 shares","weightChange":"0.0102% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK buy of Tempus AI, Inc. on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"SPCX","action":"Buy","sizeValue":"70601 shares","weightChange":"0.1685% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK buy of Space Exploration Technologies Corp on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"NTRA","action":"Buy","sizeValue":"1857 shares","weightChange":"0.0101% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK buy of Natera, Inc. on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"ILMN","action":"Sell","sizeValue":"93123 shares","weightChange":"0.3419% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK sell of Illumina, Inc. on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKK","ticker":"SHOP","action":"Sell","sizeValue":"39123 shares","weightChange":"0.1001% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKK sell of Shopify Inc. on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
+    {"date":"2026-11-27","manager":"ARK","vehicle":"ARKQ","ticker":"BYDDY","action":"Sell","sizeValue":"296 shares","weightChange":"0.0002% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists ARKQ sell of BYD Company Limited on 2026-11-27. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-25","manager":"ARK","vehicle":"ARKF","ticker":"ANT","action":"Buy","sizeValue":"12345 shares","weightChange":"0.1198% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists buy of Anthropic, PBC on 2026-11-25. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-25","manager":"ARK","vehicle":"ARKF","ticker":"ETHQ.U","action":"Sell","sizeValue":"12509 shares","weightChange":"0.01% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Ether Staking ETF on 2026-11-25. Notifications are unreconciled and do not cover all fund activity."},
     {"date":"2026-11-25","manager":"ARK","vehicle":"ARKF","ticker":"SOLQ.U","action":"Sell","sizeValue":"15541 shares","weightChange":"0.0109% ETF","source":"ARK Latest Trade File","sourceType":"official file","url":"https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls","note":"Official notification lists sell of 3iQ Solana Staking ETF on 2026-11-25. Notifications are unreconciled and do not cover all fund activity."},
@@ -12308,6 +12321,13 @@
         "watchlist": ["NVDA", "AVGO", "TSM", "ASML", "TER", "CBRS", "CRWV", "XE", "OKLO", "VRT", "ETN", "GEV", "CEG", "VST", "BE", "SMR", "CORZ", "IREN", "APLD", "KKR", "APO", "BX"],
         "evidence": [
         {
+          "date": "2026-11-27",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "November 27 notifications continued the selective precision-medicine basket: ARKG and ARKK added TWST, BEAM, and ARCT, while ARKK added CRSP, RXRX, TEM, and NTRA. ARKK also bought SPCX and sold ILMN and SHOP. The file extends selective capital reallocation rather than proving broad biotech, space, or risk-on conviction; ARK's trade notifications remain unreconciled and incomplete."
+        },
+        {
           "date": "2026-11-25",
           "source": "ARK Latest Trade File",
           "type": "official file",
@@ -13144,6 +13164,13 @@
   "oracleView": "11月20日の確認済み通知では、ANTをARKF・ARKG・ARKK・ARKQ・ARKW・ARKXの6ファンドが買い、ARKK・ARKWではCBRS・CRWV・SPCX、ARKK・ARKWではAMDも買い増す一方、NVDA・AVGO・NET・CRWDなどを一部売っている。AnthropicのIPO完了と同時期の資金移動は新しいAI資本市場の接点を示すが、選択的な再配分であり、広範なリスクオン、取引動機、評価、商業転換は断定できない。",
   "watchlist": ["ABNB", "PLTR", "HOOD", "CRCL", "COIN", "FUTU", "TSLA", "WGS", "KTOS", "NVDA", "GOOG", "GOOGL", "META", "AVGO", "BABA", "BIDU", "DASH", "AMZN", "BWXT", "XE", "OKLO", "LUNR", "PACB", "IAM", "PONY", "KDK", "SYM", "CRWV", "TOST", "TEM", "CRSP", "GH", "BEAM", "CMPS", "KYMR", "NRIX", "ALMR", "NTLA", "SCTX", "FRNM", "VCYT", "NTRA", "TSM", "AMD", "TER", "TWST", "CDNA", "ADPT", "BLSH", "CBRS", "ACHR", "NET", "SNOW", "LLY", "XYZ", "RBLX", "SPCX", "RKLB", "SOLQ.U"],
         "evidence": [
+        {
+          "date": "2026-11-27",
+          "source": "ARK Latest Trade File",
+          "type": "official file",
+          "url": "https://etfs.ark-funds.com/hubfs/idt/trades/ARK_Trades.xls",
+          "fact": "The November 27 file added 13 rows: ARKK bought 70,601 SPCX shares and continued adding CRSP, TWST, BEAM, RXRX, TEM, and NTRA; ARKG added TWST, ARCT, and BEAM; ARKK sold ILMN and SHOP, while ARKQ sold a small BYDDY position. This is a selective cross-theme rotation around space and precision medicine, not proof of broad risk-on behavior, motive, valuation support, or causality."
+        },
         {
           "date": "2026-11-25",
           "source": "ARK Latest Trade File",
